@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="zh-TW" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>台灣 591 房屋交易篩選儀表板</title>
+  <!-- Google Fonts: Inter & Outfit -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <!-- FontAwesome for Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="stylesheet" href="index.css">
+</head>
+<body>
+  <div class="app-container">
+    <!-- Header -->
+    <header class="app-header">
+      <div class="header-content">
+        <div class="logo-area">
+          <div class="logo-icon"><i class="fa-solid fa-house-chimney-crack"></i></div>
+          <div>
+            <h1>591 售屋觀測站</h1>
+            <p class="subtitle">台灣中古屋交易數據篩選儀表板</p>
+          </div>
+        </div>
+        <div class="header-actions">
+          <button id="theme-toggle" class="theme-btn" aria-label="切換主題">
+            <i class="fa-solid fa-moon dark-icon"></i>
+            <i class="fa-solid fa-sun light-icon"></i>
+          </button>
+          <button id="refresh-btn" class="refresh-btn">
+            <i class="fa-solid fa-rotate"></i> 重新載入
+          </button>
+        </div>
+      </div>
+    </header>
+
+    <!-- Stats Dashboard -->
+    <section class="stats-section">
+      <div class="stat-card" id="stat-total">
+        <div class="stat-icon"><i class="fa-solid fa-list-check"></i></div>
+        <div class="stat-info">
+          <span class="stat-label">觀測物件總數</span>
+          <span class="stat-value">--</span>
+        </div>
+      </div>
+      <div class="stat-card" id="stat-avg-price">
+        <div class="stat-icon"><i class="fa-solid fa-money-bill-wave"></i></div>
+        <div class="stat-info">
+          <span class="stat-label">平均總價 (萬)</span>
+          <span class="stat-value">--</span>
+        </div>
+      </div>
+      <div class="stat-card" id="stat-avg-unit">
+        <div class="stat-icon"><i class="fa-solid fa-chart-area"></i></div>
+        <div class="stat-info">
+          <span class="stat-label">平均單價 (萬/坪)</span>
+          <span class="stat-value">--</span>
+        </div>
+      </div>
+      <div class="stat-card" id="stat-cheapest">
+        <div class="stat-icon"><i class="fa-solid fa-tags"></i></div>
+        <div class="stat-info">
+          <span class="stat-label">最低門檻總價</span>
+          <span class="stat-value">--</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- Main Content Area -->
+    <main class="main-content">
+      <!-- Filter Sidebar -->
+      <aside class="filter-sidebar">
+        <div class="sidebar-header">
+          <h2><i class="fa-solid fa-sliders"></i> 篩選條件</h2>
+          <button id="reset-filters" class="reset-btn-link">清除條件</button>
+        </div>
+        
+        <div class="filter-group">
+          <label for="filter-search">關鍵字搜尋</label>
+          <div class="search-input-wrapper">
+            <i class="fa-solid fa-magnifying-glass search-icon"></i>
+            <input type="text" id="filter-search" placeholder="搜尋標題、社區、地址...">
+          </div>
+        </div>
+
+        <div class="filter-row-2">
+          <div class="filter-group">
+            <label for="filter-region">縣市地區</label>
+            <select id="filter-region">
+              <option value="">全部縣市</option>
+              <option value="台北市">台北市</option>
+              <option value="新北市">新北市</option>
+              <option value="桃園市">桃園市</option>
+              <option value="台中市">台中市</option>
+            </select>
+          </div>
+          
+          <div class="filter-group">
+            <label for="filter-section">行政區</label>
+            <select id="filter-section" disabled>
+              <option value="">全部行政區</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="filter-group">
+          <label>總價範圍 (萬 TWD)</label>
+          <div class="range-inputs">
+            <input type="number" id="filter-price-min" placeholder="最低" min="0">
+            <span class="range-split">至</span>
+            <input type="number" id="filter-price-max" placeholder="最高" min="0">
+          </div>
+          <div class="quick-tags">
+            <button class="quick-tag-btn" data-type="price" data-min="0" data-max="1000">1000萬以下</button>
+            <button class="quick-tag-btn" data-type="price" data-min="1000" data-max="2000">1000-2000萬</button>
+            <button class="quick-tag-btn" data-type="price" data-min="2000" data-max="3000">2000-3000萬</button>
+            <button class="quick-tag-btn" data-type="price" data-min="3000" data-max="5000">3000-5000萬</button>
+          </div>
+        </div>
+
+        <div class="filter-group">
+          <label>建坪範圍 (坪)</label>
+          <div class="range-inputs">
+            <input type="number" id="filter-area-min" placeholder="最低" min="0">
+            <span class="range-split">至</span>
+            <input type="number" id="filter-area-max" placeholder="最高" min="0">
+          </div>
+          <div class="quick-tags">
+            <button class="quick-tag-btn" data-type="area" data-min="0" data-max="20">20坪以下</button>
+            <button class="quick-tag-btn" data-type="area" data-min="20" data-max="40">20-40坪</button>
+            <button class="quick-tag-btn" data-type="area" data-min="40" data-max="60">40-60坪</button>
+            <button class="quick-tag-btn" data-type="area" data-min="60" data-max="999">60坪以上</button>
+          </div>
+        </div>
+
+        <div class="filter-group">
+          <label for="filter-type">房屋類型</label>
+          <select id="filter-type">
+            <option value="">全部類型</option>
+            <option value="電梯大樓">電梯大樓/華廈</option>
+            <option value="公寓">公寓</option>
+            <option value="別墅">別墅/透天</option>
+            <option value="住宅">其他住宅</option>
+          </select>
+        </div>
+
+        <div class="filter-group">
+          <label for="filter-rooms">格局房數</label>
+          <select id="filter-rooms">
+            <option value="">全部格局</option>
+            <option value="1房">1 房</option>
+            <option value="2房">2 房</option>
+            <option value="3房">3 房</option>
+            <option value="4房">4 房及以上</option>
+          </select>
+        </div>
+
+        <div class="filter-group">
+          <label for="filter-sort">資料排序</label>
+          <select id="filter-sort">
+            <option value="default">預設排序</option>
+            <option value="price-asc">總價：由低到高</option>
+            <option value="price-desc">總價：由高到低</option>
+            <option value="area-asc">坪數：由小到大</option>
+            <option value="area-desc">坪數：由大到小</option>
+            <option value="age-asc">屋齡：由輕到老</option>
+          </select>
+        </div>
+      </aside>
+
+      <!-- Listings Section -->
+      <section class="listings-container">
+        <div class="listings-header">
+          <div class="results-count">
+            已篩選出 <span id="filtered-count">0</span> 筆物件
+          </div>
+          <div class="active-filters-chips" id="active-chips">
+            <!-- Chips will be added dynamically -->
+          </div>
+        </div>
+
+        <div class="listings-grid" id="listings-grid">
+          <!-- Skeleton items display while loading -->
+          <div class="skeleton-card"></div>
+          <div class="skeleton-card"></div>
+          <div class="skeleton-card"></div>
+          <div class="skeleton-card"></div>
+          <div class="skeleton-card"></div>
+          <div class="skeleton-card"></div>
+        </div>
+
+        <!-- Empty State -->
+        <div class="empty-state hidden" id="empty-state">
+          <div class="empty-icon"><i class="fa-solid fa-house-circle-xmark"></i></div>
+          <h3>找不到符合條件的物件</h3>
+          <p>請嘗試放寬您的篩選範圍或清除搜尋條件。</p>
+          <button id="empty-reset-btn" class="primary-btn">重設所有篩選</button>
+        </div>
+      </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="app-footer">
+      <p>© 2026 591 售屋觀測站. 本專案僅供學術交流與學習練習使用，所有資料財產權歸 591 房屋交易網所有。</p>
+      <p>Data synced: <span id="sync-time">Just now</span></p>
+    </footer>
+  </div>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
