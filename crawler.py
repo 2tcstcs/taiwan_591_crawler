@@ -200,7 +200,7 @@ def main():
                         'age': age_num,       # 單位：年
                         'address': item.get('address') or '',
                         'photo': photo or '',
-                        'url': f'https://house.591.com.tw/sale-detail-{house_id}.html',
+                        'url': f'https://sale.591.com.tw/home/house/detail/2/{house_id}.html',
                         'posttime': item.get('posttime'),
                         'refreshtime': item.get('refreshtime'),
                         'last_seen': int(time.time())

@@ -13,7 +13,7 @@ window.crawledData = [
     "age": 45,
     "address": "新生北路三段",
     "photo": "https://img2.591.com.tw/house/2026/02/04/177017987365365108.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19987205.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19987205.html",
     "posttime": 1775504092,
     "refreshtime": "31分鐘前",
     "last_seen": 1779379238
@@ -32,7 +32,7 @@ window.crawledData = [
     "age": 48,
     "address": "大東路",
     "photo": "https://img1.591.com.tw/house/2026/03/20/177399309706139607.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19884420.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19884420.html",
     "posttime": 1773991181,
     "refreshtime": "42分鐘前",
     "last_seen": 1779379289
@@ -51,7 +51,7 @@ window.crawledData = [
     "age": 43,
     "address": "民生東路五段",
     "photo": "https://img1.591.com.tw/house/2026/04/06/177546348872542304.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19924466.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19924466.html",
     "posttime": 1774577088,
     "refreshtime": "46分鐘前",
     "last_seen": 1779379512
@@ -70,7 +70,7 @@ window.crawledData = [
     "age": 10,
     "address": "康定路",
     "photo": "https://img2.591.com.tw/house/2026/03/30/177483490165072004.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19939594.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19939594.html",
     "posttime": 1774840338,
     "refreshtime": "44分鐘前",
     "last_seen": 1779379391
@@ -89,7 +89,7 @@ window.crawledData = [
     "age": 53,
     "address": "和平西路三段",
     "photo": "https://img1.591.com.tw/house/2026/04/16/177630922858343108.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19985869.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19985869.html",
     "posttime": 1775467233,
     "refreshtime": "42分鐘前",
     "last_seen": 1779379281
@@ -108,7 +108,7 @@ window.crawledData = [
     "age": 44,
     "address": "珠海路",
     "photo": "https://img1.591.com.tw/house/2026/02/11/177080654524699003.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20122763.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20122763.html",
     "posttime": 1777599709,
     "refreshtime": "14分鐘前",
     "last_seen": 1779379391
@@ -127,7 +127,7 @@ window.crawledData = [
     "age": 42,
     "address": "大安路一段16巷",
     "photo": "https://img2.591.com.tw/house/2026/03/23/177425699745359204.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19902574.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19902574.html",
     "posttime": 1774257063,
     "refreshtime": "41分鐘前",
     "last_seen": 1779379242
@@ -146,7 +146,7 @@ window.crawledData = [
     "age": 58,
     "address": "富錦街",
     "photo": "https://img1.591.com.tw/house/2026/04/06/177544385796728605.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19982680.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19982680.html",
     "posttime": 1775444438,
     "refreshtime": "44分鐘前",
     "last_seen": 1779379405
@@ -165,7 +165,7 @@ window.crawledData = [
     "age": 48,
     "address": "南京東路一段132巷",
     "photo": "https://img1.591.com.tw/house/2026/04/08/177562956482643602.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19997575.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19997575.html",
     "posttime": 1775629391,
     "refreshtime": "43分鐘前",
     "last_seen": 1779379340
@@ -184,7 +184,7 @@ window.crawledData = [
     "age": 16,
     "address": "福興路106巷",
     "photo": "https://img1.591.com.tw/house/2026/04/30/177752004613148300.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20008692.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20008692.html",
     "posttime": 1775789643,
     "refreshtime": "41分鐘前",
     "last_seen": 1779379247
@@ -203,7 +203,7 @@ window.crawledData = [
     "age": 22,
     "address": "堤頂大道二段",
     "photo": "https://img2.591.com.tw/house/2026/03/20/177399604374189801.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19878738.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19878738.html",
     "posttime": 1773996415,
     "refreshtime": "46分鐘前",
     "last_seen": 1779379525
@@ -222,7 +222,7 @@ window.crawledData = [
     "age": 36,
     "address": "知行路",
     "photo": "https://img2.591.com.tw/house/2026/03/29/177475215292298706.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19935960.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19935960.html",
     "posttime": 1774752184,
     "refreshtime": "45分鐘前",
     "last_seen": 1779379482
@@ -241,7 +241,7 @@ window.crawledData = [
     "age": 17,
     "address": "幽雅路",
     "photo": "https://img1.591.com.tw/house/2026/05/10/177837591604316409.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19973184.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19973184.html",
     "posttime": 1775262696,
     "refreshtime": "43分鐘前",
     "last_seen": 1779379376
@@ -260,7 +260,7 @@ window.crawledData = [
     "age": 42,
     "address": "八德路二段346巷",
     "photo": "https://img1.591.com.tw/house/2026/01/19/176882508150637100.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19933401.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19933401.html",
     "posttime": 1774683132,
     "refreshtime": "45分鐘前",
     "last_seen": 1779379482
@@ -279,7 +279,7 @@ window.crawledData = [
     "age": 26,
     "address": "民權東路六段123巷",
     "photo": "https://img1.591.com.tw/house/2026/04/03/177519757688232505.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19969551.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19969551.html",
     "posttime": 1775199126,
     "refreshtime": "42分鐘前",
     "last_seen": 1779379305
@@ -298,7 +298,7 @@ window.crawledData = [
     "age": 45,
     "address": "新生南路一段",
     "photo": "https://img1.591.com.tw/house/2025/12/01/176457737402308908.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19986319.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19986319.html",
     "posttime": 1775472481,
     "refreshtime": "41分鐘前",
     "last_seen": 1779379251
@@ -317,7 +317,7 @@ window.crawledData = [
     "age": 54,
     "address": "格致路50巷",
     "photo": "https://img1.591.com.tw/house/2024/07/09/172051502688092506.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20007485.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20007485.html",
     "posttime": 1775742470,
     "refreshtime": "41分鐘前",
     "last_seen": 1779379251
@@ -336,7 +336,7 @@ window.crawledData = [
     "age": 44,
     "address": "景興路153巷",
     "photo": "https://img2.591.com.tw/house/2026/04/18/177649716603910301.jpg!fit.1000x.water2.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20052495.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20052495.html",
     "posttime": 1776496756,
     "refreshtime": "14分鐘前",
     "last_seen": 1779379423
@@ -355,7 +355,7 @@ window.crawledData = [
     "age": 34,
     "address": "忠義街",
     "photo": "https://img1.591.com.tw/house/2025/09/19/175829207824851106.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20221333.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20221333.html",
     "posttime": 1779006294,
     "refreshtime": "41分鐘前",
     "last_seen": 1779379530
@@ -374,7 +374,7 @@ window.crawledData = [
     "age": 39,
     "address": "康樂街186巷",
     "photo": "https://img2.591.com.tw/house/2025/05/15/174728929035439805.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19905741.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19905741.html",
     "posttime": 1774321113,
     "refreshtime": "41分鐘前",
     "last_seen": 1779379257
@@ -393,7 +393,7 @@ window.crawledData = [
     "age": 36,
     "address": "忠孝東路四段",
     "photo": "https://img2.591.com.tw/house/2024/04/01/171194913800050309.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19933389.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19933389.html",
     "posttime": 1774683066,
     "refreshtime": "5分鐘前",
     "last_seen": 1779379763
@@ -412,7 +412,7 @@ window.crawledData = [
     "age": 42,
     "address": "復興北路",
     "photo": "https://img2.591.com.tw/house/2026/04/24/177703299594397909.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20089054.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20089054.html",
     "posttime": 1777031392,
     "refreshtime": "3分鐘前",
     "last_seen": 1779379372
@@ -431,7 +431,7 @@ window.crawledData = [
     "age": 40,
     "address": "內江街55巷",
     "photo": "https://img2.591.com.tw/house/2026/05/19/177916505450634900.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20231967.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20231967.html",
     "posttime": 1779165156,
     "refreshtime": "2分鐘前",
     "last_seen": 1779379277
@@ -450,7 +450,7 @@ window.crawledData = [
     "age": 17,
     "address": "基隆路二段",
     "photo": "https://img1.591.com.tw/house/2026/05/21/177935552625482400.jpg!fit.1000x.water2.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20242994.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20242994.html",
     "posttime": 1779328359,
     "refreshtime": "35分鐘前",
     "last_seen": 1779379461
@@ -469,7 +469,7 @@ window.crawledData = [
     "age": 29,
     "address": "至善路二段",
     "photo": "https://img2.591.com.tw/house/2025/12/29/176698191235934907.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19852413.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19852413.html",
     "posttime": 1773575345,
     "refreshtime": "41分鐘前",
     "last_seen": 1779379266
@@ -488,7 +488,7 @@ window.crawledData = [
     "age": 48,
     "address": "林森北路383巷",
     "photo": "https://img1.591.com.tw/house/2026/04/12/177596786261417906.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19903351.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19903351.html",
     "posttime": 1774261935,
     "refreshtime": "5分鐘前",
     "last_seen": 1779379767
@@ -507,7 +507,7 @@ window.crawledData = [
     "age": 38,
     "address": "安和路一段",
     "photo": "https://img2.591.com.tw/house/2026/05/06/177803823677438602.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19915732.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19915732.html",
     "posttime": 1774428511,
     "refreshtime": "5分鐘前",
     "last_seen": 1779379767
@@ -526,7 +526,7 @@ window.crawledData = [
     "age": 52,
     "address": "錦州街",
     "photo": "https://img2.591.com.tw/house/2026/04/03/177518146088197905.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19944857.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19944857.html",
     "posttime": 1775181531,
     "refreshtime": "42分鐘前",
     "last_seen": 1779379271
@@ -545,7 +545,7 @@ window.crawledData = [
     "age": 36,
     "address": "民權西路",
     "photo": "https://img1.591.com.tw/house/2026/04/04/177531754365209507.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19977850.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19977850.html",
     "posttime": 1775317724,
     "refreshtime": "42分鐘前",
     "last_seen": 1779379271
@@ -564,7 +564,7 @@ window.crawledData = [
     "age": 33,
     "address": "忠誠路一段147巷",
     "photo": "https://img2.591.com.tw/house/2026/04/06/177546748576521007.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19986416.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19986416.html",
     "posttime": 1775537333,
     "refreshtime": "43分鐘前",
     "last_seen": 1779379365
@@ -583,7 +583,7 @@ window.crawledData = [
     "age": 40,
     "address": "新生北路二段",
     "photo": "https://img2.591.com.tw/house/2026/04/07/177550539524449500.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19987208.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19987208.html",
     "posttime": 1775505653,
     "refreshtime": "36分鐘前",
     "last_seen": 1779379530
@@ -602,7 +602,7 @@ window.crawledData = [
     "age": 28,
     "address": "康樂街136巷",
     "photo": "https://img2.591.com.tw/house/2026/03/01/177234893770568706.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19929672.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19929672.html",
     "posttime": 1774608249,
     "refreshtime": "44分鐘前",
     "last_seen": 1779379387
@@ -621,7 +621,7 @@ window.crawledData = [
     "age": 46,
     "address": "中和街502巷",
     "photo": "https://img1.591.com.tw/house/2026/05/11/177842972490396904.png!400x300.png",
-    "url": "https://house.591.com.tw/sale-detail-20179642.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20179642.html",
     "posttime": 1778429876,
     "refreshtime": "13分鐘前",
     "last_seen": 1779379340
@@ -640,7 +640,7 @@ window.crawledData = [
     "age": 24,
     "address": "福興路95巷",
     "photo": "https://img2.591.com.tw/house/2025/04/21/174520692845644701.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20147524.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20147524.html",
     "posttime": 1777963686,
     "refreshtime": "21分鐘前",
     "last_seen": 1779379518
@@ -659,7 +659,7 @@ window.crawledData = [
     "age": 47,
     "address": "福德街268巷",
     "photo": "https://img2.591.com.tw/house/2025/06/21/175052102981082804.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20082636.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20082636.html",
     "posttime": 1776945136,
     "refreshtime": "24分鐘前",
     "last_seen": 1779379446
@@ -678,7 +678,7 @@ window.crawledData = [
     "age": 43,
     "address": "國興路1巷",
     "photo": "https://img1.591.com.tw/house/2025/11/22/176378535899910007.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19987165.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19987165.html",
     "posttime": 1775494031,
     "refreshtime": "43分鐘前",
     "last_seen": 1779379356
@@ -697,7 +697,7 @@ window.crawledData = [
     "age": 14,
     "address": "漢口街二段",
     "photo": "https://img1.591.com.tw/house/2026/04/19/177657483314285701.jpg!fit.1000x.water2.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20038705.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20038705.html",
     "posttime": 1776221532,
     "refreshtime": "17分鐘前",
     "last_seen": 1779379289
@@ -716,7 +716,7 @@ window.crawledData = [
     "age": 45,
     "address": "德行東路109巷",
     "photo": "https://img1.591.com.tw/house/2026/03/11/177320960678389101.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20221291.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20221291.html",
     "posttime": 1779005868,
     "refreshtime": "32分鐘前",
     "last_seen": 1779379289
@@ -735,7 +735,7 @@ window.crawledData = [
     "age": 50,
     "address": "昆陽街140巷",
     "photo": "https://img1.591.com.tw/video/cover/2026-02-19/2957644.png!1000x.water2.png",
-    "url": "https://house.591.com.tw/sale-detail-19569706.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19569706.html",
     "posttime": 1769056722,
     "refreshtime": "43分鐘前",
     "last_seen": 1779379356
@@ -754,7 +754,7 @@ window.crawledData = [
     "age": 48,
     "address": "延吉街126巷",
     "photo": "https://img2.591.com.tw/house/2025/10/27/176153648875958101.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19897952.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19897952.html",
     "posttime": 1774233197,
     "refreshtime": "45分鐘前",
     "last_seen": 1779379501
@@ -773,7 +773,7 @@ window.crawledData = [
     "age": 59,
     "address": "八德路二段",
     "photo": "https://img1.591.com.tw/house/2023/05/28/168526159920801007.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20244223.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20244223.html",
     "posttime": 1779335997,
     "refreshtime": "14分鐘前",
     "last_seen": 1779379439
@@ -792,7 +792,7 @@ window.crawledData = [
     "age": 0,
     "address": "內湖路一段",
     "photo": "https://img1.591.com.tw/house/2026/04/20/177666324894228800.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19587863.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19587863.html",
     "posttime": 1769135700,
     "refreshtime": "45分鐘前",
     "last_seen": 1779379491
@@ -811,7 +811,7 @@ window.crawledData = [
     "age": 46,
     "address": "長安東路一段",
     "photo": "https://img1.591.com.tw/house/2026/01/24/176918778985139203.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19931901.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19931901.html",
     "posttime": 1774667769,
     "refreshtime": "44分鐘前",
     "last_seen": 1779379399
@@ -830,7 +830,7 @@ window.crawledData = [
     "age": 49,
     "address": "溫泉路",
     "photo": "https://img.youtube.com/vi/--bIEAqzEaI/hqdefault.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20001090.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20001090.html",
     "posttime": 1775660212,
     "refreshtime": "42分鐘前",
     "last_seen": 1779379297
@@ -849,7 +849,7 @@ window.crawledData = [
     "age": 11,
     "address": "重慶北路三段",
     "photo": "https://img1.591.com.tw/house/2025/12/24/176655853330353106.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20014045.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20014045.html",
     "posttime": 1775819903,
     "refreshtime": "12分鐘前",
     "last_seen": 1779379305
@@ -868,7 +868,7 @@ window.crawledData = [
     "age": 27,
     "address": "金湖路347巷",
     "photo": "https://img2.591.com.tw/house/2025/05/10/174687764370772400.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20150387.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20150387.html",
     "posttime": 1777980717,
     "refreshtime": "16分鐘前",
     "last_seen": 1779379518
@@ -887,7 +887,7 @@ window.crawledData = [
     "age": 41,
     "address": "吳興街350巷",
     "photo": "https://img2.591.com.tw/house/2025/01/25/173779396319527506.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19924058.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19924058.html",
     "posttime": 1774552393,
     "refreshtime": "44分鐘前",
     "last_seen": 1779379432
@@ -906,7 +906,7 @@ window.crawledData = [
     "age": 16,
     "address": "經貿二路157巷",
     "photo": "https://img.youtube.com/vi/c6KEQdDdtzE/hqdefault.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19931501.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19931501.html",
     "posttime": 1774712456,
     "refreshtime": "46分鐘前",
     "last_seen": 1779379512
@@ -925,7 +925,7 @@ window.crawledData = [
     "age": 40,
     "address": "吳興街284巷",
     "photo": "https://img1.591.com.tw/house/2024/11/26/173256822706283607.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20035483.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20035483.html",
     "posttime": 1776155135,
     "refreshtime": "26分鐘前",
     "last_seen": 1779379525
@@ -944,7 +944,7 @@ window.crawledData = [
     "age": 48,
     "address": "雨聲街42巷",
     "photo": "https://img2.591.com.tw/house/2026/01/16/176852631498382606.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19849318.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19849318.html",
     "posttime": 1773540086,
     "refreshtime": "31分鐘前",
     "last_seen": 1779379530
@@ -963,7 +963,7 @@ window.crawledData = [
     "age": 41,
     "address": "新生南路一段103巷",
     "photo": "https://img1.591.com.tw/video/cover/2025-05-16/2259165.png!1000x.water2.png",
-    "url": "https://house.591.com.tw/sale-detail-19965933.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19965933.html",
     "posttime": 1775132617,
     "refreshtime": "5分鐘前",
     "last_seen": 1779379771
@@ -982,7 +982,7 @@ window.crawledData = [
     "age": 32,
     "address": "通安街",
     "photo": "https://img1.591.com.tw/house/2026/05/19/177916737958931007.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20232178.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20232178.html",
     "posttime": 1779167308,
     "refreshtime": "12分鐘前",
     "last_seen": 1779379325
@@ -1001,7 +1001,7 @@ window.crawledData = [
     "age": 41,
     "address": "中山北路七段51巷",
     "photo": "https://img1.591.com.tw/house/2026/02/05/177027049037257206.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20221300.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20221300.html",
     "posttime": 1779005954,
     "refreshtime": "22分鐘前",
     "last_seen": 1779379325
@@ -1020,7 +1020,7 @@ window.crawledData = [
     "age": 0,
     "address": "",
     "photo": "https://img1.591.com.tw/house/2025/12/03/176474049546363502.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19775084.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19775084.html",
     "posttime": 1772595017,
     "refreshtime": "32分鐘前",
     "last_seen": 1779379325
@@ -1039,7 +1039,7 @@ window.crawledData = [
     "age": 6,
     "address": "中山北路五段",
     "photo": "https://img2.591.com.tw/house/2026/03/09/177304344597950208.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19810821.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19810821.html",
     "posttime": 1773043759,
     "refreshtime": "8分鐘前",
     "last_seen": 1779379334
@@ -1058,7 +1058,7 @@ window.crawledData = [
     "age": 40,
     "address": "忠孝東路五段",
     "photo": "https://img1.591.com.tw/house/2026/03/05/177269021466249908.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20143834.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20143834.html",
     "posttime": 1777900234,
     "refreshtime": "15分鐘前",
     "last_seen": 1779379501
@@ -1077,7 +1077,7 @@ window.crawledData = [
     "age": 46,
     "address": "延平南路157巷",
     "photo": "https://img1.591.com.tw/house/2026/04/14/177616529681207900.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19926634.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19926634.html",
     "posttime": 1774591112,
     "refreshtime": "45分鐘前",
     "last_seen": 1779379461
@@ -1096,7 +1096,7 @@ window.crawledData = [
     "age": 26,
     "address": "瑞光路",
     "photo": "https://img1.591.com.tw/house/2026/05/04/177787843730638408.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19965948.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19965948.html",
     "posttime": 1775132843,
     "refreshtime": "44分鐘前",
     "last_seen": 1779379446
@@ -1115,7 +1115,7 @@ window.crawledData = [
     "age": 20,
     "address": "天祥路",
     "photo": "https://img1.591.com.tw/house/2025/08/25/175610830119149100.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19927333.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19927333.html",
     "posttime": 1774595218,
     "refreshtime": "13分鐘前",
     "last_seen": 1779379340
@@ -1134,7 +1134,7 @@ window.crawledData = [
     "age": 42,
     "address": "復興北路",
     "photo": "https://img2.591.com.tw/house/2026/04/13/177606652990112104.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19965553.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19965553.html",
     "posttime": 1775128653,
     "refreshtime": "38分鐘前",
     "last_seen": 1779379340
@@ -1153,7 +1153,7 @@ window.crawledData = [
     "age": 53,
     "address": "永康街10巷",
     "photo": "https://img2.591.com.tw/house/2026/03/29/177477142294922703.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19937717.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19937717.html",
     "posttime": 1774771456,
     "refreshtime": "19分鐘前",
     "last_seen": 1779379446
@@ -1172,7 +1172,7 @@ window.crawledData = [
     "age": 40,
     "address": "敦化南路二段63巷",
     "photo": "https://img1.591.com.tw/house/2026/05/14/177874318853639300.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20183642.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20183642.html",
     "posttime": 1778481828,
     "refreshtime": "19分鐘前",
     "last_seen": 1779379427
@@ -1191,7 +1191,7 @@ window.crawledData = [
     "age": 47,
     "address": "長春路",
     "photo": "https://img1.591.com.tw/house/2026/01/28/176960012811267104.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19527025.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19527025.html",
     "posttime": 1768217158,
     "refreshtime": "41分鐘前",
     "last_seen": 1779379512
@@ -1210,7 +1210,7 @@ window.crawledData = [
     "age": 39,
     "address": "格致路",
     "photo": "https://img2.591.com.tw/house/2024/02/15/170798395807507408.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20143838.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20143838.html",
     "posttime": 1777900278,
     "refreshtime": "13分鐘前",
     "last_seen": 1779379356
@@ -1229,7 +1229,7 @@ window.crawledData = [
     "age": 28,
     "address": "辛亥路四段77巷",
     "photo": "https://img1.591.com.tw/house/2026/04/30/177753595573098302.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20117629.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20117629.html",
     "posttime": 1777521666,
     "refreshtime": "25分鐘前",
     "last_seen": 1779379457
@@ -1248,7 +1248,7 @@ window.crawledData = [
     "age": 30,
     "address": "忠誠路一段",
     "photo": "https://img1.591.com.tw/house/2026/03/07/177287831253743608.png!400x300.png",
-    "url": "https://house.591.com.tw/sale-detail-19705888.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19705888.html",
     "posttime": 1771650476,
     "refreshtime": "44分鐘前",
     "last_seen": 1779379405
@@ -1267,7 +1267,7 @@ window.crawledData = [
     "age": 11,
     "address": "中山北路七段124巷",
     "photo": "https://img2.591.com.tw/house/2026/04/25/177708562055677905.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20090560.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20090560.html",
     "posttime": 1777086117,
     "refreshtime": "40分鐘前",
     "last_seen": 1779379457
@@ -1286,7 +1286,7 @@ window.crawledData = [
     "age": 17,
     "address": "民權東路六段190巷",
     "photo": "https://img1.591.com.tw/house/2026/03/23/177423616531578806.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19897818.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19897818.html",
     "posttime": 1774236266,
     "refreshtime": "43分鐘前",
     "last_seen": 1779379365
@@ -1305,7 +1305,7 @@ window.crawledData = [
     "age": 32,
     "address": "大湖山莊街23巷",
     "photo": "https://img1.591.com.tw/house/2025/11/27/176424700895789801.png!400x300.png",
-    "url": "https://house.591.com.tw/sale-detail-19929737.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19929737.html",
     "posttime": 1774608843,
     "refreshtime": "44分鐘前",
     "last_seen": 1779379391
@@ -1324,7 +1324,7 @@ window.crawledData = [
     "age": 40,
     "address": "芝玉路一段197巷",
     "photo": "https://img1.591.com.tw/house/2025/12/27/176683807229955806.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20235621.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20235621.html",
     "posttime": 1779189214,
     "refreshtime": "24分鐘前",
     "last_seen": 1779379439
@@ -1343,7 +1343,7 @@ window.crawledData = [
     "age": 0,
     "address": "",
     "photo": "https://img.youtube.com/vi/wGN6QgpSWQI/hqdefault.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19173671.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19173671.html",
     "posttime": 1762931903,
     "refreshtime": "44分鐘前",
     "last_seen": 1779379399
@@ -1362,7 +1362,7 @@ window.crawledData = [
     "age": 13,
     "address": "興中路28巷",
     "photo": "https://img.youtube.com/vi/-4cHIOamCJQ/hqdefault.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19617721.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19617721.html",
     "posttime": 1769600063,
     "refreshtime": "45分鐘前",
     "last_seen": 1779379482
@@ -1381,7 +1381,7 @@ window.crawledData = [
     "age": 52,
     "address": "新東街12巷",
     "photo": "https://img.youtube.com/vi/t8F5KG_dW_Q/hqdefault.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20071545.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20071545.html",
     "posttime": 1776759298,
     "refreshtime": "24分鐘前",
     "last_seen": 1779379446
@@ -1400,7 +1400,7 @@ window.crawledData = [
     "age": 0,
     "address": "環河北路一段",
     "photo": "https://img2.591.com.tw/house/2026/04/10/177581491721369003.png!400x300.png",
-    "url": "https://house.591.com.tw/sale-detail-19950336.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19950336.html",
     "posttime": 1774945407,
     "refreshtime": "44分鐘前",
     "last_seen": 1779379427
@@ -1419,7 +1419,7 @@ window.crawledData = [
     "age": 0,
     "address": "瑞光路",
     "photo": "https://img1.591.com.tw/house/2026/05/22/177937923284983705.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20248667.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20248667.html",
     "posttime": 1779377032,
     "refreshtime": "40分鐘前",
     "last_seen": 1779379387
@@ -1438,7 +1438,7 @@ window.crawledData = [
     "age": 8,
     "address": "民權西路",
     "photo": "https://img2.591.com.tw/house/2025/12/18/176605858484753505.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19710931.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19710931.html",
     "posttime": 1771812472,
     "refreshtime": "44分鐘前",
     "last_seen": 1779379387
@@ -1457,7 +1457,7 @@ window.crawledData = [
     "age": 51,
     "address": "永吉路180巷",
     "photo": "https://img1.591.com.tw/house/2026/04/17/177642385735738204.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20054579.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20054579.html",
     "posttime": 1776427200,
     "refreshtime": "15分鐘前",
     "last_seen": 1779379491
@@ -1476,7 +1476,7 @@ window.crawledData = [
     "age": 44,
     "address": "民生東路五段36巷",
     "photo": "https://img1.591.com.tw/house/2026/04/03/177521449435408105.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19970482.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19970482.html",
     "posttime": 1775204481,
     "refreshtime": "20分鐘前",
     "last_seen": 1779379491
@@ -1495,7 +1495,7 @@ window.crawledData = [
     "age": 8,
     "address": "建國北路二段",
     "photo": "https://img1.591.com.tw/house/2025/03/12/174175855497533001.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19901682.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19901682.html",
     "posttime": 1774252753,
     "refreshtime": "46分鐘前",
     "last_seen": 1779379525
@@ -1514,7 +1514,7 @@ window.crawledData = [
     "age": 20,
     "address": "松勇路53巷",
     "photo": "https://img1.591.com.tw/house/2026/05/02/177771295782668904.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19937518.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19937518.html",
     "posttime": 1774769700,
     "refreshtime": "44分鐘前",
     "last_seen": 1779379399
@@ -1533,7 +1533,7 @@ window.crawledData = [
     "age": 21,
     "address": "成功路四段167巷",
     "photo": "https://img2.591.com.tw/house/2026/05/11/177848414806883808.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20184216.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20184216.html",
     "posttime": 1778484498,
     "refreshtime": "14分鐘前",
     "last_seen": 1779379405
@@ -1552,7 +1552,7 @@ window.crawledData = [
     "age": 1,
     "address": "明水路",
     "photo": "https://img2.591.com.tw/house/2026/03/30/177486236909205806.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19944563.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19944563.html",
     "posttime": 1774862561,
     "refreshtime": "9分鐘前",
     "last_seen": 1779379423
@@ -1571,7 +1571,7 @@ window.crawledData = [
     "age": 18,
     "address": "港墘路221巷",
     "photo": "https://img2.591.com.tw/house/2025/11/10/176277219974577408.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19915879.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19915879.html",
     "posttime": 1774429438,
     "refreshtime": "5分鐘前",
     "last_seen": 1779379771
@@ -1590,7 +1590,7 @@ window.crawledData = [
     "age": 28,
     "address": "信義路五段",
     "photo": "https://img1.591.com.tw/house/2026/04/30/177754824023778606.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20121529.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20121529.html",
     "posttime": 1777548934,
     "refreshtime": "26分鐘前",
     "last_seen": 1779379530
@@ -1609,7 +1609,7 @@ window.crawledData = [
     "age": 16,
     "address": "新生北路三段56巷",
     "photo": "https://img2.591.com.tw/house/2026/04/17/177642822825759407.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19928384.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19928384.html",
     "posttime": 1774600250,
     "refreshtime": "44分鐘前",
     "last_seen": 1779379427
@@ -1628,7 +1628,7 @@ window.crawledData = [
     "age": 62,
     "address": "芝玉路二段",
     "photo": "https://img1.591.com.tw/house/2026/05/16/177891431130986703.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20216549.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20216549.html",
     "posttime": 1778914340,
     "refreshtime": "14分鐘前",
     "last_seen": 1779379432
@@ -1647,7 +1647,7 @@ window.crawledData = [
     "age": 20,
     "address": "政大一街",
     "photo": "https://img2.591.com.tw/house/2026/04/06/177543962434106702.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19981980.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19981980.html",
     "posttime": 1775439724,
     "refreshtime": "15分鐘前",
     "last_seen": 1779379461
@@ -1666,7 +1666,7 @@ window.crawledData = [
     "age": 43,
     "address": "忠孝東路四段553巷",
     "photo": "https://img1.591.com.tw/house/2026/01/27/176950846646605305.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19935448.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19935448.html",
     "posttime": 1774717220,
     "refreshtime": "34分鐘前",
     "last_seen": 1779379439
@@ -1685,7 +1685,7 @@ window.crawledData = [
     "age": 36,
     "address": "民生東路五段",
     "photo": "https://img1.591.com.tw/house/2026/04/03/177519032896953001.png!400x300.png",
-    "url": "https://house.591.com.tw/sale-detail-19968381.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19968381.html",
     "posttime": 1775190519,
     "refreshtime": "40分鐘前",
     "last_seen": 1779379461
@@ -1704,7 +1704,7 @@ window.crawledData = [
     "age": 47,
     "address": "延平北路三段66巷",
     "photo": "https://img2.591.com.tw/house/2026/03/09/177305431839466101.jpg!fit.1000x.water2.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20143126.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20143126.html",
     "posttime": 1777892272,
     "refreshtime": "35分鐘前",
     "last_seen": 1779379473
@@ -1723,7 +1723,7 @@ window.crawledData = [
     "age": 40,
     "address": "和平東路三段1巷",
     "photo": "https://img2.591.com.tw/house/2026/05/06/177804136711761003.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20153324.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20153324.html",
     "posttime": 1778041660,
     "refreshtime": "15分鐘前",
     "last_seen": 1779379482
@@ -1742,7 +1742,7 @@ window.crawledData = [
     "age": 46,
     "address": "松江路64巷",
     "photo": "https://img1.591.com.tw/house/2026/03/25/177444443361587600.jpg!fit.1000x.water2.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19917297.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19917297.html",
     "posttime": 1774444574,
     "refreshtime": "40分鐘前",
     "last_seen": 1779379491
@@ -1761,7 +1761,7 @@ window.crawledData = [
     "age": 44,
     "address": "德惠街",
     "photo": "https://img1.591.com.tw/house/2025/08/30/175651995031939201.jpg!fit.1000x.water2.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20171793.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20171793.html",
     "posttime": 1778291073,
     "refreshtime": "35分鐘前",
     "last_seen": 1779379491
@@ -1780,7 +1780,7 @@ window.crawledData = [
     "age": 50,
     "address": "松江路63巷",
     "photo": "https://img1.591.com.tw/house/2025/06/18/175025676522816305.jpg!fit.1000x.water2.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20088933.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20088933.html",
     "posttime": 1777030115,
     "refreshtime": "35分鐘前",
     "last_seen": 1779379501
@@ -1799,7 +1799,7 @@ window.crawledData = [
     "age": 27,
     "address": "通北街65巷",
     "photo": "https://img1.591.com.tw/house/2026/02/12/177087424321760400.jpg!fit.1000x.water2.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20143149.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20143149.html",
     "posttime": 1777892583,
     "refreshtime": "35分鐘前",
     "last_seen": 1779379501
@@ -1818,7 +1818,7 @@ window.crawledData = [
     "age": 41,
     "address": "蘭州街124巷",
     "photo": "https://img2.591.com.tw/house/2026/04/11/177590790506874909.jpg!fit.1000x.water2.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19927976.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19927976.html",
     "posttime": 1774598228,
     "refreshtime": "21分鐘前",
     "last_seen": 1779379512
@@ -1837,7 +1837,7 @@ window.crawledData = [
     "age": 42,
     "address": "復興北路",
     "photo": "https://img2.591.com.tw/house/2025/09/28/175905003951257705.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19999629.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19999629.html",
     "posttime": 1775640780,
     "refreshtime": "16分鐘前",
     "last_seen": 1779379518
@@ -1856,7 +1856,7 @@ window.crawledData = [
     "age": 16,
     "address": "新生北路三段56巷",
     "photo": "https://img2.591.com.tw/house/2026/04/26/177717738532998800.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20095274.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20095274.html",
     "posttime": 1777177849,
     "refreshtime": "21分鐘前",
     "last_seen": 1779379525
@@ -1875,7 +1875,7 @@ window.crawledData = [
     "age": 1,
     "address": "復興南路二段",
     "photo": "https://img2.591.com.tw/house/2025/10/15/176050116420829806.jpg!fit.1000x.water2.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19912164.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19912164.html",
     "posttime": 1774406331,
     "refreshtime": "46分鐘前",
     "last_seen": 1779379525
@@ -1894,7 +1894,7 @@ window.crawledData = [
     "age": 0,
     "address": "新安路",
     "photo": "https://img2.591.com.tw/house/2026/03/26/177448998814881209.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19918141.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19918141.html",
     "posttime": 1774490075,
     "refreshtime": "46分鐘前",
     "last_seen": 1779379530
@@ -1913,7 +1913,7 @@ window.crawledData = [
     "age": 30,
     "address": "金城路三段101巷",
     "photo": "https://img2.591.com.tw/house/2026/05/05/177795458119925503.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19904219.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19904219.html",
     "posttime": 1774271179,
     "refreshtime": "6分鐘前",
     "last_seen": 1779379534
@@ -1932,7 +1932,7 @@ window.crawledData = [
     "age": 15,
     "address": "大安路",
     "photo": "https://img1.591.com.tw/house/2026/01/12/176820623473865100.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19934956.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19934956.html",
     "posttime": 1774700101,
     "refreshtime": "11分鐘前",
     "last_seen": 1779379534
@@ -1951,7 +1951,7 @@ window.crawledData = [
     "age": 32,
     "address": "延和路",
     "photo": "https://img2.591.com.tw/video/cover/2026-04-01/3017572.png!1000x.water2.png",
-    "url": "https://house.591.com.tw/sale-detail-19996081.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19996081.html",
     "posttime": 1775619021,
     "refreshtime": "19分鐘前",
     "last_seen": 1779379693
@@ -1970,7 +1970,7 @@ window.crawledData = [
     "age": 44,
     "address": "雙十路二段47巷",
     "photo": "https://img1.591.com.tw/house/2026/04/09/177570551248766501.jpg!1000x.water2.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20002652.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20002652.html",
     "posttime": 1775705610,
     "refreshtime": "17分鐘前",
     "last_seen": 1779379585
@@ -1989,7 +1989,7 @@ window.crawledData = [
     "age": 4,
     "address": "商港二路",
     "photo": "https://img2.591.com.tw/house/2026/04/08/177563296237205705.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19998196.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19998196.html",
     "posttime": 1775633062,
     "refreshtime": "21分鐘前",
     "last_seen": 1779379534
@@ -2008,7 +2008,7 @@ window.crawledData = [
     "age": 29,
     "address": "明德路一段29巷",
     "photo": "https://img1.591.com.tw/house/2026/05/04/177789104679050001.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20143002.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20143002.html",
     "posttime": 1777891214,
     "refreshtime": "8分鐘前",
     "last_seen": 1779379682
@@ -2027,7 +2027,7 @@ window.crawledData = [
     "age": 32,
     "address": "大同路一段",
     "photo": "https://img1.591.com.tw/house/2026/04/27/177728643676772804.jpg!1000x.water2.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20103275.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20103275.html",
     "posttime": 1777286597,
     "refreshtime": "13分鐘前",
     "last_seen": 1779379646
@@ -2046,7 +2046,7 @@ window.crawledData = [
     "age": 47,
     "address": "廣明街48巷",
     "photo": "https://img1.591.com.tw/video/cover/2026-04-11/3033832.png!1000x.water2.png",
-    "url": "https://house.591.com.tw/sale-detail-20018562.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20018562.html",
     "posttime": 1775899086,
     "refreshtime": "16分鐘前",
     "last_seen": 1779379559
@@ -2065,7 +2065,7 @@ window.crawledData = [
     "age": 46,
     "address": "新海路431巷",
     "photo": "https://img1.591.com.tw/house/2026/05/15/177883615574467808.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20030628.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20030628.html",
     "posttime": 1776083811,
     "refreshtime": "17分鐘前",
     "last_seen": 1779379599
@@ -2084,7 +2084,7 @@ window.crawledData = [
     "age": 28,
     "address": "中山路一段28巷",
     "photo": "https://img1.591.com.tw/house/2026/04/13/177607278557440107.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20029523.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20029523.html",
     "posttime": 1776072960,
     "refreshtime": "21分鐘前",
     "last_seen": 1779379542
@@ -2103,7 +2103,7 @@ window.crawledData = [
     "age": 35,
     "address": "鶯桃路二段29巷",
     "photo": "https://img2.591.com.tw/house/2026/03/30/177486150793089206.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19944360.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19944360.html",
     "posttime": 1774861460,
     "refreshtime": "13分鐘前",
     "last_seen": 1779379682
@@ -2122,7 +2122,7 @@ window.crawledData = [
     "age": 18,
     "address": "中正東路一段3巷",
     "photo": "https://img2.591.com.tw/house/2026/05/21/177935417579101902.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20098122.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20098122.html",
     "posttime": 1777254454,
     "refreshtime": "18分鐘前",
     "last_seen": 1779379682
@@ -2141,7 +2141,7 @@ window.crawledData = [
     "age": 0,
     "address": "",
     "photo": "https://img1.591.com.tw/house/2026/01/26/176939166837886402.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19406500.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19406500.html",
     "posttime": 1766329295,
     "refreshtime": "21分鐘前",
     "last_seen": 1779379559
@@ -2160,7 +2160,7 @@ window.crawledData = [
     "age": 29,
     "address": "重陽路四段",
     "photo": "https://img2.591.com.tw/house/2026/04/30/177753653474208005.jpg!fit.1000x.water2.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19971579.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19971579.html",
     "posttime": 1775210582,
     "refreshtime": "21分鐘前",
     "last_seen": 1779379549
@@ -2179,7 +2179,7 @@ window.crawledData = [
     "age": 6,
     "address": "新樹路699巷",
     "photo": "https://img1.591.com.tw/house/2026/04/04/177528798462113303.png!400x300.png",
-    "url": "https://house.591.com.tw/sale-detail-19975579.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19975579.html",
     "posttime": 1775286391,
     "refreshtime": "16分鐘前",
     "last_seen": 1779379559
@@ -2198,7 +2198,7 @@ window.crawledData = [
     "age": 11,
     "address": "民富街",
     "photo": "https://img1.591.com.tw/house/2026/04/14/177616409904817400.png!400x300.png",
-    "url": "https://house.591.com.tw/sale-detail-20219382.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20219382.html",
     "posttime": 1778983232,
     "refreshtime": "16分鐘前",
     "last_seen": 1779379559
@@ -2217,7 +2217,7 @@ window.crawledData = [
     "age": 52,
     "address": "中平路8巷",
     "photo": "https://img2.591.com.tw/house/2026/04/03/177518318646526801.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19967288.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19967288.html",
     "posttime": 1775183505,
     "refreshtime": "21分鐘前",
     "last_seen": 1779379559
@@ -2236,7 +2236,7 @@ window.crawledData = [
     "age": 52,
     "address": "中港二街",
     "photo": "https://img2.591.com.tw/house/2026/04/16/177631608470353501.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20045610.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20045610.html",
     "posttime": 1776315622,
     "refreshtime": "8分鐘前",
     "last_seen": 1779379650
@@ -2255,7 +2255,7 @@ window.crawledData = [
     "age": 1,
     "address": "龍山一街",
     "photo": "https://img2.591.com.tw/house/2026/05/21/177933734701115606.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20048263.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20048263.html",
     "posttime": 1779337456,
     "refreshtime": "17分鐘前",
     "last_seen": 1779379604
@@ -2274,7 +2274,7 @@ window.crawledData = [
     "age": 10,
     "address": "長泰街",
     "photo": "https://img1.591.com.tw/house/2026/05/05/177796947629090208.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20148631.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20148631.html",
     "posttime": 1777969432,
     "refreshtime": "16分鐘前",
     "last_seen": 1779379566
@@ -2293,7 +2293,7 @@ window.crawledData = [
     "age": 36,
     "address": "長壽西街",
     "photo": "https://img1.591.com.tw/video/cover/2025-03-25/2169260.png!1000x.water2.png",
-    "url": "https://house.591.com.tw/sale-detail-20234592.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20234592.html",
     "posttime": 1779180738,
     "refreshtime": "16分鐘前",
     "last_seen": 1779379566
@@ -2312,7 +2312,7 @@ window.crawledData = [
     "age": 46,
     "address": "民生路37巷",
     "photo": "https://img1.591.com.tw/house/2026/04/17/177640560465003101.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20051893.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20051893.html",
     "posttime": 1776405348,
     "refreshtime": "8分鐘前",
     "last_seen": 1779379682
@@ -2331,7 +2331,7 @@ window.crawledData = [
     "age": 27,
     "address": "圓通路369巷",
     "photo": "https://img2.591.com.tw/house/2026/05/12/177856361549167306.png!400x300.png",
-    "url": "https://house.591.com.tw/sale-detail-20126828.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20126828.html",
     "posttime": 1777631806,
     "refreshtime": "13分鐘前",
     "last_seen": 1779379660
@@ -2350,7 +2350,7 @@ window.crawledData = [
     "age": 9,
     "address": "新市一路一段",
     "photo": "https://img1.591.com.tw/house/2026/03/30/177483925240843505.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20137205.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20137205.html",
     "posttime": 1777859300,
     "refreshtime": "12分鐘前",
     "last_seen": 1779379571
@@ -2369,7 +2369,7 @@ window.crawledData = [
     "age": 52,
     "address": "民族路222巷",
     "photo": "https://img1.591.com.tw/house/2026/03/25/177441795359874009.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19913932.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19913932.html",
     "posttime": 1774418422,
     "refreshtime": "17分鐘前",
     "last_seen": 1779379571
@@ -2388,7 +2388,7 @@ window.crawledData = [
     "age": 48,
     "address": "大仁街10巷",
     "photo": "https://img2.591.com.tw/house/2026/05/12/177855569241803507.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19966280.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19966280.html",
     "posttime": 1775136862,
     "refreshtime": "9分鐘前",
     "last_seen": 1779379693
@@ -2407,7 +2407,7 @@ window.crawledData = [
     "age": 31,
     "address": "民德路",
     "photo": "https://img2.591.com.tw/house/2026/03/07/177288984039371607.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20213784.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20213784.html",
     "posttime": 1778849825,
     "refreshtime": "7分鐘前",
     "last_seen": 1779379576
@@ -2426,7 +2426,7 @@ window.crawledData = [
     "age": 29,
     "address": "安樂路",
     "photo": "https://img2.591.com.tw/house/2026/04/08/177562029808599907.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19996333.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19996333.html",
     "posttime": 1775622833,
     "refreshtime": "13分鐘前",
     "last_seen": 1779379646
@@ -2445,7 +2445,7 @@ window.crawledData = [
     "age": 19,
     "address": "大成路",
     "photo": "https://img2.591.com.tw/house/2026/05/07/177814069046697104.jpg!1000x.water2.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20165672.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20165672.html",
     "posttime": 1778211492,
     "refreshtime": "13分鐘前",
     "last_seen": 1779379646
@@ -2464,7 +2464,7 @@ window.crawledData = [
     "age": 15,
     "address": "新民街一段",
     "photo": "https://img1.591.com.tw/house/2025/10/14/176041767250664807.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19830024.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19830024.html",
     "posttime": 1773284827,
     "refreshtime": "22分鐘前",
     "last_seen": 1779379576
@@ -2483,7 +2483,7 @@ window.crawledData = [
     "age": 28,
     "address": "民有街",
     "photo": "https://img1.591.com.tw/house/2026/03/31/177492603805972203.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19947442.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19947442.html",
     "posttime": 1774926122,
     "refreshtime": "8分鐘前",
     "last_seen": 1779379650
@@ -2502,7 +2502,7 @@ window.crawledData = [
     "age": 27,
     "address": "自立路",
     "photo": "https://img1.591.com.tw/house/2026/05/12/177857664139759301.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20066391.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20066391.html",
     "posttime": 1776674093,
     "refreshtime": "7分鐘前",
     "last_seen": 1779379585
@@ -2521,7 +2521,7 @@ window.crawledData = [
     "age": 10,
     "address": "華東街",
     "photo": "https://img1.591.com.tw/house/2026/03/24/177431696640283605.jpg!fit.1000x.water2.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19861214.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19861214.html",
     "posttime": 1773708646,
     "refreshtime": "12分鐘前",
     "last_seen": 1779379616
@@ -2540,7 +2540,7 @@ window.crawledData = [
     "age": 12,
     "address": "廣福路",
     "photo": "https://img2.591.com.tw/house/2026/05/01/177763059567151107.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20126734.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20126734.html",
     "posttime": 1777630637,
     "refreshtime": "18分鐘前",
     "last_seen": 1779379639
@@ -2559,7 +2559,7 @@ window.crawledData = [
     "age": 48,
     "address": "連城路389巷",
     "photo": "https://img2.591.com.tw/house/2026/05/01/177762602972626704.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20035172.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20035172.html",
     "posttime": 1776153522,
     "refreshtime": "7分鐘前",
     "last_seen": 1779379589
@@ -2578,7 +2578,7 @@ window.crawledData = [
     "age": 31,
     "address": "大同路二段",
     "photo": "https://img1.591.com.tw/house/2026/04/29/177745967176897104.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20035739.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20035739.html",
     "posttime": 1776156643,
     "refreshtime": "8分鐘前",
     "last_seen": 1779379632
@@ -2597,7 +2597,7 @@ window.crawledData = [
     "age": 8,
     "address": "忠孝街",
     "photo": "https://img1.591.com.tw/house/2026/05/11/177849549436847206.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20077898.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20077898.html",
     "posttime": 1776861309,
     "refreshtime": "17分鐘前",
     "last_seen": 1779379589
@@ -2616,7 +2616,7 @@ window.crawledData = [
     "age": 13,
     "address": "新北大道三段",
     "photo": "https://img2.591.com.tw/house/2026/05/04/177786756608204207.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20138754.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20138754.html",
     "posttime": 1777867688,
     "refreshtime": "17分鐘前",
     "last_seen": 1779379589
@@ -2635,7 +2635,7 @@ window.crawledData = [
     "age": 28,
     "address": "保安街二段31巷",
     "photo": "https://img2.591.com.tw/house/2026/05/12/177855606818658700.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20189061.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20189061.html",
     "posttime": 1778556687,
     "refreshtime": "17分鐘前",
     "last_seen": 1779379589
@@ -2654,7 +2654,7 @@ window.crawledData = [
     "age": 41,
     "address": "民族街182巷",
     "photo": "https://img2.591.com.tw/house/2026/05/15/177881681393554207.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20208634.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20208634.html",
     "posttime": 1778816847,
     "refreshtime": "8分鐘前",
     "last_seen": 1779379660
@@ -2673,7 +2673,7 @@ window.crawledData = [
     "age": 13,
     "address": "中央路",
     "photo": "https://img1.591.com.tw/house/2026/04/21/177676737584492807.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20072489.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20072489.html",
     "posttime": 1776767509,
     "refreshtime": "17分鐘前",
     "last_seen": 1779379604
@@ -2692,7 +2692,7 @@ window.crawledData = [
     "age": 7,
     "address": "福德二街",
     "photo": "https://img1.591.com.tw/house/2026/04/22/177683544417617004.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20075158.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20075158.html",
     "posttime": 1776835510,
     "refreshtime": "18分鐘前",
     "last_seen": 1779379677
@@ -2711,7 +2711,7 @@ window.crawledData = [
     "age": 6,
     "address": "南山路",
     "photo": "https://img1.591.com.tw/house/2026/04/22/177685236073781603.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20030804.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20030804.html",
     "posttime": 1776086678,
     "refreshtime": "7分鐘前",
     "last_seen": 1779379599
@@ -2730,7 +2730,7 @@ window.crawledData = [
     "age": 8,
     "address": "八勢路50巷",
     "photo": "https://img1.591.com.tw/house/2026/03/30/177485977512903802.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19939762.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19939762.html",
     "posttime": 1774836218,
     "refreshtime": "12分鐘前",
     "last_seen": 1779379599
@@ -2749,7 +2749,7 @@ window.crawledData = [
     "age": 32,
     "address": "青雲路587巷",
     "photo": "https://img2.591.com.tw/house/2026/04/25/177709804055295504.png!400x300.png",
-    "url": "https://house.591.com.tw/sale-detail-20091776.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20091776.html",
     "posttime": 1777097037,
     "refreshtime": "17分鐘前",
     "last_seen": 1779379599
@@ -2768,7 +2768,7 @@ window.crawledData = [
     "age": 45,
     "address": "漢生東路193巷",
     "photo": "https://img1.591.com.tw/house/2026/03/28/177466630429990406.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19931680.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19931680.html",
     "posttime": 1774666330,
     "refreshtime": "7分鐘前",
     "last_seen": 1779379604
@@ -2787,7 +2787,7 @@ window.crawledData = [
     "age": 9,
     "address": "漢生西路",
     "photo": "https://img2.591.com.tw/house/2026/04/30/177753729678165504.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20120035.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20120035.html",
     "posttime": 1777538195,
     "refreshtime": "18分鐘前",
     "last_seen": 1779379650
@@ -2806,7 +2806,7 @@ window.crawledData = [
     "age": 47,
     "address": "溪崑二街",
     "photo": "https://img2.591.com.tw/house/2026/05/04/177788677948566500.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20142319.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20142319.html",
     "posttime": 1777949823,
     "refreshtime": "13分鐘前",
     "last_seen": 1779379673
@@ -2825,7 +2825,7 @@ window.crawledData = [
     "age": 14,
     "address": "大德路",
     "photo": "https://img1.591.com.tw/house/2026/04/18/177648047806797202.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20056170.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20056170.html",
     "posttime": 1776480539,
     "refreshtime": "17分鐘前",
     "last_seen": 1779379610
@@ -2844,7 +2844,7 @@ window.crawledData = [
     "age": 27,
     "address": "南山路",
     "photo": "https://img1.591.com.tw/house/2026/05/17/177900741903850605.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20221461.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20221461.html",
     "posttime": 1779007465,
     "refreshtime": "7分鐘前",
     "last_seen": 1779379616
@@ -2863,7 +2863,7 @@ window.crawledData = [
     "age": 0,
     "address": "莊園街",
     "photo": "https://img2.591.com.tw/house/2026/05/11/177849113536404001.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20185374.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20185374.html",
     "posttime": 1778491214,
     "refreshtime": "12分鐘前",
     "last_seen": 1779379616
@@ -2882,7 +2882,7 @@ window.crawledData = [
     "age": 34,
     "address": "自強路",
     "photo": "https://img1.591.com.tw/house/2026/04/07/177556859786841501.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19994249.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19994249.html",
     "posttime": 1775568672,
     "refreshtime": "17分鐘前",
     "last_seen": 1779379616
@@ -2901,7 +2901,7 @@ window.crawledData = [
     "age": 3,
     "address": "遠東路",
     "photo": "https://img1.591.com.tw/house/2026/03/18/177380482194262405.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20110581.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20110581.html",
     "posttime": 1777426916,
     "refreshtime": "17分鐘前",
     "last_seen": 1779379616
@@ -2920,7 +2920,7 @@ window.crawledData = [
     "age": 1,
     "address": "西雲路110巷",
     "photo": "https://img2.591.com.tw/house/2026/03/05/177264245091042904.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20156397.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20156397.html",
     "posttime": 1778061626,
     "refreshtime": "12分鐘前",
     "last_seen": 1779379626
@@ -2939,7 +2939,7 @@ window.crawledData = [
     "age": 44,
     "address": "名園街51巷",
     "photo": "https://img1.591.com.tw/house/2026/04/04/177526899986584602.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20164781.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20164781.html",
     "posttime": 1778206027,
     "refreshtime": "13分鐘前",
     "last_seen": 1779379655
@@ -2958,7 +2958,7 @@ window.crawledData = [
     "age": 47,
     "address": "光華街31巷",
     "photo": "https://img2.591.com.tw/house/2025/10/17/176070046679105506.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19703958.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19703958.html",
     "posttime": 1771492309,
     "refreshtime": "13分鐘前",
     "last_seen": 1779379632
@@ -2977,7 +2977,7 @@ window.crawledData = [
     "age": 29,
     "address": "三民街300巷",
     "photo": "https://img2.591.com.tw/house/2026/05/17/177900985940497804.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20221673.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20221673.html",
     "posttime": 1779010069,
     "refreshtime": "13分鐘前",
     "last_seen": 1779379632
@@ -2996,7 +2996,7 @@ window.crawledData = [
     "age": 8,
     "address": "中山路",
     "photo": "https://img.youtube.com/vi/uggB0KMRcoM/hqdefault.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20131255.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20131255.html",
     "posttime": 1777712876,
     "refreshtime": "13分鐘前",
     "last_seen": 1779379639
@@ -3015,7 +3015,7 @@ window.crawledData = [
     "age": 1,
     "address": "斯馨路71巷",
     "photo": "https://img1.591.com.tw/house/2026/01/02/176734631260929706.jpg!fit.1000x.water2.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20217214.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20217214.html",
     "posttime": 1778919811,
     "refreshtime": "13分鐘前",
     "last_seen": 1779379639
@@ -3034,7 +3034,7 @@ window.crawledData = [
     "age": 1,
     "address": "華江三路",
     "photo": "https://img1.591.com.tw/house/2026/03/23/177427511009781007.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19904396.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19904396.html",
     "posttime": 1774586400,
     "refreshtime": "18分鐘前",
     "last_seen": 1779379639
@@ -3053,7 +3053,7 @@ window.crawledData = [
     "age": 7,
     "address": "東明二街",
     "photo": "https://img1.591.com.tw/house/2024/07/29/172223640896607802.jpg!1000x.water2.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20143841.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20143841.html",
     "posttime": 1777900322,
     "refreshtime": "18分鐘前",
     "last_seen": 1779379660
@@ -3072,7 +3072,7 @@ window.crawledData = [
     "age": 29,
     "address": "民族街",
     "photo": "https://img1.591.com.tw/house/2026/05/18/177908527886389907.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20225946.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20225946.html",
     "posttime": 1779085454,
     "refreshtime": "8分鐘前",
     "last_seen": 1779379646
@@ -3091,7 +3091,7 @@ window.crawledData = [
     "age": 43,
     "address": "中山路一段",
     "photo": "https://img.youtube.com/vi/3biYO2MNPkM/hqdefault.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19989454.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19989454.html",
     "posttime": 1775542890,
     "refreshtime": "18分鐘前",
     "last_seen": 1779379646
@@ -3110,7 +3110,7 @@ window.crawledData = [
     "age": 44,
     "address": "長春路",
     "photo": "https://img1.591.com.tw/house/2026/05/08/177821277617589504.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19922220.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19922220.html",
     "posttime": 1774516329,
     "refreshtime": "18分鐘前",
     "last_seen": 1779379650
@@ -3129,7 +3129,7 @@ window.crawledData = [
     "age": 3,
     "address": "大智街",
     "photo": "https://img2.591.com.tw/house/2026/04/15/177622372049633508.jpg!1000x.water2.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20039639.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20039639.html",
     "posttime": 1776228493,
     "refreshtime": "18分鐘前",
     "last_seen": 1779379650
@@ -3148,7 +3148,7 @@ window.crawledData = [
     "age": 13,
     "address": "福德一街",
     "photo": "https://img2.591.com.tw/house/2026/05/11/177848310294257500.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20183930.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20183930.html",
     "posttime": 1778483559,
     "refreshtime": "13分鐘前",
     "last_seen": 1779379663
@@ -3167,7 +3167,7 @@ window.crawledData = [
     "age": 43,
     "address": "大慶街",
     "photo": "https://img2.591.com.tw/house/2026/05/18/177908568165613301.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20226036.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20226036.html",
     "posttime": 1779086051,
     "refreshtime": "13分鐘前",
     "last_seen": 1779379655
@@ -3186,7 +3186,7 @@ window.crawledData = [
     "age": 8,
     "address": "民安街",
     "photo": "https://img1.591.com.tw/house/2026/04/19/177658163271860101.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20030172.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20030172.html",
     "posttime": 1776078734,
     "refreshtime": "8分鐘前",
     "last_seen": 1779379663
@@ -3205,7 +3205,7 @@ window.crawledData = [
     "age": 0,
     "address": "溪底路",
     "photo": "https://img2.591.com.tw/video/cover/2023-08-18/533436.png!1000x.water2.png",
-    "url": "https://house.591.com.tw/sale-detail-19586555.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19586555.html",
     "posttime": 1769087285,
     "refreshtime": "13分鐘前",
     "last_seen": 1779379673
@@ -3224,7 +3224,7 @@ window.crawledData = [
     "age": 17,
     "address": "中山路三段",
     "photo": "https://img1.591.com.tw/house/2026/03/28/177468833501288702.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19934004.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19934004.html",
     "posttime": 1774688820,
     "refreshtime": "8分鐘前",
     "last_seen": 1779379667
@@ -3243,7 +3243,7 @@ window.crawledData = [
     "age": 7,
     "address": "華江一路",
     "photo": "https://img1.591.com.tw/house/2026/01/25/176932450890299101.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19974005.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19974005.html",
     "posttime": 1775272091,
     "refreshtime": "13分鐘前",
     "last_seen": 1779379667
@@ -3262,7 +3262,7 @@ window.crawledData = [
     "age": 27,
     "address": "中正路",
     "photo": "https://img2.591.com.tw/house/2026/04/10/177582354972752908.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20000133.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20000133.html",
     "posttime": 1775647922,
     "refreshtime": "13分鐘前",
     "last_seen": 1779379673
@@ -3281,7 +3281,7 @@ window.crawledData = [
     "age": 2,
     "address": "鳳五路",
     "photo": "https://img.youtube.com/vi/Hl40p2NSd6I/hqdefault.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20194414.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20194414.html",
     "posttime": 1778631773,
     "refreshtime": "13分鐘前",
     "last_seen": 1779379667
@@ -3300,7 +3300,7 @@ window.crawledData = [
     "age": 1,
     "address": "鳳五路",
     "photo": "https://img1.591.com.tw/house/2026/03/26/177452406045078901.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19923165.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19923165.html",
     "posttime": 1774524271,
     "refreshtime": "18分鐘前",
     "last_seen": 1779379667
@@ -3319,7 +3319,7 @@ window.crawledData = [
     "age": 6,
     "address": "昌學街",
     "photo": "https://img.youtube.com/vi/0Zeg8GKtSnI/hqdefault.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19995370.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19995370.html",
     "posttime": 1775616195,
     "refreshtime": "19分鐘前",
     "last_seen": 1779379693
@@ -3338,7 +3338,7 @@ window.crawledData = [
     "age": 45,
     "address": "新生街41巷",
     "photo": "https://img1.591.com.tw/house/2026/05/18/177909409480191406.jpg!1000x.water2.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20070836.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20070836.html",
     "posttime": 1776754092,
     "refreshtime": "18分鐘前",
     "last_seen": 1779379673
@@ -3357,7 +3357,7 @@ window.crawledData = [
     "age": 0,
     "address": "縣民大道三段93巷",
     "photo": "https://img1.591.com.tw/house/2026/03/28/177468227166689603.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19922219.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19922219.html",
     "posttime": 1774516318,
     "refreshtime": "8分鐘前",
     "last_seen": 1779379693
@@ -3376,7 +3376,7 @@ window.crawledData = [
     "age": 36,
     "address": "明中街",
     "photo": "https://img2.591.com.tw/house/2026/03/06/177276816246860408.jpg!fit.1000x.water2.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20147051.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20147051.html",
     "posttime": 1777961856,
     "refreshtime": "8分鐘前",
     "last_seen": 1779379677
@@ -3395,7 +3395,7 @@ window.crawledData = [
     "age": 29,
     "address": "承天路4巷",
     "photo": "https://img2.591.com.tw/house/2026/05/08/177825055032155205.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19932753.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19932753.html",
     "posttime": 1774677057,
     "refreshtime": "13分鐘前",
     "last_seen": 1779379677
@@ -3414,7 +3414,7 @@ window.crawledData = [
     "age": 6,
     "address": "鳳五路",
     "photo": "https://img2.591.com.tw/house/2026/05/10/177839769084206500.png!400x300.png",
-    "url": "https://house.591.com.tw/sale-detail-20178116.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20178116.html",
     "posttime": 1778397826,
     "refreshtime": "13分鐘前",
     "last_seen": 1779379682
@@ -3433,7 +3433,7 @@ window.crawledData = [
     "age": 7,
     "address": "水漾路二段",
     "photo": "https://img2.591.com.tw/house/2026/05/02/177771587150150709.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20131597.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20131597.html",
     "posttime": 1777715984,
     "refreshtime": "14分鐘前",
     "last_seen": 1779379693
@@ -3452,7 +3452,7 @@ window.crawledData = [
     "age": 0,
     "address": "二甲段",
     "photo": "https://img1.591.com.tw/house/2025/11/04/176225786894588101.png!400x300.png",
-    "url": "https://house.591.com.tw/sale-detail-19126330.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19126330.html",
     "posttime": 1762406458,
     "refreshtime": "4分鐘前",
     "last_seen": 1779379697
@@ -3471,7 +3471,7 @@ window.crawledData = [
     "age": 44,
     "address": "國興街16巷",
     "photo": "https://img2.591.com.tw/house/2024/05/14/171565192850178701.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19996935.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19996935.html",
     "posttime": 1775625046,
     "refreshtime": "4分鐘前",
     "last_seen": 1779379697
@@ -3490,7 +3490,7 @@ window.crawledData = [
     "age": 2,
     "address": "大仁街",
     "photo": "https://img1.591.com.tw/house/2026/04/27/177725391699919802.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20097663.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20097663.html",
     "posttime": 1777215696,
     "refreshtime": "4分鐘前",
     "last_seen": 1779379697
@@ -3509,7 +3509,7 @@ window.crawledData = [
     "age": 40,
     "address": "民享街116巷",
     "photo": "https://img2.591.com.tw/house/2025/08/15/175524261036346809.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20101654.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20101654.html",
     "posttime": 1777275860,
     "refreshtime": "4分鐘前",
     "last_seen": 1779379697
@@ -3528,7 +3528,7 @@ window.crawledData = [
     "age": 41,
     "address": "五華街",
     "photo": "https://img1.591.com.tw/house/2026/05/08/177823295603155206.jpeg!400x300.jpeg",
-    "url": "https://house.591.com.tw/sale-detail-20169470.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20169470.html",
     "posttime": 1778233024,
     "refreshtime": "4分鐘前",
     "last_seen": 1779379697
@@ -3547,7 +3547,7 @@ window.crawledData = [
     "age": 0,
     "address": "",
     "photo": "https://img2.591.com.tw/house/2026/02/25/177200669780208807.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19733228.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19733228.html",
     "posttime": 1772006818,
     "refreshtime": "4分鐘前",
     "last_seen": 1779379736
@@ -3566,7 +3566,7 @@ window.crawledData = [
     "age": 44,
     "address": "忠孝東路314巷",
     "photo": "https://img1.591.com.tw/house/2024/03/24/171126428397977305.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19947782.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19947782.html",
     "posttime": 1774927868,
     "refreshtime": "4分鐘前",
     "last_seen": 1779379702
@@ -3585,7 +3585,7 @@ window.crawledData = [
     "age": 30,
     "address": "中平路270巷",
     "photo": "https://img2.591.com.tw/house/2026/04/11/177589892566007701.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19969485.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19969485.html",
     "posttime": 1775198381,
     "refreshtime": "4分鐘前",
     "last_seen": 1779379702
@@ -3604,7 +3604,7 @@ window.crawledData = [
     "age": 32,
     "address": "復興路",
     "photo": "https://img1.591.com.tw/house/2026/04/20/177666406664143206.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19973734.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19973734.html",
     "posttime": 1775270375,
     "refreshtime": "4分鐘前",
     "last_seen": 1779379702
@@ -3623,7 +3623,7 @@ window.crawledData = [
     "age": 26,
     "address": "中正路700巷",
     "photo": "https://img2.591.com.tw/house/2026/04/15/177625664922449901.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-20003599.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20003599.html",
     "posttime": 1775718149,
     "refreshtime": "4分鐘前",
     "last_seen": 1779379702
@@ -3642,7 +3642,7 @@ window.crawledData = [
     "age": 33,
     "address": "茄興街",
     "photo": "https://img1.591.com.tw/house/2025/12/20/176621753050688405.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19926950.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19926950.html",
     "posttime": 1774592916,
     "refreshtime": "4分鐘前",
     "last_seen": 1779379705
@@ -3661,7 +3661,7 @@ window.crawledData = [
     "age": 1,
     "address": "華江一路",
     "photo": "https://img2.591.com.tw/house/2026/03/30/177484959890722709.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19942099.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19942099.html",
     "posttime": 1774854261,
     "refreshtime": "4分鐘前",
     "last_seen": 1779379705
@@ -3680,7 +3680,7 @@ window.crawledData = [
     "age": 31,
     "address": "福德一路141巷",
     "photo": "https://img1.591.com.tw/house/2026/04/04/177526816551961101.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19949478.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19949478.html",
     "posttime": 1774940339,
     "refreshtime": "4分鐘前",
     "last_seen": 1779379705
@@ -3699,7 +3699,7 @@ window.crawledData = [
     "age": 44,
     "address": "復興路87巷",
     "photo": "https://img2.591.com.tw/house/2026/04/26/177718420128274902.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19962554.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19962554.html",
     "posttime": 1775110933,
     "refreshtime": "4分鐘前",
     "last_seen": 1779379705
@@ -3718,7 +3718,7 @@ window.crawledData = [
     "age": 4,
     "address": "景新街",
     "photo": "https://img2.591.com.tw/house/2026/04/09/177571253748221503.jpeg!400x300.jpeg",
-    "url": "https://house.591.com.tw/sale-detail-19976338.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19976338.html",
     "posttime": 1775292648,
     "refreshtime": "4分鐘前",
     "last_seen": 1779379705
@@ -3737,7 +3737,7 @@ window.crawledData = [
     "age": 43,
     "address": "民族二街",
     "photo": "https://img.youtube.com/vi/FVKK-hmNgBw/hqdefault.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19757082.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19757082.html",
     "posttime": 1772341456,
     "refreshtime": "4分鐘前",
     "last_seen": 1779379709
@@ -3756,7 +3756,7 @@ window.crawledData = [
     "age": 27,
     "address": "裕民路",
     "photo": "https://img1.591.com.tw/house/2026/03/09/177304571007999408.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19811336.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19811336.html",
     "posttime": 1773127563,
     "refreshtime": "4分鐘前",
     "last_seen": 1779379709
@@ -3775,7 +3775,7 @@ window.crawledData = [
     "age": 0,
     "address": "溪崑二街56巷",
     "photo": "https://img2.591.com.tw/house/2026/03/10/177311335439323708.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19815472.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19815472.html",
     "posttime": 1775133138,
     "refreshtime": "4分鐘前",
     "last_seen": 1779379741
@@ -3794,7 +3794,7 @@ window.crawledData = [
     "age": 24,
     "address": "興德路",
     "photo": "https://img2.591.com.tw/house/2026/03/18/177381892026793602.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19871798.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19871798.html",
     "posttime": 1773969967,
     "refreshtime": "4分鐘前",
     "last_seen": 1779379709
@@ -3813,7 +3813,7 @@ window.crawledData = [
     "age": 38,
     "address": "樟樹二路136巷",
     "photo": "https://img1.591.com.tw/house/2026/01/05/176760093542297800.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19911762.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19911762.html",
     "posttime": 1774404113,
     "refreshtime": "4分鐘前",
     "last_seen": 1779379709
@@ -3832,7 +3832,7 @@ window.crawledData = [
     "age": 34,
     "address": "重安街",
     "photo": "https://img2.591.com.tw/house/2026/03/04/177260450654753107.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19777450.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19777450.html",
     "posttime": 1772605271,
     "refreshtime": "4分鐘前",
     "last_seen": 1779379712
@@ -3851,7 +3851,7 @@ window.crawledData = [
     "age": 0,
     "address": "博愛街",
     "photo": "https://img1.591.com.tw/house/2024/04/14/171306428342186200.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19801089.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19801089.html",
     "posttime": 1772900813,
     "refreshtime": "4分鐘前",
     "last_seen": 1779379712
@@ -3870,7 +3870,7 @@ window.crawledData = [
     "age": 33,
     "address": "景安路",
     "photo": "https://img.youtube.com/vi/QE1n2AslmKk/hqdefault.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19899754.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19899754.html",
     "posttime": 1774243224,
     "refreshtime": "4分鐘前",
     "last_seen": 1779379712
@@ -3889,7 +3889,7 @@ window.crawledData = [
     "age": 17,
     "address": "新市一路一段281巷",
     "photo": "https://img2.591.com.tw/house/2026/03/25/177442803699528200.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19915654.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19915654.html",
     "posttime": 1774428060,
     "refreshtime": "4分鐘前",
     "last_seen": 1779379712
@@ -3908,7 +3908,7 @@ window.crawledData = [
     "age": 54,
     "address": "合順街18巷",
     "photo": "https://img2.591.com.tw/house/2026/01/23/176915571856173900.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19915934.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19915934.html",
     "posttime": 1774429824,
     "refreshtime": "4分鐘前",
     "last_seen": 1779379712
@@ -3927,7 +3927,7 @@ window.crawledData = [
     "age": 50,
     "address": "忠孝路忠義巷",
     "photo": "https://img1.591.com.tw/house/2026/05/05/177795335011860602.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19837118.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19837118.html",
     "posttime": 1773372302,
     "refreshtime": "4分鐘前",
     "last_seen": 1779379718
@@ -3946,7 +3946,7 @@ window.crawledData = [
     "age": 32,
     "address": "成泰路一段189巷",
     "photo": "https://img2.591.com.tw/house/2026/04/23/177694034846549701.jpg!fit.1000x.water2.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19885025.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19885025.html",
     "posttime": 1774621774,
     "refreshtime": "4分鐘前",
     "last_seen": 1779379718
@@ -3965,7 +3965,7 @@ window.crawledData = [
     "age": 10,
     "address": "紅樹林路",
     "photo": "https://img2.591.com.tw/house/2026/02/22/177173408390312500.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19908457.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19908457.html",
     "posttime": 1774338280,
     "refreshtime": "4分鐘前",
     "last_seen": 1779379718
@@ -3984,7 +3984,7 @@ window.crawledData = [
     "age": 33,
     "address": "民安西路88巷",
     "photo": "https://img2.591.com.tw/house/2026/03/25/177440179812203302.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19911489.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19911489.html",
     "posttime": 1774401923,
     "refreshtime": "4分鐘前",
     "last_seen": 1779379718
@@ -4003,7 +4003,7 @@ window.crawledData = [
     "age": 19,
     "address": "北新路二段97巷",
     "photo": "https://img1.591.com.tw/house/2026/05/10/177840917535074503.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19916815.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19916815.html",
     "posttime": 1774438554,
     "refreshtime": "4分鐘前",
     "last_seen": 1779379718
@@ -4022,7 +4022,7 @@ window.crawledData = [
     "age": 0,
     "address": "",
     "photo": "https://img2.591.com.tw/house/2025/06/23/175065750585443001.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19442457.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19442457.html",
     "posttime": 1767490183,
     "refreshtime": "4分鐘前",
     "last_seen": 1779379723
@@ -4041,7 +4041,7 @@ window.crawledData = [
     "age": 44,
     "address": "鳳吉五街",
     "photo": "https://img1.591.com.tw/house/2026/02/09/177063420632674107.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19698258.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19698258.html",
     "posttime": 1771045659,
     "refreshtime": "4分鐘前",
     "last_seen": 1779379723
@@ -4060,7 +4060,7 @@ window.crawledData = [
     "age": 8,
     "address": "安祥路190巷",
     "photo": "https://img2.591.com.tw/house/2025/11/30/176449337360191605.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19901034.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19901034.html",
     "posttime": 1774249899,
     "refreshtime": "4分鐘前",
     "last_seen": 1779379723
@@ -4079,7 +4079,7 @@ window.crawledData = [
     "age": 30,
     "address": "學士路33巷",
     "photo": "https://img2.591.com.tw/house/2026/05/08/177817025229934307.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19908122.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19908122.html",
     "posttime": 1774336513,
     "refreshtime": "4分鐘前",
     "last_seen": 1779379723
@@ -4098,7 +4098,7 @@ window.crawledData = [
     "age": 27,
     "address": "安德街46巷",
     "photo": "https://img1.591.com.tw/house/2025/12/10/176534608683591108.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19914885.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19914885.html",
     "posttime": 1774423534,
     "refreshtime": "4分鐘前",
     "last_seen": 1779379723
@@ -4117,7 +4117,7 @@ window.crawledData = [
     "age": 0,
     "address": "九份路",
     "photo": "https://img2.591.com.tw/house/2025/04/09/174419017721378706.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19297003.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19297003.html",
     "posttime": 1764725892,
     "refreshtime": "4分鐘前",
     "last_seen": 1779379728
@@ -4136,7 +4136,7 @@ window.crawledData = [
     "age": 0,
     "address": "橋子頭段",
     "photo": "https://img1.591.com.tw/house/2026/01/05/176760037823386005.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19481477.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19481477.html",
     "posttime": 1767600395,
     "refreshtime": "4分鐘前",
     "last_seen": 1779379728
@@ -4155,7 +4155,7 @@ window.crawledData = [
     "age": 0,
     "address": "逢甲路",
     "photo": "https://img2.591.com.tw/house/2024/01/06/170455310868369108.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19786235.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19786235.html",
     "posttime": 1772701781,
     "refreshtime": "4分鐘前",
     "last_seen": 1779379728
@@ -4174,7 +4174,7 @@ window.crawledData = [
     "age": 38,
     "address": "樟樹一路119巷",
     "photo": "https://img.youtube.com/vi/AyV3Tje9hOs/hqdefault.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19830588.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19830588.html",
     "posttime": 1773287908,
     "refreshtime": "4分鐘前",
     "last_seen": 1779379728
@@ -4193,7 +4193,7 @@ window.crawledData = [
     "age": 11,
     "address": "淡金路",
     "photo": "https://img2.591.com.tw/house/2026/01/16/176856703559860409.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19907794.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19907794.html",
     "posttime": 1774334765,
     "refreshtime": "4分鐘前",
     "last_seen": 1779379728
@@ -4212,7 +4212,7 @@ window.crawledData = [
     "age": 15,
     "address": "保長路",
     "photo": "https://img1.591.com.tw/house/2026/03/02/177245936510773201.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19767691.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19767691.html",
     "posttime": 1774592816,
     "refreshtime": "4分鐘前",
     "last_seen": 1779379732
@@ -4231,7 +4231,7 @@ window.crawledData = [
     "age": 0,
     "address": "中正路253巷",
     "photo": "https://img2.591.com.tw/house/2026/01/18/176866648793403909.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19801082.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19801082.html",
     "posttime": 1772900512,
     "refreshtime": "4分鐘前",
     "last_seen": 1779379732
@@ -4250,7 +4250,7 @@ window.crawledData = [
     "age": 0,
     "address": "",
     "photo": "https://img1.591.com.tw/house/2025/09/01/175670139316404401.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19824271.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19824271.html",
     "posttime": 1773207798,
     "refreshtime": "4分鐘前",
     "last_seen": 1779379732
@@ -4269,7 +4269,7 @@ window.crawledData = [
     "age": 0,
     "address": "北園段",
     "photo": "https://img1.591.com.tw/house/2025/09/22/175851085018826502.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19893515.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19893515.html",
     "posttime": 1774144446,
     "refreshtime": "4分鐘前",
     "last_seen": 1779379732
@@ -4288,7 +4288,7 @@ window.crawledData = [
     "age": 0,
     "address": "",
     "photo": "https://img1.591.com.tw/house/2025/02/24/174039235762046704.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19900281.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19900281.html",
     "posttime": 1774246271,
     "refreshtime": "4分鐘前",
     "last_seen": 1779379732
@@ -4307,7 +4307,7 @@ window.crawledData = [
     "age": 0,
     "address": "明志路三段",
     "photo": "https://img2.591.com.tw/house/2025/12/29/176699224953644109.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19442962.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19442962.html",
     "posttime": 1766992309,
     "refreshtime": "4分鐘前",
     "last_seen": 1779379736
@@ -4326,7 +4326,7 @@ window.crawledData = [
     "age": 0,
     "address": "糞箕湖",
     "photo": "https://img2.591.com.tw/house/2026/04/11/177589055897328005.jpg!fit.1000x.water2.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19486457.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19486457.html",
     "posttime": 1767675180,
     "refreshtime": "4分鐘前",
     "last_seen": 1779379736
@@ -4345,7 +4345,7 @@ window.crawledData = [
     "age": 43,
     "address": "深坑街",
     "photo": "https://img1.591.com.tw/house/2024/09/27/172742779892636704.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19741588.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19741588.html",
     "posttime": 1772099888,
     "refreshtime": "5分鐘前",
     "last_seen": 1779379751
@@ -4364,7 +4364,7 @@ window.crawledData = [
     "age": 30,
     "address": "中山路一段65巷",
     "photo": "https://img.youtube.com/vi/whBfQNPQnQA/hqdefault.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19897270.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19897270.html",
     "posttime": 1774228362,
     "refreshtime": "4分鐘前",
     "last_seen": 1779379736
@@ -4383,7 +4383,7 @@ window.crawledData = [
     "age": 0,
     "address": "",
     "photo": "",
-    "url": "https://house.591.com.tw/sale-detail-19569892.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19569892.html",
     "posttime": 1768871023,
     "refreshtime": "4分鐘前",
     "last_seen": 1779379741
@@ -4402,7 +4402,7 @@ window.crawledData = [
     "age": 22,
     "address": "環河西路一段",
     "photo": "https://img2.591.com.tw/house/2026/03/21/177406701706627606.jpg!1000x.water2.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19746101.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19746101.html",
     "posttime": 1772173065,
     "refreshtime": "5分鐘前",
     "last_seen": 1779379776
@@ -4421,7 +4421,7 @@ window.crawledData = [
     "age": 20,
     "address": "長榮路",
     "photo": "https://img1.591.com.tw/house/2026/04/21/177676129961644101.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19751345.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19751345.html",
     "posttime": 1772251270,
     "refreshtime": "5分鐘前",
     "last_seen": 1779379778
@@ -4440,7 +4440,7 @@ window.crawledData = [
     "age": 52,
     "address": "忠孝路48巷",
     "photo": "https://img1.591.com.tw/house/2026/03/13/177339158994927005.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19840911.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19840911.html",
     "posttime": 1773391637,
     "refreshtime": "4分鐘前",
     "last_seen": 1779379741
@@ -4459,7 +4459,7 @@ window.crawledData = [
     "age": 0,
     "address": "東園段",
     "photo": "",
-    "url": "https://house.591.com.tw/sale-detail-19615148.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19615148.html",
     "posttime": 1769578913,
     "refreshtime": "4分鐘前",
     "last_seen": 1779379747
@@ -4478,7 +4478,7 @@ window.crawledData = [
     "age": 48,
     "address": "圓通路252巷",
     "photo": "https://img.youtube.com/vi/N4cwKgOpF2A/hqdefault.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19708154.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19708154.html",
     "posttime": 1771740532,
     "refreshtime": "4分鐘前",
     "last_seen": 1779379747
@@ -4497,7 +4497,7 @@ window.crawledData = [
     "age": 28,
     "address": "福德一路",
     "photo": "https://img2.591.com.tw/video/cover/2025-12-24/2833568.png!1000x.water2.png",
-    "url": "https://house.591.com.tw/sale-detail-19726858.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19726858.html",
     "posttime": 1771924995,
     "refreshtime": "5分鐘前",
     "last_seen": 1779379747
@@ -4516,7 +4516,7 @@ window.crawledData = [
     "age": 0,
     "address": "博愛街",
     "photo": "https://img1.591.com.tw/house/2024/04/14/171306428342186200.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19801088.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19801088.html",
     "posttime": 1772900750,
     "refreshtime": "5分鐘前",
     "last_seen": 1779379747
@@ -4535,7 +4535,7 @@ window.crawledData = [
     "age": 29,
     "address": "景新街",
     "photo": "https://img2.591.com.tw/house/2026/04/26/177718816162814806.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19809645.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19809645.html",
     "posttime": 1773038664,
     "refreshtime": "5分鐘前",
     "last_seen": 1779379747
@@ -4554,7 +4554,7 @@ window.crawledData = [
     "age": 30,
     "address": "五福路32巷",
     "photo": "https://img2.591.com.tw/house/2026/04/09/177573552228404801.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19113132.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19113132.html",
     "posttime": 1775735904,
     "refreshtime": "5分鐘前",
     "last_seen": 1779379751
@@ -4573,7 +4573,7 @@ window.crawledData = [
     "age": 46,
     "address": "福海街24巷",
     "photo": "https://img2.591.com.tw/house/2026/05/08/177821181332963003.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19638070.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19638070.html",
     "posttime": 1769997167,
     "refreshtime": "5分鐘前",
     "last_seen": 1779379751
@@ -4592,7 +4592,7 @@ window.crawledData = [
     "age": 37,
     "address": "福德一路",
     "photo": "https://img1.591.com.tw/house/2026/01/05/176760052505587500.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19810367.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19810367.html",
     "posttime": 1773042472,
     "refreshtime": "5分鐘前",
     "last_seen": 1779379751
@@ -4611,7 +4611,7 @@ window.crawledData = [
     "age": 16,
     "address": "學勤路",
     "photo": "https://img2.591.com.tw/video/cover/2025-07-13/2389584.png!1000x.water2.png",
-    "url": "https://house.591.com.tw/sale-detail-19839246.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19839246.html",
     "posttime": 1773384791,
     "refreshtime": "5分鐘前",
     "last_seen": 1779379751
@@ -4630,7 +4630,7 @@ window.crawledData = [
     "age": 3,
     "address": "三重路",
     "photo": "https://img2.591.com.tw/house/2026/04/01/177501425730938201.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19916433.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19916433.html",
     "posttime": 1774433473,
     "refreshtime": "5分鐘前",
     "last_seen": 1779379763
@@ -4649,7 +4649,7 @@ window.crawledData = [
     "age": 18,
     "address": "復興南路二段78巷",
     "photo": "https://img2.591.com.tw/house/2024/12/23/173491426511894102.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19938922.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19938922.html",
     "posttime": 1774790108,
     "refreshtime": "5分鐘前",
     "last_seen": 1779379763
@@ -4668,7 +4668,7 @@ window.crawledData = [
     "age": 43,
     "address": "敦化南路二段",
     "photo": "https://img2.591.com.tw/house/2025/05/11/174693794500247902.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19961888.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19961888.html",
     "posttime": 1775107024,
     "refreshtime": "5分鐘前",
     "last_seen": 1779379763
@@ -4687,7 +4687,7 @@ window.crawledData = [
     "age": 52,
     "address": "光復北路",
     "photo": "https://img2.591.com.tw/house/2026/03/04/177259009700929807.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19975263.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19975263.html",
     "posttime": 1775283398,
     "refreshtime": "5分鐘前",
     "last_seen": 1779379763
@@ -4706,7 +4706,7 @@ window.crawledData = [
     "age": 44,
     "address": "寶清街89巷",
     "photo": "https://img2.591.com.tw/house/2023/08/25/169295379580808604.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19916096.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19916096.html",
     "posttime": 1774430821,
     "refreshtime": "5分鐘前",
     "last_seen": 1779379767
@@ -4725,7 +4725,7 @@ window.crawledData = [
     "age": 6,
     "address": "興德路",
     "photo": "https://img2.591.com.tw/house/2026/01/06/176767412884865001.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19932829.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19932829.html",
     "posttime": 1774677172,
     "refreshtime": "5分鐘前",
     "last_seen": 1779379767
@@ -4744,7 +4744,7 @@ window.crawledData = [
     "age": 53,
     "address": "松山路465巷",
     "photo": "https://img1.591.com.tw/house/2025/09/24/175870016681156008.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19946464.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19946464.html",
     "posttime": 1774899664,
     "refreshtime": "5分鐘前",
     "last_seen": 1779379767
@@ -4763,7 +4763,7 @@ window.crawledData = [
     "age": 1,
     "address": "南京東路三段194巷",
     "photo": "https://img1.591.com.tw/house/2026/02/02/176999956396212804.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19638456.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19638456.html",
     "posttime": 1769999784,
     "refreshtime": "5分鐘前",
     "last_seen": 1779379771
@@ -4782,7 +4782,7 @@ window.crawledData = [
     "age": 47,
     "address": "中山北路六段405巷",
     "photo": "https://img1.591.com.tw/house/2026/05/18/177907606875163005.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19705907.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19705907.html",
     "posttime": 1771650816,
     "refreshtime": "5分鐘前",
     "last_seen": 1779379771
@@ -4801,7 +4801,7 @@ window.crawledData = [
     "age": 0,
     "address": "武成街63巷",
     "photo": "https://img1.591.com.tw/house/2026/04/02/177511407835317206.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19963236.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19963236.html",
     "posttime": 1775114789,
     "refreshtime": "5分鐘前",
     "last_seen": 1779379771
@@ -4820,7 +4820,7 @@ window.crawledData = [
     "age": 0,
     "address": "",
     "photo": "https://img2.591.com.tw/house/2025/11/22/176379593518369607.jpg!fit.1000x.water2.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19236926.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19236926.html",
     "posttime": 1763796547,
     "refreshtime": "5分鐘前",
     "last_seen": 1779379783
@@ -4839,7 +4839,7 @@ window.crawledData = [
     "age": 0,
     "address": "",
     "photo": "https://img1.591.com.tw/house/2024/02/22/170856601914188605.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19297083.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19297083.html",
     "posttime": 1764726312,
     "refreshtime": "5分鐘前",
     "last_seen": 1779379776
@@ -4858,7 +4858,7 @@ window.crawledData = [
     "age": 0,
     "address": "",
     "photo": "https://img1.591.com.tw/house/2024/12/05/173339035120507605.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19297905.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19297905.html",
     "posttime": 1764730813,
     "refreshtime": "5分鐘前",
     "last_seen": 1779379776
@@ -4877,7 +4877,7 @@ window.crawledData = [
     "age": 32,
     "address": "中興街二段42巷",
     "photo": "https://img2.591.com.tw/house/2025/11/27/176423917243659602.jpg!fit.1000x.water2.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19760149.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19760149.html",
     "posttime": 1772383614,
     "refreshtime": "5分鐘前",
     "last_seen": 1779379776
@@ -4896,7 +4896,7 @@ window.crawledData = [
     "age": 0,
     "address": "安康路一段247巷",
     "photo": "https://img2.591.com.tw/house/2025/12/19/176612052220718005.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19395024.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19395024.html",
     "posttime": 1766120691,
     "refreshtime": "5分鐘前",
     "last_seen": 1779379778
@@ -4915,7 +4915,7 @@ window.crawledData = [
     "age": 0,
     "address": "魚坑路171巷",
     "photo": "https://img1.591.com.tw/house/2021/03/11/161544667819947107.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19519604.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19519604.html",
     "posttime": 1768126440,
     "refreshtime": "5分鐘前",
     "last_seen": 1779379778
@@ -4934,7 +4934,7 @@ window.crawledData = [
     "age": 15,
     "address": "中山路329巷",
     "photo": "https://img1.591.com.tw/house/2026/02/13/177097898165170103.jpg!1000x.water2.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19697249.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19697249.html",
     "posttime": 1770979496,
     "refreshtime": "5分鐘前",
     "last_seen": 1779379778
@@ -4953,7 +4953,7 @@ window.crawledData = [
     "age": 44,
     "address": "太元街",
     "photo": "https://img2.591.com.tw/house/2026/02/05/177028131223602301.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19698864.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19698864.html",
     "posttime": 1771058547,
     "refreshtime": "5分鐘前",
     "last_seen": 1779379778
@@ -4972,7 +4972,7 @@ window.crawledData = [
     "age": 47,
     "address": "中和路305巷",
     "photo": "https://img1.591.com.tw/house/2026/01/22/176907124844161708.jpeg!400x300.jpeg",
-    "url": "https://house.591.com.tw/sale-detail-19585060.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19585060.html",
     "posttime": 1769071654,
     "refreshtime": "5分鐘前",
     "last_seen": 1779379783
@@ -4991,7 +4991,7 @@ window.crawledData = [
     "age": 42,
     "address": "安民街328巷",
     "photo": "https://img1.591.com.tw/house/2026/01/22/176908098856698007.jpeg!400x300.jpeg",
-    "url": "https://house.591.com.tw/sale-detail-19586116.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19586116.html",
     "posttime": 1769081165,
     "refreshtime": "5分鐘前",
     "last_seen": 1779379783
@@ -5010,7 +5010,7 @@ window.crawledData = [
     "age": 34,
     "address": "自強路",
     "photo": "https://img2.591.com.tw/house/2026/03/05/177268775404744900.png!400x300.png",
-    "url": "https://house.591.com.tw/sale-detail-19705931.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19705931.html",
     "posttime": 1771651594,
     "refreshtime": "5分鐘前",
     "last_seen": 1779379783
@@ -5029,9 +5029,199 @@ window.crawledData = [
     "age": 31,
     "address": "永福街111巷",
     "photo": "https://img2.591.com.tw/house/2026/05/20/177925233161336209.jpg!400x300.jpg",
-    "url": "https://house.591.com.tw/sale-detail-19706549.html",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19706549.html",
     "posttime": 1771670689,
     "refreshtime": "5分鐘前",
     "last_seen": 1779379783
+  },
+  {
+    "id": "19966757",
+    "title": "【寬悅團隊】三寶爸嚴選~低總價麗山學區誠心出售頂佳",
+    "price": 1798.0,
+    "unit_price": "59.09萬/坪",
+    "area": 30.43,
+    "room": "2房2廳1衛",
+    "region": "台北市",
+    "section": "內湖區",
+    "community": "",
+    "type": "公寓",
+    "age": 41,
+    "address": "港華街85巷",
+    "photo": "https://img2.591.com.tw/house/2025/06/01/174878366461785303.jpg!400x300.jpg",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19966757.html",
+    "posttime": 1775178617,
+    "refreshtime": "14分鐘前",
+    "last_seen": 1779431312
+  },
+  {
+    "id": "20136324",
+    "title": "【寬悅團隊】三寶爸推薦~漫步潭美．輕生活城市一樓",
+    "price": 1780.0,
+    "unit_price": "77.46萬/坪",
+    "area": 22.98,
+    "room": "2房2廳1衛",
+    "region": "台北市",
+    "section": "內湖區",
+    "community": "",
+    "type": "公寓",
+    "age": 52,
+    "address": "新明路380巷",
+    "photo": "https://img2.591.com.tw/house/2025/10/20/176096504413401608.jpg!400x300.jpg",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20136324.html",
+    "posttime": 1777810727,
+    "refreshtime": "14分鐘前",
+    "last_seen": 1779431312
+  },
+  {
+    "id": "20143912",
+    "title": "林森春暉新世界辦公大樓",
+    "price": 5488.0,
+    "unit_price": "54.19萬/坪",
+    "area": 101.27,
+    "room": "",
+    "region": "台北市",
+    "section": "中山區",
+    "community": "春暉新世界",
+    "type": "電梯大樓",
+    "age": 41,
+    "address": "林森北路",
+    "photo": "https://img2.591.com.tw/house/2026/05/04/177790006425946702.jpg!1000x.water2.jpg",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20143912.html",
+    "posttime": 1777901339,
+    "refreshtime": "19分鐘前",
+    "last_seen": 1779431312
+  },
+  {
+    "id": "20198562",
+    "title": "⭐彥銘好宅推薦⭐北投方正大二房公寓",
+    "price": 1198.0,
+    "unit_price": "44.01萬/坪",
+    "area": 27.22,
+    "room": "2房2廳1衛",
+    "region": "台北市",
+    "section": "北投區",
+    "community": "",
+    "type": "公寓",
+    "age": 46,
+    "address": "中和街502巷",
+    "photo": "https://img2.591.com.tw/house/2026/01/28/176958765513090902.jpg!400x300.jpg",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20198562.html",
+    "posttime": 1778660275,
+    "refreshtime": "19分鐘前",
+    "last_seen": 1779431312
+  },
+  {
+    "id": "20111109",
+    "title": "🍎強好屋🍎北大面寬庭園一樓🍎可營業登記🍎",
+    "price": 4898.0,
+    "unit_price": "102.23萬/坪",
+    "area": 47.91,
+    "room": "4房2廳2衛",
+    "region": "台北市",
+    "section": "中山區",
+    "community": "",
+    "type": "公寓",
+    "age": 44,
+    "address": "龍江路223巷",
+    "photo": "https://img1.591.com.tw/video/cover/2026-04-29/3059513.png!1000x.water2.png",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20111109.html",
+    "posttime": 1777430438,
+    "refreshtime": "24分鐘前",
+    "last_seen": 1779431312
+  },
+  {
+    "id": "20098787",
+    "title": "永豐公園📢黃金2F。美美三房兩廳",
+    "price": 1268.0,
+    "unit_price": "53.05萬/坪",
+    "area": 23.9,
+    "room": "3房2廳2衛",
+    "region": "新北市",
+    "section": "三重區",
+    "community": "",
+    "type": "公寓",
+    "age": 44,
+    "address": "永福街",
+    "photo": "https://img2.591.com.tw/house/2026/02/23/177183212203510203.jpg!400x300.jpg",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20098787.html",
+    "posttime": 1777258300,
+    "refreshtime": "4分鐘前",
+    "last_seen": 1779431317
+  },
+  {
+    "id": "20105795",
+    "title": "低總價～淡水優質社區伊東市清幽綠景無敵美妝2改1+1房",
+    "price": 968.0,
+    "unit_price": "37.68萬/坪",
+    "area": 25.69,
+    "room": "2房1廳1衛",
+    "region": "新北市",
+    "section": "淡水區",
+    "community": "伊東市",
+    "type": "電梯大樓",
+    "age": 13,
+    "address": "淡金路二段",
+    "photo": "https://img1.591.com.tw/house/2026/01/20/176888392741361006.jpg!400x300.jpg",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20105795.html",
+    "posttime": 1777347317,
+    "refreshtime": "4分鐘前",
+    "last_seen": 1779431317
+  },
+  {
+    "id": "20195865",
+    "title": "台北灣銀河稀有露台戶精美裝潢2房",
+    "price": 996.0,
+    "unit_price": "44.66萬/坪",
+    "area": 22.3,
+    "room": "2房2廳1衛",
+    "region": "新北市",
+    "section": "淡水區",
+    "community": "台北灣 銀河",
+    "type": "電梯大樓",
+    "age": 9,
+    "address": "新市一路一段",
+    "photo": "https://img2.591.com.tw/house/2026/03/11/177320343491896308.jpg!1000x.water2.jpg",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20195865.html",
+    "posttime": 1778643866,
+    "refreshtime": "4分鐘前",
+    "last_seen": 1779431317
+  },
+  {
+    "id": "20048642",
+    "title": "🎖️卓悅聯盟🎖️中港商圈‧2樓邊間採光美寓⭐️小涵",
+    "price": 1580.0,
+    "unit_price": "59.18萬/坪",
+    "area": 26.7,
+    "room": "3房1廳2衛",
+    "region": "新北市",
+    "section": "新莊區",
+    "community": "",
+    "type": "公寓",
+    "age": 47,
+    "address": "中港一街",
+    "photo": "https://img2.591.com.tw/house/2026/04/16/177633754624611402.jpg!400x300.jpg",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20048642.html",
+    "posttime": 1776337582,
+    "refreshtime": "9分鐘前",
+    "last_seen": 1779431317
+  },
+  {
+    "id": "19542536",
+    "title": "萬大線機場站旁農地~臨馬路~可倉庫或辦公室",
+    "price": 4700.0,
+    "unit_price": "37.64萬/坪",
+    "area": 124.87,
+    "room": "",
+    "region": "新北市",
+    "section": "土城區",
+    "community": "",
+    "type": 3,
+    "age": 0,
+    "address": "",
+    "photo": "https://img1.591.com.tw/house/2026/01/15/176844853159712108.jpg!400x300.jpg",
+    "url": "https://sale.591.com.tw/home/house/detail/2/19542536.html",
+    "posttime": 1768448568,
+    "refreshtime": "14分鐘前",
+    "last_seen": 1779431317
   }
 ];
