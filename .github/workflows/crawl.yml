@@ -1,6 +1,12 @@
 name: Crawl 591 Sale Listings
 
 on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - 'data.json'
+      - 'data.js'
   schedule:
     - cron: '0 * * * *' # Run every hour
   workflow_dispatch: # Enable manual run trigger
