@@ -44,7 +44,8 @@ const elements = {
   statTotal: document.querySelector('#stat-total .stat-value'),
   statAvgPrice: document.querySelector('#stat-avg-price .stat-value'),
   statAvgUnit: document.querySelector('#stat-avg-unit .stat-value'),
-  statCheapest: document.querySelector('#stat-cheapest .stat-value')
+  statCheapest: document.querySelector('#stat-cheapest .stat-value'),
+  statUpdate: document.querySelector('#stat-update .stat-value')
 };
 
 // Initialize App
@@ -92,12 +93,6 @@ async function fetchData() {
     // Sort initially by ID (newest or order of crawling)
     allHouses.reverse();
     
-    elements.syncTime.textContent = new Date().toLocaleTimeString('zh-TW', {
-      hour: '2-digit',
-      minute: '2-digit',
-      second: '2-digit'
-    });
-    
     populateSections();
     applyFilters();
   } catch (error) {
@@ -108,12 +103,6 @@ async function fetchData() {
       console.log('Fetch failed, falling back to window.crawledData.');
       allHouses = window.crawledData;
       allHouses.reverse();
-      
-      elements.syncTime.textContent = new Date().toLocaleTimeString('zh-TW', {
-        hour: '2-digit',
-        minute: '2-digit',
-        second: '2-digit'
-      });
       
       populateSections();
       applyFilters();
@@ -431,6 +420,33 @@ function updateStats() {
     if (h.price > 0 && h.price < minPrice) minPrice = h.price;
   });
   elements.statCheapest.textContent = minPrice !== Infinity ? `${minPrice} 萬` : '--';
+
+  // Crawler Update Info
+  if (allHouses.length > 0) {
+    const lastCrawlTime = Math.max(...allHouses.map(h => h.last_seen || 0));
+    if (lastCrawlTime > 0) {
+      const lastCrawlDate = new Date(lastCrawlTime * 1000);
+      const formattedTime = lastCrawlDate.toLocaleString('zh-TW', {
+        month: '2-digit',
+        day: '2-digit',
+        hour: '2-digit',
+        minute: '2-digit',
+        hour12: false
+      });
+      // Count items updated within 10 minutes of the last crawl time
+      const latestRunCount = allHouses.filter(h => lastCrawlTime - h.last_seen < 600).length;
+      if (elements.statUpdate) {
+        elements.statUpdate.innerHTML = `${formattedTime} <span style="font-size:0.75rem; font-weight:500; color:var(--text-muted);"> (新爬取 ${latestRunCount} 筆)</span>`;
+      }
+      if (elements.syncTime) {
+        elements.syncTime.textContent = `${lastCrawlDate.toLocaleString('zh-TW')} (本次更新 ${latestRunCount} 筆)`;
+      }
+    } else {
+      if (elements.statUpdate) elements.statUpdate.textContent = '未知';
+    }
+  } else {
+    if (elements.statUpdate) elements.statUpdate.textContent = '--';
+  }
 }
 
 // Render active filter chips above the grid
