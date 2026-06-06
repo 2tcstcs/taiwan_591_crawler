@@ -699,8 +699,8 @@ window.crawledData = [
     "photo": "https://img2.591.com.tw/house/2026/04/27/177727253137133908.jpg!400x300.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20101172.html",
     "posttime": 1777273054,
-    "refreshtime": "10分鐘前",
-    "last_seen": 1780618191
+    "refreshtime": "6分鐘前",
+    "last_seen": 1780747538
   },
   {
     "id": "20018824",
@@ -1931,11 +1931,11 @@ window.crawledData = [
     "type": "電梯大樓",
     "age": 36,
     "address": "基隆路二段",
-    "photo": "https://img1.591.com.tw/house/2026/04/20/177668311818255305.jpg!1000x.water2.jpg",
+    "photo": "https://img2.591.com.tw/house/2026/04/20/177668311818255305.jpg!1000x.water2.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20067549.html",
     "posttime": 1776683300,
-    "refreshtime": "3分鐘前",
-    "last_seen": 1780185736
+    "refreshtime": "6分鐘前",
+    "last_seen": 1780747538
   },
   {
     "id": "20243283",
@@ -7807,5 +7807,62 @@ window.crawledData = [
     "posttime": 1775988395,
     "refreshtime": "24分鐘前",
     "last_seen": 1780721633
+  },
+  {
+    "id": "20098907",
+    "title": "【寬悅團隊】三寶爸嚴選~AIT使館特區~雅苑套房綠映高樓",
+    "price": 1088.0,
+    "unit_price": "88.82萬/坪",
+    "area": 12.25,
+    "room": "1房1廳1衛",
+    "region": "台北市",
+    "section": "內湖區",
+    "community": "雅苑大廈",
+    "type": "電梯大樓",
+    "age": 34,
+    "address": "康寧路一段",
+    "photo": "https://img2.591.com.tw/video/cover/2026-03-06/2977862.png!1000x.water2.png",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20098907.html",
+    "posttime": 1777258928,
+    "refreshtime": "1分鐘前",
+    "last_seen": 1780747538
+  },
+  {
+    "id": "20005767",
+    "title": "行天宮捷運錦州1樓🏆住商松江民生冠軍團隊🏆[小松]",
+    "price": 3450.0,
+    "unit_price": "133萬/坪",
+    "area": 25.94,
+    "room": "3房2廳2衛",
+    "region": "台北市",
+    "section": "中山區",
+    "community": "",
+    "type": "公寓",
+    "age": 61,
+    "address": "錦州街175巷",
+    "photo": "https://img1.591.com.tw/house/2026/04/09/177572581137339200.jpg!400x300.jpg",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20005767.html",
+    "posttime": 1775725859,
+    "refreshtime": "6分鐘前",
+    "last_seen": 1780747538
+  },
+  {
+    "id": "20071797",
+    "title": "🌟住商小宇🌟稀有青年公園全新裝潢2房孝親1樓",
+    "price": 1458.0,
+    "unit_price": "88.85萬/坪",
+    "area": 16.41,
+    "room": "2房1廳2衛",
+    "region": "台北市",
+    "section": "萬華區",
+    "community": "臺北市國興",
+    "type": "電梯大樓",
+    "age": 43,
+    "address": "國興路1巷",
+    "photo": "https://img1.591.com.tw/house/2026/02/24/177192773847577102.jpg!400x300.jpg",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20071797.html",
+    "posttime": 1776761067,
+    "refreshtime": "6分鐘前",
+    "last_seen": 1780747538
   }
 ];
