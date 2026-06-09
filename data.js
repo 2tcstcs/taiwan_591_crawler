@@ -1007,25 +1007,6 @@ window.crawledData = [
     "last_seen": 1780606655
   },
   {
-    "id": "19983061",
-    "title": "激推💥北投膝蓋救星低總價一樓美寓💥",
-    "price": 1268.0,
-    "unit_price": "45.55萬/坪",
-    "area": 27.84,
-    "room": "3房1廳1衛",
-    "region": "台北市",
-    "section": "北投區",
-    "community": "",
-    "type": "公寓",
-    "age": 56,
-    "address": "開明街23巷",
-    "photo": "https://img2.591.com.tw/house/2026/05/21/177935558759348508.jpg!400x300.jpg",
-    "url": "https://sale.591.com.tw/home/house/detail/2/19983061.html",
-    "posttime": 1775446473,
-    "refreshtime": "5小時前",
-    "last_seen": 1780436949
-  },
-  {
     "id": "20132776",
     "title": "中山國小,民權西路雙捷運中山北路面寬金店面增值潛力高稀有釋出",
     "price": 5880.0,
@@ -1062,25 +1043,6 @@ window.crawledData = [
     "posttime": 1771585343,
     "refreshtime": "4小時前",
     "last_seen": 1780689681
-  },
-  {
-    "id": "20165652",
-    "title": "新生金華高樓名邸",
-    "price": 4688.0,
-    "unit_price": "122.98萬/坪",
-    "area": 38.12,
-    "room": "3房2廳2衛",
-    "region": "台北市",
-    "section": "大安區",
-    "community": "青田名邸",
-    "type": "電梯大樓",
-    "age": 38,
-    "address": "和平東路一段",
-    "photo": "https://img2.591.com.tw/house/2026/05/08/177821106730731202.jpg!400x300.jpg",
-    "url": "https://sale.591.com.tw/home/house/detail/2/20165652.html",
-    "posttime": 1778211275,
-    "refreshtime": "6小時前",
-    "last_seen": 1780436942
   },
   {
     "id": "20221300",
@@ -1406,25 +1368,6 @@ window.crawledData = [
     "last_seen": 1780910632
   },
   {
-    "id": "20284263",
-    "title": "專約⭐大偉談最便宜⭐龍山寺站西門雙捷台北晶麒美妝2房坡平車位",
-    "price": 2086.0,
-    "unit_price": "94.44萬/坪",
-    "area": 29.63,
-    "room": "2房1廳1衛",
-    "region": "台北市",
-    "section": "萬華區",
-    "community": "台北晶麒",
-    "type": "電梯大樓",
-    "age": 10,
-    "address": "康定路",
-    "photo": "https://img1.591.com.tw/house/2026/04/25/177705990482355209.jpg!400x300.jpg",
-    "url": "https://sale.591.com.tw/home/house/detail/2/20284263.html",
-    "posttime": 1779934060,
-    "refreshtime": "5小時前",
-    "last_seen": 1780436942
-  },
-  {
     "id": "20198018",
     "title": "彥銘推薦✨青茵樂｜捷運綠廊3房含車位",
     "price": 2480.0,
@@ -1613,25 +1556,6 @@ window.crawledData = [
     "posttime": 1776314348,
     "refreshtime": "4小時前",
     "last_seen": 1780950052
-  },
-  {
-    "id": "20141284",
-    "title": "台北文山約105坪｜9房收租宅｜自住+收租＋車位",
-    "price": 3180.0,
-    "unit_price": "30.28萬/坪",
-    "area": 105.02,
-    "room": "9房2廳3衛",
-    "region": "台北市",
-    "section": "文山區",
-    "community": "山林軒",
-    "type": "電梯大樓",
-    "age": 35,
-    "address": "恆光街",
-    "photo": "https://img2.591.com.tw/house/2026/05/04/177788158903966500.jpg!400x300.jpg",
-    "url": "https://sale.591.com.tw/home/house/detail/2/20141284.html",
-    "posttime": 1777881703,
-    "refreshtime": "5小時前",
-    "last_seen": 1780436949
   },
   {
     "id": "20166812",
