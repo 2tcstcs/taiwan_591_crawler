@@ -433,8 +433,8 @@
     "photo": "https://img2.591.com.tw/house/2026/04/25/177708562055677905.jpg!400x300.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20090560.html",
     "posttime": 1777086117,
-    "refreshtime": "4小時前",
-    "last_seen": 1781468393
+    "refreshtime": "5小時前",
+    "last_seen": 1781475144
   },
   {
     "id": "20029875",
@@ -1649,8 +1649,8 @@
     "photo": "https://img1.591.com.tw/house/2026/04/12/177596843999425005.jpg!400x300.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20021410.html",
     "posttime": 1777019345,
-    "refreshtime": "6小時前",
-    "last_seen": 1781391987
+    "refreshtime": "5小時前",
+    "last_seen": 1781475144
   },
   {
     "id": "20332727",
@@ -8296,11 +8296,11 @@
     "type": "電梯大樓",
     "age": 2,
     "address": "德惠街",
-    "photo": "https://img2.591.com.tw/house/2024/07/16/172112435919096806.jpg!400x300.jpg",
+    "photo": "https://img1.591.com.tw/house/2024/07/16/172112435919096806.jpg!400x300.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20199304.html",
     "posttime": 1778664924,
-    "refreshtime": "3小時前",
-    "last_seen": 1781468371
+    "refreshtime": "38分鐘前",
+    "last_seen": 1781475144
   },
   {
     "id": "20338230",
@@ -8662,5 +8662,43 @@
     "posttime": 1780373354,
     "refreshtime": "3小時前",
     "last_seen": 1781468432
+  },
+  {
+    "id": "20377890",
+    "title": "敦南世界大廈林蔭3房",
+    "price": 3850.0,
+    "unit_price": "113.7萬/坪",
+    "area": 33.86,
+    "room": "3房2廳2衛",
+    "region": "台北市",
+    "section": "大安區",
+    "community": "敦化南路二段128號",
+    "type": "電梯大樓",
+    "age": 47,
+    "address": "敦化南路二段",
+    "photo": "https://img1.591.com.tw/house/2026/06/12/178127443450792709.jpg!400x300.jpg",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20377890.html",
+    "posttime": 1781275086,
+    "refreshtime": "4小時前",
+    "last_seen": 1781475144
+  },
+  {
+    "id": "20166812",
+    "title": "小不點推薦🎀康寧國小附近2層使用空間",
+    "price": 2000.0,
+    "unit_price": "65.66萬/坪",
+    "area": 30.46,
+    "room": "3房2廳2衛",
+    "region": "台北市",
+    "section": "內湖區",
+    "community": "",
+    "type": "公寓",
+    "age": 46,
+    "address": "康寧路一段156巷",
+    "photo": "https://img2.591.com.tw/house/2024/01/28/170642045505661202.png!400x300.png",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20166812.html",
+    "posttime": 1778219723,
+    "refreshtime": "6小時前",
+    "last_seen": 1781475144
   }
 ]
