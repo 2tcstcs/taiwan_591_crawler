@@ -1228,11 +1228,11 @@
     "type": "電梯大樓",
     "age": 38,
     "address": "長安東路一段53巷",
-    "photo": "https://img1.591.com.tw/house/2026/03/07/177287335910376007.jpg!fit.1000x.water2.jpg",
+    "photo": "https://img2.591.com.tw/house/2026/03/07/177287335910376007.jpg!fit.1000x.water2.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20168331.html",
     "posttime": 1778227221,
-    "refreshtime": "20分鐘前",
-    "last_seen": 1781710502
+    "refreshtime": "4小時前",
+    "last_seen": 1781899198
   },
   {
     "id": "20052327",
@@ -8011,11 +8011,11 @@
     "type": "電梯大樓",
     "age": 16,
     "address": "長春路",
-    "photo": "https://img1.591.com.tw/house/2026/06/05/178066063265797709.jpg!1000x.water2.jpg",
+    "photo": "https://img2.591.com.tw/house/2026/06/05/178066063265797709.jpg!1000x.water2.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20337647.html",
     "posttime": 1780659775,
-    "refreshtime": "20分鐘前",
-    "last_seen": 1781787274
+    "refreshtime": "3小時前",
+    "last_seen": 1781899198
   },
   {
     "id": "20343103",
@@ -8548,5 +8548,62 @@
     "posttime": 1780659654,
     "refreshtime": "6小時前",
     "last_seen": 1781820623
+  },
+  {
+    "id": "20401821",
+    "title": "夢想家電梯兩房+車位|24h管理|🐷舒舒極推🐷",
+    "price": 2450.0,
+    "unit_price": "77.19萬/坪",
+    "area": 31.74,
+    "room": "2房1廳1衛",
+    "region": "台北市",
+    "section": "內湖區",
+    "community": "夢想家",
+    "type": "電梯大樓",
+    "age": 14,
+    "address": "新明路498巷",
+    "photo": "https://img2.591.com.tw/house/2026/06/16/178161524416334907.jpg!400x300.jpg",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20401821.html",
+    "posttime": 1781615341,
+    "refreshtime": "3小時前",
+    "last_seen": 1781899198
+  },
+  {
+    "id": "20335122",
+    "title": "誠美經典2房雙車~南京復興站🌈中正國小🌈",
+    "price": 3698.0,
+    "unit_price": "138.64萬/坪",
+    "area": 52.74,
+    "room": "2房1廳1衛",
+    "region": "台北市",
+    "section": "中山區",
+    "community": "誠美知寓.CASA",
+    "type": "電梯大樓",
+    "age": 0,
+    "address": "南京東路三段194巷",
+    "photo": "https://img2.591.com.tw/house/2026/05/23/177951548115547503.jpg!400x300.jpg",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20335122.html",
+    "posttime": 1780645174,
+    "refreshtime": "4小時前",
+    "last_seen": 1781899198
+  },
+  {
+    "id": "20398314",
+    "title": "民生圓環電梯三房獨家專賣🏆21承蓁🏆",
+    "price": 2680.0,
+    "unit_price": "100.83萬/坪",
+    "area": 26.58,
+    "room": "3房2廳1衛",
+    "region": "台北市",
+    "section": "松山區",
+    "community": "名人世界",
+    "type": "電梯大樓",
+    "age": 41,
+    "address": "民生東路五段",
+    "photo": "https://img2.591.com.tw/house/2024/07/12/172076782163158402.jpg!1000x.water2.jpg",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20398314.html",
+    "posttime": 1781586977,
+    "refreshtime": "4小時前",
+    "last_seen": 1781899198
   }
 ]
