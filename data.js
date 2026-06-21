@@ -1007,25 +1007,6 @@ window.crawledData = [
     "last_seen": 1782076533
   },
   {
-    "id": "20166812",
-    "title": "小不點推薦🎀康寧國小附近2層使用空間",
-    "price": 2000.0,
-    "unit_price": "65.66萬/坪",
-    "area": 30.46,
-    "room": "3房2廳2衛",
-    "region": "台北市",
-    "section": "內湖區",
-    "community": "",
-    "type": "公寓",
-    "age": 46,
-    "address": "康寧路一段156巷",
-    "photo": "https://img2.591.com.tw/house/2024/01/28/170642045505661202.png!400x300.png",
-    "url": "https://sale.591.com.tw/home/house/detail/2/20166812.html",
-    "posttime": 1778219723,
-    "refreshtime": "6小時前",
-    "last_seen": 1781475144
-  },
-  {
     "id": "20331322",
     "title": "大搶手👍大安和平大苑校園綠景高樓豪邸｜金華學區",
     "price": 25000.0,
