@@ -2941,8 +2941,8 @@
     "photo": "https://img1.591.com.tw/video/cover/2026-04-23/3051926.png!1000x.water2.png",
     "url": "https://sale.591.com.tw/home/house/detail/2/19844948.html",
     "posttime": 1773460468,
-    "refreshtime": "34分鐘前",
-    "last_seen": 1782143596
+    "refreshtime": "17分鐘前",
+    "last_seen": 1782404772
   },
   {
     "id": "20132325",
@@ -4553,11 +4553,11 @@
     "type": "廠辦",
     "age": 36,
     "address": "立德路159巷",
-    "photo": "https://img1.591.com.tw/house/2026/06/24/178228921195498504.jpg!400x300.jpg",
+    "photo": "https://img2.591.com.tw/house/2026/06/24/178228921195498504.jpg!400x300.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20440848.html",
     "posttime": 1782289279,
-    "refreshtime": "4小時前",
-    "last_seen": 1782330492
+    "refreshtime": "2分鐘前",
+    "last_seen": 1782404772
   },
   {
     "id": "20207771",
@@ -4805,5 +4805,62 @@
     "posttime": 1780973618,
     "refreshtime": "5小時前",
     "last_seen": 1782336241
+  },
+  {
+    "id": "20303185",
+    "title": "~降價讓利~正馬路無限棟距超值頂加好宅",
+    "price": 1998.0,
+    "unit_price": "69.96萬/坪",
+    "area": 28.56,
+    "room": "5房3廳3衛",
+    "region": "台北市",
+    "section": "松山區",
+    "community": "",
+    "type": "公寓",
+    "age": 46,
+    "address": "民權東路五段",
+    "photo": "https://img2.591.com.tw/house/2026/06/01/178032857856192501.png!400x300.png",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20303185.html",
+    "posttime": 1780330090,
+    "refreshtime": "7分鐘前",
+    "last_seen": 1782404772
+  },
+  {
+    "id": "20422275",
+    "title": "Aの鉑金苑◎沐森爵品二房+車｜捷運3分鐘+Lala◎LEO",
+    "price": 3988.0,
+    "unit_price": "115.9萬/坪",
+    "area": 34.41,
+    "room": "2房2廳1衛",
+    "region": "台北市",
+    "section": "南港區",
+    "community": "鉑金苑",
+    "type": "電梯大樓",
+    "age": 11,
+    "address": "經貿二路235巷",
+    "photo": "https://img.youtube.com/vi/LLGyY7AaltQ/hqdefault.jpg",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20422275.html",
+    "posttime": 1782016119,
+    "refreshtime": "7分鐘前",
+    "last_seen": 1782404772
+  },
+  {
+    "id": "20280376",
+    "title": "\t【南港無雙日升月恆｜南軟指標豪宅｜千坪花園泳池景觀四房】",
+    "price": 11600.0,
+    "unit_price": "123.47萬/坪",
+    "area": 104.15,
+    "room": "4房2廳3衛",
+    "region": "台北市",
+    "section": "南港區",
+    "community": "日升月恆",
+    "type": "電梯大樓",
+    "age": 11,
+    "address": "經貿二路235巷【南港無雙日升月恆｜南軟指標豪宅｜千坪花園泳池景觀四房】",
+    "photo": "https://img1.591.com.tw/house/2025/03/06/174124679257509506.jpg!400x300.jpg",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20280376.html",
+    "posttime": 1779861770,
+    "refreshtime": "12分鐘前",
+    "last_seen": 1782404772
   }
 ]
