@@ -92,7 +92,7 @@
     "url": "https://sale.591.com.tw/home/house/detail/2/20180102.html",
     "posttime": 1778464335,
     "refreshtime": "2小時前",
-    "last_seen": 1782237464
+    "last_seen": 1782583496
   },
   {
     "id": "20179451",
@@ -110,8 +110,8 @@
     "photo": "https://img1.591.com.tw/house/2026/05/10/177842069753632109.jpg!400x300.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20179451.html",
     "posttime": 1778419687,
-    "refreshtime": "4小時前",
-    "last_seen": 1782506866
+    "refreshtime": "35分鐘前",
+    "last_seen": 1782583501
   },
   {
     "id": "20108323",
@@ -908,8 +908,8 @@
     "photo": "https://img2.591.com.tw/house/2024/07/12/172076782163158402.jpg!1000x.water2.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20398314.html",
     "posttime": 1781586977,
-    "refreshtime": "4小時前",
-    "last_seen": 1782330497
+    "refreshtime": "2小時前",
+    "last_seen": 1782583501
   },
   {
     "id": "34577",
@@ -984,8 +984,8 @@
     "photo": "https://img.youtube.com/vi/D8Qnp6WTB5E/hqdefault.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20332826.html",
     "posttime": 1780631015,
-    "refreshtime": "7小時前",
-    "last_seen": 1782429586
+    "refreshtime": "50分鐘前",
+    "last_seen": 1782583501
   },
   {
     "id": "19984387",
@@ -2615,11 +2615,11 @@
     "type": "電梯大樓",
     "age": 49,
     "address": "民權東路二段",
-    "photo": "https://img2.591.com.tw/house/2026/05/08/177822270968976402.jpg!400x300.jpg",
+    "photo": "https://img1.591.com.tw/house/2026/05/08/177822270968976402.jpg!400x300.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20167376.html",
     "posttime": 1778222732,
-    "refreshtime": "4小時前",
-    "last_seen": 1782245691
+    "refreshtime": "2小時前",
+    "last_seen": 1782583496
   },
   {
     "id": "20335114",
@@ -5090,5 +5090,100 @@
     "posttime": 1771069260,
     "refreshtime": "25分鐘前",
     "last_seen": 1782536050
+  },
+  {
+    "id": "20415287",
+    "title": "市府挑高時尚2房|高質感,電梯管理|🎾里昂推薦🎾",
+    "price": 2068.0,
+    "unit_price": "119.4萬/坪",
+    "area": 17.32,
+    "room": "2房1廳1衛",
+    "region": "台北市",
+    "section": "信義區",
+    "community": "艾蜜麗",
+    "type": "電梯大樓",
+    "age": 8,
+    "address": "永吉路127巷",
+    "photo": "https://img2.591.com.tw/house/2026/06/19/178185400402886808.jpg!400x300.jpg",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20415287.html",
+    "posttime": 1781854259,
+    "refreshtime": "50分鐘前",
+    "last_seen": 1782583496
+  },
+  {
+    "id": "20410266",
+    "title": "太子敦園高樓雙車豪邸|明星學區,三面採光|🎾里昂推薦",
+    "price": 7100.0,
+    "unit_price": "123.1萬/坪",
+    "area": 78.93,
+    "room": "3房2廳2衛",
+    "region": "台北市",
+    "section": "松山區",
+    "community": "太子敦園大廈",
+    "type": "電梯大樓",
+    "age": 21,
+    "address": "光復北路26巷",
+    "photo": "https://img1.591.com.tw/house/2026/06/18/178176552231359309.jpg!400x300.jpg",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20410266.html",
+    "posttime": 1781765553,
+    "refreshtime": "2小時前",
+    "last_seen": 1782583496
+  },
+  {
+    "id": "20293588",
+    "title": "【寬悅團隊】稀有釋出近內湖捷運黃金三樓典雅美寓",
+    "price": 1790.0,
+    "unit_price": "62.83萬/坪",
+    "area": 28.49,
+    "room": "3房2廳1衛",
+    "region": "台北市",
+    "section": "內湖區",
+    "community": "星雲街15巷",
+    "type": "公寓",
+    "age": 42,
+    "address": "星雲街15巷",
+    "photo": "https://img2.591.com.tw/house/2025/07/23/175323920437883706.jpg!400x300.jpg",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20293588.html",
+    "posttime": 1780041199,
+    "refreshtime": "2小時前",
+    "last_seen": 1782583496
+  },
+  {
+    "id": "20400766",
+    "title": "鋼骨信義香榭美2房|輕屋齡,24H管理|🐷舒舒極推🐷",
+    "price": 3298.0,
+    "unit_price": "119.28萬/坪",
+    "area": 27.65,
+    "room": "2房1廳1衛",
+    "region": "台北市",
+    "section": "信義區",
+    "community": "信義香榭",
+    "type": "電梯大樓",
+    "age": 19,
+    "address": "信義路五段",
+    "photo": "https://img1.591.com.tw/house/2026/06/16/178160694412206404.jpg!400x300.jpg",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20400766.html",
+    "posttime": 1781603043,
+    "refreshtime": "40分鐘前",
+    "last_seen": 1782583501
+  },
+  {
+    "id": "20095272",
+    "title": "南港・國際新東區核心｜聯勤四季紅-LaLaP爵品3房◎LEO",
+    "price": 5128.0,
+    "unit_price": "120.83萬/坪",
+    "area": 50.62,
+    "room": "3房2廳2衛",
+    "region": "台北市",
+    "section": "南港區",
+    "community": "聯勤四季紅",
+    "type": "電梯大樓",
+    "age": 15,
+    "address": "園區街",
+    "photo": "https://img.youtube.com/vi/m6SPmYEwKLc/hqdefault.jpg",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20095272.html",
+    "posttime": 1777179287,
+    "refreshtime": "2小時前",
+    "last_seen": 1782583501
   }
 ]
