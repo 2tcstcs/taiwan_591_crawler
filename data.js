@@ -703,25 +703,6 @@ window.crawledData = [
     "last_seen": 1782992118
   },
   {
-    "id": "19844948",
-    "title": "🍎文德捷運站內湖成熟生活圈3房美寓收租自用皆適合🍎",
-    "price": 1580.0,
-    "unit_price": "64.23萬/坪",
-    "area": 24.6,
-    "room": "3房2廳2衛",
-    "region": "台北市",
-    "section": "內湖區",
-    "community": "",
-    "type": "公寓",
-    "age": 42,
-    "address": "陽光街",
-    "photo": "https://img1.591.com.tw/video/cover/2026-04-23/3051926.png!1000x.water2.png",
-    "url": "https://sale.591.com.tw/home/house/detail/2/19844948.html",
-    "posttime": 1773460468,
-    "refreshtime": "17分鐘前",
-    "last_seen": 1782404772
-  },
-  {
     "id": "20239399",
     "title": "實踐國中💎台北知音河畔2房車位💎稀有釋出~來電了解",
     "price": 1880.0,
@@ -1252,25 +1233,6 @@ window.crawledData = [
     "posttime": 1780330090,
     "refreshtime": "5小時前",
     "last_seen": 1782506872
-  },
-  {
-    "id": "20422275",
-    "title": "Aの鉑金苑◎沐森爵品二房+車｜捷運3分鐘+Lala◎LEO",
-    "price": 3988.0,
-    "unit_price": "115.9萬/坪",
-    "area": 34.41,
-    "room": "2房2廳1衛",
-    "region": "台北市",
-    "section": "南港區",
-    "community": "鉑金苑",
-    "type": "電梯大樓",
-    "age": 11,
-    "address": "經貿二路235巷",
-    "photo": "https://img.youtube.com/vi/LLGyY7AaltQ/hqdefault.jpg",
-    "url": "https://sale.591.com.tw/home/house/detail/2/20422275.html",
-    "posttime": 1782016119,
-    "refreshtime": "7分鐘前",
-    "last_seen": 1782404772
   },
   {
     "id": "20280376",
