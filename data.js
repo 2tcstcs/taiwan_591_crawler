@@ -1,24 +1,5 @@
 window.crawledData = [
   {
-    "id": "19977929",
-    "title": "公園、捷運便利宅～三房+車位",
-    "price": 3288.0,
-    "unit_price": "96.76萬/坪",
-    "area": 33.98,
-    "room": "3房2廳1衛",
-    "region": "台北市",
-    "section": "內湖區",
-    "community": "風和日麗",
-    "type": "電梯大樓",
-    "age": 27,
-    "address": "成功路五段420巷",
-    "photo": "https://img1.591.com.tw/house/2026/04/05/177532555972816901.jpg!400x300.jpg",
-    "url": "https://sale.591.com.tw/home/house/detail/2/19977929.html",
-    "posttime": 1775372412,
-    "refreshtime": "4小時前",
-    "last_seen": 1782590932
-  },
-  {
     "id": "20180102",
     "title": "🏆成交僅收0.6%🔥不演戲不套路🔥高樓景觀",
     "price": 1888.0,
@@ -34,27 +15,8 @@ window.crawledData = [
     "photo": "https://img2.591.com.tw/house/2026/05/11/177846405828202508.jpg!400x300.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20180102.html",
     "posttime": 1778464335,
-    "refreshtime": "32分鐘前",
-    "last_seen": 1783188109
-  },
-  {
-    "id": "20179451",
-    "title": "中山區超低總價電梯套房雙捷運邊間面綠蛋黃區",
-    "price": 850.0,
-    "unit_price": "103.53萬/坪",
-    "area": 8.21,
-    "room": "1房1衛",
-    "region": "台北市",
-    "section": "中山區",
-    "community": "米蘭名廈",
-    "type": "電梯大樓",
-    "age": 43,
-    "address": "撫順街41巷",
-    "photo": "https://img1.591.com.tw/house/2026/05/10/177842069753632109.jpg!400x300.jpg",
-    "url": "https://sale.591.com.tw/home/house/detail/2/20179451.html",
-    "posttime": 1778419687,
-    "refreshtime": "35分鐘前",
-    "last_seen": 1782583501
+    "refreshtime": "3小時前",
+    "last_seen": 1783195771
   },
   {
     "id": "20337326",
@@ -244,7 +206,7 @@ window.crawledData = [
     "url": "https://sale.591.com.tw/home/house/detail/2/29267.html",
     "posttime": null,
     "refreshtime": null,
-    "last_seen": 1783116342
+    "last_seen": 1783195806
   },
   {
     "id": "3681580",
@@ -263,7 +225,7 @@ window.crawledData = [
     "url": "https://sale.591.com.tw/home/house/detail/2/3681580.html",
     "posttime": null,
     "refreshtime": null,
-    "last_seen": 1783116342
+    "last_seen": 1783195806
   },
   {
     "id": "34062",
@@ -282,7 +244,7 @@ window.crawledData = [
     "url": "https://sale.591.com.tw/home/house/detail/2/34062.html",
     "posttime": null,
     "refreshtime": null,
-    "last_seen": 1783116342
+    "last_seen": 1783195806
   },
   {
     "id": "102305",
@@ -301,7 +263,7 @@ window.crawledData = [
     "url": "https://sale.591.com.tw/home/house/detail/2/102305.html",
     "posttime": null,
     "refreshtime": null,
-    "last_seen": 1783116342
+    "last_seen": 1783195806
   },
   {
     "id": "9782",
@@ -339,7 +301,7 @@ window.crawledData = [
     "url": "https://sale.591.com.tw/home/house/detail/2/3699741.html",
     "posttime": null,
     "refreshtime": null,
-    "last_seen": 1783116342
+    "last_seen": 1783195806
   },
   {
     "id": "103723",
@@ -358,7 +320,7 @@ window.crawledData = [
     "url": "https://sale.591.com.tw/home/house/detail/2/103723.html",
     "posttime": null,
     "refreshtime": null,
-    "last_seen": 1783116342
+    "last_seen": 1783195806
   },
   {
     "id": "12375",
@@ -377,7 +339,7 @@ window.crawledData = [
     "url": "https://sale.591.com.tw/home/house/detail/2/12375.html",
     "posttime": null,
     "refreshtime": null,
-    "last_seen": 1783116342
+    "last_seen": 1783195806
   },
   {
     "id": "20202165",
@@ -397,44 +359,6 @@ window.crawledData = [
     "posttime": 1778728722,
     "refreshtime": "44分鐘前",
     "last_seen": 1782666826
-  },
-  {
-    "id": "20398314",
-    "title": "民生圓環電梯三房獨家專賣🏆21承蓁🏆",
-    "price": 2680.0,
-    "unit_price": "100.83萬/坪",
-    "area": 26.58,
-    "room": "3房2廳1衛",
-    "region": "台北市",
-    "section": "松山區",
-    "community": "名人世界",
-    "type": "電梯大樓",
-    "age": 41,
-    "address": "民生東路五段",
-    "photo": "https://img2.591.com.tw/house/2024/07/12/172076782163158402.jpg!1000x.water2.jpg",
-    "url": "https://sale.591.com.tw/home/house/detail/2/20398314.html",
-    "posttime": 1781586977,
-    "refreshtime": "2小時前",
-    "last_seen": 1782583501
-  },
-  {
-    "id": "20306901",
-    "title": "🏫面校園靜巷美寓🍎低於行情Ⓜ️捷運站400米🏠住商小翁",
-    "price": 2300.0,
-    "unit_price": "60.51萬/坪",
-    "area": 38.01,
-    "room": "4房2廳2衛",
-    "region": "台北市",
-    "section": "大同區",
-    "community": "",
-    "type": "公寓",
-    "age": 39,
-    "address": "承德路三段24巷",
-    "photo": "https://img2.591.com.tw/video/cover/2026-06-01/3107623.png!1000x.water2.png",
-    "url": "https://sale.591.com.tw/home/house/detail/2/20306901.html",
-    "posttime": 1780287112,
-    "refreshtime": "4小時前",
-    "last_seen": 1782590937
   },
   {
     "id": "20332826",
@@ -605,7 +529,7 @@ window.crawledData = [
     "url": "https://sale.591.com.tw/home/house/detail/2/12145.html",
     "posttime": null,
     "refreshtime": null,
-    "last_seen": 1783116342
+    "last_seen": 1783195806
   },
   {
     "id": "20239399",
@@ -715,11 +639,11 @@ window.crawledData = [
     "type": "電梯大樓",
     "age": 49,
     "address": "民權東路二段",
-    "photo": "https://img1.591.com.tw/house/2026/05/08/177822270968976402.jpg!400x300.jpg",
+    "photo": "https://img2.591.com.tw/house/2026/05/08/177822270968976402.jpg!400x300.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20167376.html",
     "posttime": 1778222732,
-    "refreshtime": "2小時前",
-    "last_seen": 1783188119
+    "refreshtime": "4小時前",
+    "last_seen": 1783195785
   },
   {
     "id": "20384713",
@@ -943,11 +867,11 @@ window.crawledData = [
     "type": "電梯大樓",
     "age": 35,
     "address": "磺溪街",
-    "photo": "https://img2.591.com.tw/house/2026/06/20/178192850574733803.jpg!400x300.jpg",
+    "photo": "https://img1.591.com.tw/house/2026/06/20/178192850574733803.jpg!400x300.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20071058.html",
     "posttime": 1776755599,
-    "refreshtime": "5小時前",
-    "last_seen": 1782597837
+    "refreshtime": "3小時前",
+    "last_seen": 1783195775
   },
   {
     "id": "20430296",
@@ -989,22 +913,22 @@ window.crawledData = [
   },
   {
     "id": "20417633",
-    "title": "🔥【安勝團隊】獨家專任~健康新城C區低總3房~車位可抽",
-    "price": 3280.0,
-    "unit_price": "94.88萬/坪",
-    "area": 34.57,
-    "room": "3房2廳2衛",
+    "title": "🔥【安勝團隊】獨賣~北醫生活圏/電梯邊間美套房~採光明亮",
+    "price": 998.0,
+    "unit_price": "90.4萬/坪",
+    "area": 11.04,
+    "room": "1房1廳1衛",
     "region": "台北市",
-    "section": "松山區",
-    "community": "健康新城C區",
+    "section": "信義區",
+    "community": "吳興街",
     "type": "電梯大樓",
-    "age": 33,
-    "address": "健康路",
-    "photo": "https://img1.591.com.tw/video/cover/2026-06-23/3136784.png!1000x.water2.png",
+    "age": 35,
+    "address": "吳興街368巷",
+    "photo": "https://img2.591.com.tw/house/2026/07/03/178307193671507301.png!400x300.png",
     "url": "https://sale.591.com.tw/home/house/detail/2/20417633.html",
     "posttime": 1781921260,
     "refreshtime": "4小時前",
-    "last_seen": 1782849726
+    "last_seen": 1783195775
   },
   {
     "id": "20449298",
@@ -1121,44 +1045,6 @@ window.crawledData = [
     "last_seen": 1782597842
   },
   {
-    "id": "20410266",
-    "title": "太子敦園高樓雙車豪邸|明星學區,三面採光|🎾里昂推薦",
-    "price": 7100.0,
-    "unit_price": "123.1萬/坪",
-    "area": 78.93,
-    "room": "3房2廳2衛",
-    "region": "台北市",
-    "section": "松山區",
-    "community": "太子敦園大廈",
-    "type": "電梯大樓",
-    "age": 21,
-    "address": "光復北路26巷",
-    "photo": "https://img2.591.com.tw/house/2026/06/18/178176552231359309.jpg!400x300.jpg",
-    "url": "https://sale.591.com.tw/home/house/detail/2/20410266.html",
-    "posttime": 1781765553,
-    "refreshtime": "4小時前",
-    "last_seen": 1782590937
-  },
-  {
-    "id": "20293588",
-    "title": "【寬悅團隊】稀有釋出近內湖捷運黃金三樓典雅美寓",
-    "price": 1790.0,
-    "unit_price": "62.83萬/坪",
-    "area": 28.49,
-    "room": "3房2廳1衛",
-    "region": "台北市",
-    "section": "內湖區",
-    "community": "星雲街15巷",
-    "type": "公寓",
-    "age": 42,
-    "address": "星雲街15巷",
-    "photo": "https://img2.591.com.tw/house/2025/07/23/175323920437883706.jpg!400x300.jpg",
-    "url": "https://sale.591.com.tw/home/house/detail/2/20293588.html",
-    "posttime": 1780041199,
-    "refreshtime": "2小時前",
-    "last_seen": 1782583496
-  },
-  {
     "id": "20400766",
     "title": "鋼骨信義香榭美2房|輕屋齡,24H管理|🐷舒舒極推🐷",
     "price": 3298.0,
@@ -1176,25 +1062,6 @@ window.crawledData = [
     "posttime": 1781603043,
     "refreshtime": "52分鐘前",
     "last_seen": 1783188125
-  },
-  {
-    "id": "20095272",
-    "title": "南港・國際新東區核心｜聯勤四季紅-LaLaP爵品3房◎LEO",
-    "price": 5128.0,
-    "unit_price": "120.83萬/坪",
-    "area": 50.62,
-    "room": "3房2廳2衛",
-    "region": "台北市",
-    "section": "南港區",
-    "community": "聯勤四季紅",
-    "type": "電梯大樓",
-    "age": 15,
-    "address": "園區街",
-    "photo": "https://img.youtube.com/vi/m6SPmYEwKLc/hqdefault.jpg",
-    "url": "https://sale.591.com.tw/home/house/detail/2/20095272.html",
-    "posttime": 1777179287,
-    "refreshtime": "2小時前",
-    "last_seen": 1782583501
   },
   {
     "id": "20332773",
@@ -1254,44 +1121,6 @@ window.crawledData = [
     "last_seen": 1783116332
   },
   {
-    "id": "20331462",
-    "title": "專任承辦降$★近寶雅商圈低總二房1樓空屋好約合意協談價$速洽",
-    "price": 800.0,
-    "unit_price": "54.53萬/坪",
-    "area": 14.67,
-    "room": "2房2廳1衛",
-    "region": "台北市",
-    "section": "北投區",
-    "community": "",
-    "type": "公寓",
-    "age": 54,
-    "address": "大屯路光華4巷",
-    "photo": "https://img1.591.com.tw/video/cover/2026-02-03/2943710.png!1000x.water2.png",
-    "url": "https://sale.591.com.tw/home/house/detail/2/20331462.html",
-    "posttime": 1780601500,
-    "refreshtime": "4小時前",
-    "last_seen": 1782590924
-  },
-  {
-    "id": "20411827",
-    "title": "🍎中山國中捷運🍎民權東路超值住辦🍎大師麗容",
-    "price": 3268.0,
-    "unit_price": "87.52萬/坪",
-    "area": 37.34,
-    "room": "開放式格局",
-    "region": "台北市",
-    "section": "中山區",
-    "community": "僑大聯合廣場",
-    "type": "電梯大樓",
-    "age": 42,
-    "address": "民權東路三段",
-    "photo": "https://img2.591.com.tw/house/2026/06/18/178177664743085305.jpg!1000x.water2.jpg",
-    "url": "https://sale.591.com.tw/home/house/detail/2/20411827.html",
-    "posttime": 1781776784,
-    "refreshtime": "3小時前",
-    "last_seen": 1782590927
-  },
-  {
     "id": "20200217",
     "title": "中山稀有三面採光｜挑高3米6精品宅",
     "price": 1250.0,
@@ -1309,25 +1138,6 @@ window.crawledData = [
     "posttime": 1778673713,
     "refreshtime": "2小時前",
     "last_seen": 1783188115
-  },
-  {
-    "id": "20380031",
-    "title": "✨【東湖國中旁｜雙湖玉璽｜電梯華廈三房】✨",
-    "price": 2280.0,
-    "unit_price": "63.51萬/坪",
-    "area": 35.9,
-    "room": "3房2廳2衛",
-    "region": "台北市",
-    "section": "內湖區",
-    "community": "雙湖玉璽",
-    "type": "電梯大樓",
-    "age": 31,
-    "address": "康樂街151巷",
-    "photo": "https://img2.591.com.tw/house/2026/06/12/178126151915996604.png!400x300.png",
-    "url": "https://sale.591.com.tw/home/house/detail/2/20380031.html",
-    "posttime": 1781261779,
-    "refreshtime": "3小時前",
-    "last_seen": 1782590932
   },
   {
     "id": "20385306",
@@ -1991,8 +1801,8 @@ window.crawledData = [
     "photo": "https://img1.591.com.tw/house/2026/06/11/178114492116061901.jpeg!400x300.jpeg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20368670.html",
     "posttime": 1781145333,
-    "refreshtime": "9分鐘前",
-    "last_seen": 1782666826
+    "refreshtime": "4小時前",
+    "last_seen": 1783195781
   },
   {
     "id": "20451974",
@@ -2030,7 +1840,7 @@ window.crawledData = [
     "url": "https://sale.591.com.tw/home/house/detail/2/3697502.html",
     "posttime": null,
     "refreshtime": null,
-    "last_seen": 1783116342
+    "last_seen": 1783195806
   },
   {
     "id": "20168165",
@@ -2295,8 +2105,8 @@ window.crawledData = [
     "photo": "https://img2.591.com.tw/house/2026/06/06/178073975821692709.jpg!fit.1000x.water2.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20342190.html",
     "posttime": 1780740395,
-    "refreshtime": "5小時前",
-    "last_seen": 1782769286
+    "refreshtime": "4小時前",
+    "last_seen": 1783195775
   },
   {
     "id": "20171793",
@@ -3265,7 +3075,7 @@ window.crawledData = [
     "url": "https://sale.591.com.tw/home/house/detail/2/5888615.html",
     "posttime": null,
     "refreshtime": null,
-    "last_seen": 1783116342
+    "last_seen": 1783195806
   },
   {
     "id": "20253863",
@@ -4309,8 +4119,8 @@ window.crawledData = [
     "photo": "https://img1.591.com.tw/house/2026/05/08/177821057770188703.jpg!400x300.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20165446.html",
     "posttime": 1778214584,
-    "refreshtime": "6小時前",
-    "last_seen": 1783116337
+    "refreshtime": "3小時前",
+    "last_seen": 1783195771
   },
   {
     "id": "20406338",
@@ -4344,11 +4154,11 @@ window.crawledData = [
     "type": "電梯大樓",
     "age": 48,
     "address": "基隆路二段",
-    "photo": "https://img1.591.com.tw/house/2026/06/18/178177275840294804.jpg!400x300.jpg",
+    "photo": "https://img2.591.com.tw/house/2026/06/18/178177275840294804.jpg!400x300.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20411432.html",
     "posttime": 1781772830,
-    "refreshtime": "6小時前",
-    "last_seen": 1783030051
+    "refreshtime": "4小時前",
+    "last_seen": 1783195771
   },
   {
     "id": "20368147",
@@ -4575,8 +4385,8 @@ window.crawledData = [
     "photo": "https://img1.591.com.tw/house/2026/06/12/178126066454924904.jpg!400x300.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20467119.html",
     "posttime": 1782738942,
-    "refreshtime": "6小時前",
-    "last_seen": 1783030072
+    "refreshtime": "4小時前",
+    "last_seen": 1783195785
   },
   {
     "id": "20285467",
@@ -5427,11 +5237,11 @@ window.crawledData = [
     "type": "公寓",
     "age": 43,
     "address": "富錦街574巷",
-    "photo": "https://img2.591.com.tw/house/2025/09/29/175913513053967506.jpg!1000x.water2.jpg",
+    "photo": "https://img1.591.com.tw/house/2025/09/29/175913513053967506.jpg!1000x.water2.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20373484.html",
     "posttime": 1781176399,
-    "refreshtime": "6小時前",
-    "last_seen": 1783116316
+    "refreshtime": "4小時前",
+    "last_seen": 1783195767
   },
   {
     "id": "20286718",
@@ -5544,8 +5354,8 @@ window.crawledData = [
     "photo": "https://img1.591.com.tw/video/cover/2026-06-26/3142243.png!1000x.water2.png",
     "url": "https://sale.591.com.tw/home/house/detail/2/20301862.html",
     "posttime": 1780192559,
-    "refreshtime": "6小時前",
-    "last_seen": 1783116326
+    "refreshtime": "4小時前",
+    "last_seen": 1783195781
   },
   {
     "id": "20486525",
@@ -5677,8 +5487,8 @@ window.crawledData = [
     "photo": "https://img2.591.com.tw/house/2026/06/22/178210056264149102.png!400x300.png",
     "url": "https://sale.591.com.tw/home/house/detail/2/20426431.html",
     "posttime": 1782100850,
-    "refreshtime": "2小時前",
-    "last_seen": 1783188109
+    "refreshtime": "4小時前",
+    "last_seen": 1783195775
   },
   {
     "id": "20461826",
@@ -5715,8 +5525,8 @@ window.crawledData = [
     "photo": "https://img2.591.com.tw/house/2026/05/11/177848687982041106.jpg!400x300.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20184842.html",
     "posttime": 1778487417,
-    "refreshtime": "2小時前",
-    "last_seen": 1783188109
+    "refreshtime": "4小時前",
+    "last_seen": 1783195781
   },
   {
     "id": "20489819",
@@ -5734,8 +5544,8 @@ window.crawledData = [
     "photo": "https://img1.591.com.tw/house/2026/04/28/177735641034942807.jpg!400x300.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20489819.html",
     "posttime": 1783071461,
-    "refreshtime": "2小時前",
-    "last_seen": 1783188119
+    "refreshtime": "4小時前",
+    "last_seen": 1783195785
   },
   {
     "id": "20168331",
@@ -5769,11 +5579,11 @@ window.crawledData = [
     "type": "公寓",
     "age": 56,
     "address": "林口街24巷",
-    "photo": "https://img2.591.com.tw/house/2026/06/09/178097262199557700.jpg!400x300.jpg",
+    "photo": "https://img1.591.com.tw/house/2026/06/09/178097262199557700.jpg!400x300.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20356345.html",
     "posttime": 1780973100,
-    "refreshtime": "42分鐘前",
-    "last_seen": 1783188119
+    "refreshtime": "3小時前",
+    "last_seen": 1783195767
   },
   {
     "id": "20183642",
@@ -5831,5 +5641,195 @@ window.crawledData = [
     "posttime": 1779262017,
     "refreshtime": "2小時前",
     "last_seen": 1783188125
+  },
+  {
+    "id": "20143912",
+    "title": "林森春暉新世界辦公大樓",
+    "price": 5488.0,
+    "unit_price": "54.19萬/坪",
+    "area": 101.27,
+    "room": "",
+    "region": "台北市",
+    "section": "中山區",
+    "community": "春暉新世界",
+    "type": "電梯大樓",
+    "age": 41,
+    "address": "林森北路",
+    "photo": "https://img1.591.com.tw/house/2026/05/04/177790007275927301.jpg!1000x.water2.jpg",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20143912.html",
+    "posttime": 1777901339,
+    "refreshtime": "4小時前",
+    "last_seen": 1783195767
+  },
+  {
+    "id": "20356407",
+    "title": "🔥【安勝團隊】市府微風低總挑高美宅~社區最低總價",
+    "price": 1468.0,
+    "unit_price": "146.95萬/坪",
+    "area": 9.99,
+    "room": "1房1廳1衛",
+    "region": "台北市",
+    "section": "信義區",
+    "community": "富裔101",
+    "type": "電梯大樓",
+    "age": 16,
+    "address": "忠孝東路五段71巷",
+    "photo": "https://img2.591.com.tw/video/cover/2026-06-09/3118822.png!1000x.water2.png",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20356407.html",
+    "posttime": 1780973618,
+    "refreshtime": "4小時前",
+    "last_seen": 1783195767
+  },
+  {
+    "id": "20280454",
+    "title": "大直美麗華商圈｜銀行承租中｜稀有金雞母店面",
+    "price": 43000.0,
+    "unit_price": "361.07萬/坪",
+    "area": 176.11,
+    "room": "",
+    "region": "台北市",
+    "section": "中山區",
+    "community": "大灣科技中心大樓",
+    "type": "電梯大樓",
+    "age": 24,
+    "address": "敬業一路",
+    "photo": "https://img2.591.com.tw/house/2026/06/22/178210629971983706.jpg!400x300.jpg",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20280454.html",
+    "posttime": 1779862261,
+    "refreshtime": "4小時前",
+    "last_seen": 1783195767
+  },
+  {
+    "id": "20190481",
+    "title": "📍獨家專售｜渼士林美妝成家兩房｜未來Y24捷運站旁",
+    "price": 2180.0,
+    "unit_price": "85.89萬/坪",
+    "area": 25.38,
+    "room": "2房1廳1衛",
+    "region": "台北市",
+    "section": "士林區",
+    "community": "渼士林",
+    "type": "電梯大樓",
+    "age": 11,
+    "address": "中正路655巷",
+    "photo": "https://img2.591.com.tw/house/2026/05/12/177856654546699805.jpg!400x300.jpg",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20190481.html",
+    "posttime": 1778566650,
+    "refreshtime": "4小時前",
+    "last_seen": 1783195771
+  },
+  {
+    "id": "20365318",
+    "title": "🌟紹宇激推🌟近捷運雙橡園電梯兩房(首購小家庭必看)",
+    "price": 1650.0,
+    "unit_price": "82.01萬/坪",
+    "area": 20.12,
+    "room": "2房2廳1衛",
+    "region": "台北市",
+    "section": "北投區",
+    "community": "珠海雙橡園",
+    "type": "電梯大樓",
+    "age": 28,
+    "address": "珠海路",
+    "photo": "https://img2.591.com.tw/house/2026/06/10/178107526515653101.png!400x300.png",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20365318.html",
+    "posttime": 1781075352,
+    "refreshtime": "4小時前",
+    "last_seen": 1783195771
+  },
+  {
+    "id": "20376982",
+    "title": "🚉雙捷核心🚗高樓兩房車+無敵採光景觀+雙衛【雙子星首席】",
+    "price": 3288.0,
+    "unit_price": "127.24萬/坪",
+    "area": 25.78,
+    "room": "2房2廳2衛",
+    "region": "台北市",
+    "section": "大同區",
+    "community": "品嘉W house",
+    "type": "電梯大樓",
+    "age": 3,
+    "address": "民權西路",
+    "photo": "https://img2.591.com.tw/house/2026/06/12/178124225364138507.jpg!1000x.water2.jpg",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20376982.html",
+    "posttime": 1781243893,
+    "refreshtime": "3小時前",
+    "last_seen": 1783195775
+  },
+  {
+    "id": "20142466",
+    "title": "【展宜本植】3房2衛戶戶邊間坡平車位萬坪樹海首席精品宅",
+    "price": 4198.0,
+    "unit_price": "129.37萬/坪",
+    "area": 32.45,
+    "room": "3房2廳2衛",
+    "region": "台北市",
+    "section": "內湖區",
+    "community": "展宜本植",
+    "type": "電梯大樓",
+    "age": 3,
+    "address": "民權東路六段191巷",
+    "photo": "https://img1.591.com.tw/house/2026/05/05/177797267060544700.jpeg!400x300.jpeg",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20142466.html",
+    "posttime": 1777971608,
+    "refreshtime": "4小時前",
+    "last_seen": 1783195781
+  },
+  {
+    "id": "20439584",
+    "title": "中正區最美一層一戶＋平面車位稀有釋出",
+    "price": 4688.0,
+    "unit_price": "100.25萬/坪",
+    "area": 47.85,
+    "room": "2房1廳2衛",
+    "region": "台北市",
+    "section": "中正區",
+    "community": "中正六君子",
+    "type": "電梯大樓",
+    "age": 15,
+    "address": "金門街",
+    "photo": "https://img2.591.com.tw/house/2026/06/24/178228182898813306.jpg!fit.1000x.water2.jpg",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20439584.html",
+    "posttime": 1782281687,
+    "refreshtime": "4小時前",
+    "last_seen": 1783195781
+  },
+  {
+    "id": "20450449",
+    "title": "松江御苑豪華高樓平車|氣派,視野佳|🎾里昂推薦🎾",
+    "price": 9800.0,
+    "unit_price": "158.17萬/坪",
+    "area": 72.28,
+    "room": "3房2廳2衛",
+    "region": "台北市",
+    "section": "中山區",
+    "community": "松江御苑",
+    "type": "電梯大樓",
+    "age": 3,
+    "address": "建國北路二段226巷",
+    "photo": "https://img2.591.com.tw/house/2026/06/26/178245562646507303.jpg!400x300.jpg",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20450449.html",
+    "posttime": 1782455678,
+    "refreshtime": "4小時前",
+    "last_seen": 1783195785
+  },
+  {
+    "id": "20423285",
+    "title": "全新仁愛臻寶兩房兩衛含車|一層一戶|🎾里昂推薦",
+    "price": 6060.0,
+    "unit_price": "165萬/坪",
+    "area": 42.44,
+    "room": "2房2廳2衛",
+    "region": "台北市",
+    "section": "大安區",
+    "community": "仁愛臻寶",
+    "type": "電梯大樓",
+    "age": 0,
+    "address": "仁愛路三段5巷",
+    "photo": "https://img2.591.com.tw/house/2026/06/21/178202815104930502.jpg!400x300.jpg",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20423285.html",
+    "posttime": 1782028182,
+    "refreshtime": "4小時前",
+    "last_seen": 1783195785
   }
 ];
