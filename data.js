@@ -111,7 +111,7 @@ window.crawledData = [
     "url": "https://sale.591.com.tw/home/house/detail/2/29267.html",
     "posttime": null,
     "refreshtime": null,
-    "last_seen": 1783627121
+    "last_seen": 1783632997
   },
   {
     "id": "3681580",
@@ -130,7 +130,7 @@ window.crawledData = [
     "url": "https://sale.591.com.tw/home/house/detail/2/3681580.html",
     "posttime": null,
     "refreshtime": null,
-    "last_seen": 1783627121
+    "last_seen": 1783632997
   },
   {
     "id": "34062",
@@ -149,7 +149,7 @@ window.crawledData = [
     "url": "https://sale.591.com.tw/home/house/detail/2/34062.html",
     "posttime": null,
     "refreshtime": null,
-    "last_seen": 1783627121
+    "last_seen": 1783632997
   },
   {
     "id": "102305",
@@ -168,7 +168,7 @@ window.crawledData = [
     "url": "https://sale.591.com.tw/home/house/detail/2/102305.html",
     "posttime": null,
     "refreshtime": null,
-    "last_seen": 1783627121
+    "last_seen": 1783632997
   },
   {
     "id": "3699741",
@@ -187,7 +187,7 @@ window.crawledData = [
     "url": "https://sale.591.com.tw/home/house/detail/2/3699741.html",
     "posttime": null,
     "refreshtime": null,
-    "last_seen": 1783627121
+    "last_seen": 1783632997
   },
   {
     "id": "103723",
@@ -206,7 +206,7 @@ window.crawledData = [
     "url": "https://sale.591.com.tw/home/house/detail/2/103723.html",
     "posttime": null,
     "refreshtime": null,
-    "last_seen": 1783627121
+    "last_seen": 1783632997
   },
   {
     "id": "12375",
@@ -225,7 +225,7 @@ window.crawledData = [
     "url": "https://sale.591.com.tw/home/house/detail/2/12375.html",
     "posttime": null,
     "refreshtime": null,
-    "last_seen": 1783627121
+    "last_seen": 1783632997
   },
   {
     "id": "20332826",
@@ -301,7 +301,7 @@ window.crawledData = [
     "url": "https://sale.591.com.tw/home/house/detail/2/12145.html",
     "posttime": null,
     "refreshtime": null,
-    "last_seen": 1783627121
+    "last_seen": 1783632997
   },
   {
     "id": "20234508",
@@ -525,11 +525,11 @@ window.crawledData = [
     "type": "電梯大樓",
     "age": 44,
     "address": "迪化街二段",
-    "photo": "https://img1.591.com.tw/video/cover/2025-04-29/2230948.png!1000x.water2.png",
+    "photo": "https://img2.591.com.tw/video/cover/2025-04-29/2230948.png!1000x.water2.png",
     "url": "https://sale.591.com.tw/home/house/detail/2/20361327.html",
     "posttime": 1781004278,
-    "refreshtime": "3小時前",
-    "last_seen": 1783451029
+    "refreshtime": "5小時前",
+    "last_seen": 1783632969
   },
   {
     "id": "20200217",
@@ -585,8 +585,8 @@ window.crawledData = [
     "photo": "https://img2.591.com.tw/house/2025/03/10/174157866637221405.jpg!fit.1000x.water2.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20251072.html",
     "posttime": 1779426785,
-    "refreshtime": "6小時前",
-    "last_seen": 1783030061
+    "refreshtime": "5小時前",
+    "last_seen": 1783632969
   },
   {
     "id": "20395858",
@@ -681,7 +681,7 @@ window.crawledData = [
     "url": "https://sale.591.com.tw/home/house/detail/2/3697502.html",
     "posttime": null,
     "refreshtime": null,
-    "last_seen": 1783627121
+    "last_seen": 1783632997
   },
   {
     "id": "20362033",
@@ -734,11 +734,11 @@ window.crawledData = [
     "type": "電梯大樓",
     "age": 25,
     "address": "南京西路",
-    "photo": "https://img1.591.com.tw/house/2026/06/06/178073975821692709.jpg!fit.1000x.water2.jpg",
+    "photo": "https://img2.591.com.tw/house/2026/06/06/178073975821692709.jpg!fit.1000x.water2.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20342190.html",
     "posttime": 1780740395,
-    "refreshtime": "6小時前",
-    "last_seen": 1783202364
+    "refreshtime": "5小時前",
+    "last_seen": 1783632963
   },
   {
     "id": "20235621",
@@ -1042,7 +1042,7 @@ window.crawledData = [
     "url": "https://sale.591.com.tw/home/house/detail/2/5888615.html",
     "posttime": null,
     "refreshtime": null,
-    "last_seen": 1783627121
+    "last_seen": 1783632997
   },
   {
     "id": "20253863",
@@ -1421,8 +1421,8 @@ window.crawledData = [
     "photo": "https://img2.591.com.tw/house/2026/06/05/178063989752332204.jpg!fit.1000x.water2.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20334113.html",
     "posttime": 1780640399,
-    "refreshtime": "4小時前",
-    "last_seen": 1783627099
+    "refreshtime": "6小時前",
+    "last_seen": 1783632973
   },
   {
     "id": "20264132",
@@ -1760,11 +1760,11 @@ window.crawledData = [
     "type": "電梯大樓",
     "age": 19,
     "address": "水源路",
-    "photo": "https://img1.591.com.tw/house/2026/06/19/178185543677473306.jpg!400x300.jpg",
+    "photo": "https://img2.591.com.tw/house/2026/06/19/178185543677473306.jpg!400x300.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20415420.html",
     "posttime": 1781855559,
-    "refreshtime": "4小時前",
-    "last_seen": 1783627089
+    "refreshtime": "5小時前",
+    "last_seen": 1783632958
   },
   {
     "id": "20486839",
@@ -1782,8 +1782,8 @@ window.crawledData = [
     "photo": "https://img2.591.com.tw/house/2024/06/25/171929745389797605.jpg!400x300.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20486839.html",
     "posttime": 1783053852,
-    "refreshtime": "2小時前",
-    "last_seen": 1783451007
+    "refreshtime": "5小時前",
+    "last_seen": 1783632963
   },
   {
     "id": "20178348",
@@ -2501,11 +2501,11 @@ window.crawledData = [
     "type": "別墅",
     "age": 24,
     "address": "民權東路六段248巷",
-    "photo": "https://img2.591.com.tw/house/2026/06/22/178212575393573102.png!400x300.png",
+    "photo": "https://img1.591.com.tw/house/2026/06/22/178212575393573102.png!400x300.png",
     "url": "https://sale.591.com.tw/home/house/detail/2/20430257.html",
     "posttime": 1782126729,
-    "refreshtime": "4小時前",
-    "last_seen": 1783627089
+    "refreshtime": "6小時前",
+    "last_seen": 1783632955
   },
   {
     "id": "20382970",
@@ -2580,8 +2580,8 @@ window.crawledData = [
     "photo": "https://img2.591.com.tw/house/2026/06/26/178245054216683809.jpg!1000x.water2.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20449846.html",
     "posttime": 1782450721,
-    "refreshtime": "3小時前",
-    "last_seen": 1783627084
+    "refreshtime": "5小時前",
+    "last_seen": 1783632958
   },
   {
     "id": "20486555",
@@ -4651,8 +4651,8 @@ window.crawledData = [
     "photo": "https://img1.591.com.tw/house/2025/06/06/174917859923704702.jpg!400x300.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20504335.html",
     "posttime": 1783321296,
-    "refreshtime": "3小時前",
-    "last_seen": 1783451025
+    "refreshtime": "5小時前",
+    "last_seen": 1783632973
   },
   {
     "id": "20337326",
@@ -4727,8 +4727,8 @@ window.crawledData = [
     "photo": "https://img2.591.com.tw/house/2025/01/20/173736995028966807.jpg!fit.1000x.water2.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20494250.html",
     "posttime": 1783150315,
-    "refreshtime": "3小時前",
-    "last_seen": 1783451029
+    "refreshtime": "6小時前",
+    "last_seen": 1783632963
   },
   {
     "id": "20415020",
@@ -6228,8 +6228,8 @@ window.crawledData = [
     "photo": "https://img1.591.com.tw/house/2026/03/11/177320960678389101.jpg!400x300.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20221291.html",
     "posttime": 1779005868,
-    "refreshtime": "4小時前",
-    "last_seen": 1783627093
+    "refreshtime": "6小時前",
+    "last_seen": 1783632958
   },
   {
     "id": "20384261",
@@ -6247,8 +6247,8 @@ window.crawledData = [
     "photo": "https://img1.591.com.tw/house/2026/05/18/177909169680331201.png!400x300.png",
     "url": "https://sale.591.com.tw/home/house/detail/2/20384261.html",
     "posttime": 1781340511,
-    "refreshtime": "4小時前",
-    "last_seen": 1783627104
+    "refreshtime": "5小時前",
+    "last_seen": 1783632958
   },
   {
     "id": "20223209",
@@ -6325,5 +6325,233 @@ window.crawledData = [
     "posttime": 1783337091,
     "refreshtime": "3小時前",
     "last_seen": 1783627104
+  },
+  {
+    "id": "20466106",
+    "title": "🌟住商小宇🌟輕屋齡植物園電梯三房車位",
+    "price": 3380.0,
+    "unit_price": "76.96萬/坪",
+    "area": 47.5,
+    "room": "3房2廳2衛",
+    "region": "台北市",
+    "section": "中正區",
+    "community": "中正至美",
+    "type": "電梯大樓",
+    "age": 18,
+    "address": "泉州街20巷",
+    "photo": "https://img2.591.com.tw/house/2026/07/07/178339240957289300.png!400x300.png",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20466106.html",
+    "posttime": 1782726890,
+    "refreshtime": "4小時前",
+    "last_seen": 1783632973
+  },
+  {
+    "id": "20410176",
+    "title": "東王漢宮高樓景觀美二房|三面採光|🎾里昂推薦🎾",
+    "price": 3680.0,
+    "unit_price": "122.1萬/坪",
+    "area": 30.14,
+    "room": "2房2廳1衛",
+    "region": "台北市",
+    "section": "中山區",
+    "community": "東王漢宮B棟",
+    "type": "電梯大樓",
+    "age": 39,
+    "address": "復興北路",
+    "photo": "https://img1.591.com.tw/house/2026/06/18/178176484230569607.jpg!400x300.jpg",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20410176.html",
+    "posttime": 1781764880,
+    "refreshtime": "5小時前",
+    "last_seen": 1783632955
+  },
+  {
+    "id": "20423273",
+    "title": "一見傾心質感美宅，空中花園+坡道平面車位",
+    "price": 6980.0,
+    "unit_price": "98.62萬/坪",
+    "area": 74.93,
+    "room": "4房3廳4衛",
+    "region": "台北市",
+    "section": "士林區",
+    "community": "",
+    "type": "電梯大樓",
+    "age": 41,
+    "address": "天母東路",
+    "photo": "https://img2.591.com.tw/house/2026/06/21/178202785062125405.jpg!400x300.jpg",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20423273.html",
+    "posttime": 1782028048,
+    "refreshtime": "5小時前",
+    "last_seen": 1783632955
+  },
+  {
+    "id": "20259804",
+    "title": "獨家🌴民生社區電梯三房🌴【露台綠林】住商邱子洋",
+    "price": 3780.0,
+    "unit_price": "74.57萬/坪",
+    "area": 50.69,
+    "room": "3房2廳2衛",
+    "region": "台北市",
+    "section": "松山區",
+    "community": "撫遠華廈",
+    "type": "電梯大樓",
+    "age": 37,
+    "address": "撫遠街",
+    "photo": "https://img2.591.com.tw/house/2026/05/11/177848828127046102.jpg!fit.1000x.water2.jpg",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20259804.html",
+    "posttime": 1779535867,
+    "refreshtime": "5小時前",
+    "last_seen": 1783632955
+  },
+  {
+    "id": "20059292",
+    "title": "急售好談專約～中正紀念堂站/中正學區/松下營造質感3房雙平車",
+    "price": 4600.0,
+    "unit_price": "80.82萬/坪",
+    "area": 56.92,
+    "room": "3房1廳2衛",
+    "region": "台北市",
+    "section": "中正區",
+    "community": "中正藏璽大廈",
+    "type": "電梯大樓",
+    "age": 10,
+    "address": "羅斯福路一段58巷",
+    "photo": "https://img2.591.com.tw/house/2026/01/17/176858636265348201.jpg!400x300.jpg",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20059292.html",
+    "posttime": 1776523708,
+    "refreshtime": "5小時前",
+    "last_seen": 1783632958
+  },
+  {
+    "id": "20385052",
+    "title": "💎日新好好｜成家首選邊間兩房💎",
+    "price": 3688.0,
+    "unit_price": "123.8萬/坪",
+    "area": 29.79,
+    "room": "2房2廳1衛",
+    "region": "台北市",
+    "section": "大同區",
+    "community": "日新好好",
+    "type": "電梯大樓",
+    "age": 1,
+    "address": "太原路",
+    "photo": "https://img2.591.com.tw/house/2026/06/13/178134919739923001.jpg!fit.1000x.water2.jpg",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20385052.html",
+    "posttime": 1781349213,
+    "refreshtime": "5小時前",
+    "last_seen": 1783632963
+  },
+  {
+    "id": "20412147",
+    "title": "【台灣永悅】小劉推薦｜葫洲捷運｜景觀超值三房｜明湖學區",
+    "price": 3658.0,
+    "unit_price": "82.84萬/坪",
+    "area": 44.16,
+    "room": "3房2廳2衛",
+    "region": "台北市",
+    "section": "內湖區",
+    "community": "點石天湖大樓",
+    "type": "電梯大樓",
+    "age": 32,
+    "address": "民權東路六段280巷",
+    "photo": "https://img1.591.com.tw/house/2026/06/26/178244953367574904.png!400x300.png",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20412147.html",
+    "posttime": 1781778287,
+    "refreshtime": "5小時前",
+    "last_seen": 1783632963
+  },
+  {
+    "id": "20141818",
+    "title": "獨家@南港站@翔譽之心@平面車位@我是承辦",
+    "price": 2780.0,
+    "unit_price": "116.21萬/坪",
+    "area": 32.76,
+    "room": "1房1廳1衛",
+    "region": "台北市",
+    "section": "南港區",
+    "community": "翔譽之心",
+    "type": "電梯大樓",
+    "age": 13,
+    "address": "興中路28巷",
+    "photo": "https://img2.591.com.tw/house/2026/02/01/176991651326840900.jpg!400x300.jpg",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20141818.html",
+    "posttime": 1777884660,
+    "refreshtime": "42分鐘前",
+    "last_seen": 1783632969
+  },
+  {
+    "id": "20377079",
+    "title": "💥紹宇激推💥挑高景觀電梯+⭐平面大車位⭐",
+    "price": 1198.0,
+    "unit_price": "44.5萬/坪",
+    "area": 26.92,
+    "room": "1房1廳1衛",
+    "region": "台北市",
+    "section": "北投區",
+    "community": "湯臣掬水軒",
+    "type": "電梯大樓",
+    "age": 26,
+    "address": "泉源路",
+    "photo": "https://img1.591.com.tw/house/2026/07/07/178340257031348208.png!400x300.png",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20377079.html",
+    "posttime": 1781244255,
+    "refreshtime": "5小時前",
+    "last_seen": 1783632969
+  },
+  {
+    "id": "20398539",
+    "title": "⭐專約⭐AIT文心吟釀景觀四房",
+    "price": 6510.0,
+    "unit_price": "96.9萬/坪",
+    "area": 67.18,
+    "room": "4房2廳2衛",
+    "region": "台北市",
+    "section": "內湖區",
+    "community": "文心吟釀",
+    "type": "電梯大樓",
+    "age": 18,
+    "address": "星雲街161巷",
+    "photo": "https://img2.591.com.tw/house/2026/06/16/178158763591802602.jpg!1000x.water2.jpg",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20398539.html",
+    "posttime": 1781588772,
+    "refreshtime": "6小時前",
+    "last_seen": 1783632969
+  },
+  {
+    "id": "20429827",
+    "title": "信義區55坪大五房｜雙主臥三衛浴｜換屋/三代同堂",
+    "price": 4380.0,
+    "unit_price": "79.33萬/坪",
+    "area": 55.21,
+    "room": "5房2廳3衛",
+    "region": "台北市",
+    "section": "信義區",
+    "community": "信義路五段150巷401弄華廈",
+    "type": "電梯大樓",
+    "age": 44,
+    "address": "信義路五段150巷",
+    "photo": "https://img2.591.com.tw/house/2026/04/21/177677641137228106.jpg!400x300.jpg",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20429827.html",
+    "posttime": 1782122291,
+    "refreshtime": "5小時前",
+    "last_seen": 1783632973
+  },
+  {
+    "id": "20486486",
+    "title": "獨家❤️德安印象⭐內湖五期美3房+車位⭐21世紀駱維晨",
+    "price": 4580.0,
+    "unit_price": "88.28萬/坪",
+    "area": 51.88,
+    "room": "3房2廳2衛",
+    "region": "台北市",
+    "section": "內湖區",
+    "community": "德安印象",
+    "type": "電梯大樓",
+    "age": 19,
+    "address": "舊宗路一段30巷",
+    "photo": "https://img1.591.com.tw/house/2026/07/03/178305102660717905.jpg!400x300.jpg",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20486486.html",
+    "posttime": 1783051091,
+    "refreshtime": "5小時前",
+    "last_seen": 1783632973
   }
 ];
