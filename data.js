@@ -1862,25 +1862,6 @@ window.crawledData = [
     "last_seen": 1784172497
   },
   {
-    "id": "20495842",
-    "title": "【寬悅團隊】三寶爸推薦【明水最大直．制震巔峰】水岸河景第一排",
-    "price": 7950.0,
-    "unit_price": "140.67萬/坪",
-    "area": 72.35,
-    "room": "3房2廳2衛",
-    "region": "台北市",
-    "section": "中山區",
-    "community": "最大直",
-    "type": "電梯大樓",
-    "age": 9,
-    "address": "明水路",
-    "photo": "https://img2.591.com.tw/house/2026/03/01/177237519755109604.jpg!400x300.jpg",
-    "url": "https://sale.591.com.tw/home/house/detail/2/20495842.html",
-    "posttime": 1783165365,
-    "refreshtime": "13分鐘前",
-    "last_seen": 1784093557
-  },
-  {
     "id": "20424629",
     "title": "大搶手👍後山埤捷運全新北歐風裝潢面公園邊間2房",
     "price": 2980.0,
