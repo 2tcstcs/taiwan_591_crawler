@@ -16,7 +16,7 @@ window.crawledData = [
     "url": "https://sale.591.com.tw/home/house/detail/2/29267.html",
     "posttime": null,
     "refreshtime": null,
-    "last_seen": 1785358653
+    "last_seen": 1785362707
   },
   {
     "id": "3681580",
@@ -35,7 +35,7 @@ window.crawledData = [
     "url": "https://sale.591.com.tw/home/house/detail/2/3681580.html",
     "posttime": null,
     "refreshtime": null,
-    "last_seen": 1785358653
+    "last_seen": 1785362707
   },
   {
     "id": "34062",
@@ -54,7 +54,7 @@ window.crawledData = [
     "url": "https://sale.591.com.tw/home/house/detail/2/34062.html",
     "posttime": null,
     "refreshtime": null,
-    "last_seen": 1785358653
+    "last_seen": 1785362707
   },
   {
     "id": "102305",
@@ -73,7 +73,7 @@ window.crawledData = [
     "url": "https://sale.591.com.tw/home/house/detail/2/102305.html",
     "posttime": null,
     "refreshtime": null,
-    "last_seen": 1785358653
+    "last_seen": 1785362707
   },
   {
     "id": "3699741",
@@ -92,7 +92,7 @@ window.crawledData = [
     "url": "https://sale.591.com.tw/home/house/detail/2/3699741.html",
     "posttime": null,
     "refreshtime": null,
-    "last_seen": 1785358653
+    "last_seen": 1785362707
   },
   {
     "id": "103723",
@@ -111,7 +111,7 @@ window.crawledData = [
     "url": "https://sale.591.com.tw/home/house/detail/2/103723.html",
     "posttime": null,
     "refreshtime": null,
-    "last_seen": 1785358653
+    "last_seen": 1785362707
   },
   {
     "id": "12375",
@@ -130,7 +130,7 @@ window.crawledData = [
     "url": "https://sale.591.com.tw/home/house/detail/2/12375.html",
     "posttime": null,
     "refreshtime": null,
-    "last_seen": 1785358653
+    "last_seen": 1785362707
   },
   {
     "id": "20320962",
@@ -205,8 +205,8 @@ window.crawledData = [
     "photo": "https://img2.591.com.tw/house/2026/06/05/178066063265797709.jpg!1000x.water2.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20337647.html",
     "posttime": 1780659775,
-    "refreshtime": "7小時前",
-    "last_seen": 1785107178
+    "refreshtime": "6小時前",
+    "last_seen": 1785362672
   },
   {
     "id": "5888615",
@@ -225,7 +225,7 @@ window.crawledData = [
     "url": "https://sale.591.com.tw/home/house/detail/2/5888615.html",
     "posttime": null,
     "refreshtime": null,
-    "last_seen": 1785358653
+    "last_seen": 1785362707
   },
   {
     "id": "20442459",
@@ -319,8 +319,8 @@ window.crawledData = [
     "photo": "https://img1.591.com.tw/house/2026/07/03/178306119667979208.jpg!400x300.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20487977.html",
     "posttime": 1783071328,
-    "refreshtime": "4小時前",
-    "last_seen": 1785358619
+    "refreshtime": "30分鐘前",
+    "last_seen": 1785362672
   },
   {
     "id": "20378876",
@@ -373,11 +373,11 @@ window.crawledData = [
     "type": "電梯大樓",
     "age": 7,
     "address": "重慶北路二段",
-    "photo": "https://img1.591.com.tw/house/2026/07/07/178339482073208001.jpg!400x300.jpg",
+    "photo": "https://img2.591.com.tw/house/2026/07/07/178339482073208001.jpg!400x300.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20509423.html",
     "posttime": 1783396083,
-    "refreshtime": "51分鐘前",
-    "last_seen": 1785260159
+    "refreshtime": "6小時前",
+    "last_seen": 1785362663
   },
   {
     "id": "20477571",
@@ -490,8 +490,8 @@ window.crawledData = [
     "photo": "https://img1.591.com.tw/house/2026/05/14/177874131534169200.jpg!400x300.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20203422.html",
     "posttime": 1778741767,
-    "refreshtime": "3小時前",
-    "last_seen": 1785352665
+    "refreshtime": "5小時前",
+    "last_seen": 1785362685
   },
   {
     "id": "20421875",
@@ -525,11 +525,11 @@ window.crawledData = [
     "type": "電梯大樓",
     "age": 19,
     "address": "成功路四段294巷",
-    "photo": "https://img1.591.com.tw/house/2026/06/04/178058469825034506.jpg!400x300.jpg",
+    "photo": "https://img2.591.com.tw/house/2026/06/04/178058469825034506.jpg!400x300.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20331271.html",
     "posttime": 1780633070,
-    "refreshtime": "37分鐘前",
-    "last_seen": 1785345371
+    "refreshtime": "6小時前",
+    "last_seen": 1785362685
   },
   {
     "id": "19959551",
@@ -1494,11 +1494,11 @@ window.crawledData = [
     "type": "電梯大樓",
     "age": 16,
     "address": "文德路210巷",
-    "photo": "https://img1.591.com.tw/house/2026/06/24/178227383063888406.jpg!400x300.jpg",
+    "photo": "https://img2.591.com.tw/house/2026/06/24/178227383063888406.jpg!400x300.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20327176.html",
     "posttime": 1780553492,
-    "refreshtime": "3小時前",
-    "last_seen": 1785352665
+    "refreshtime": "6小時前",
+    "last_seen": 1785362663
   },
   {
     "id": "20519039",
@@ -1706,8 +1706,8 @@ window.crawledData = [
     "photo": "https://img1.591.com.tw/house/2026/06/26/178244544008875608.jpg!400x300.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20449298.html",
     "posttime": 1782445575,
-    "refreshtime": "2小時前",
-    "last_seen": 1784917107
+    "refreshtime": "6小時前",
+    "last_seen": 1785362685
   },
   {
     "id": "20533892",
@@ -2015,7 +2015,7 @@ window.crawledData = [
   },
   {
     "id": "20429827",
-    "title": "信義區55坪大五房｜雙主臥三衛浴｜換屋/三代同堂",
+    "title": "信義區大五房｜雙主臥三衛浴｜單層大空間",
     "price": 4380.0,
     "unit_price": "79.33萬/坪",
     "area": 55.21,
@@ -2029,8 +2029,8 @@ window.crawledData = [
     "photo": "https://img2.591.com.tw/house/2026/04/21/177677641137228106.jpg!400x300.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20429827.html",
     "posttime": 1782122291,
-    "refreshtime": "9分鐘前",
-    "last_seen": 1784998736
+    "refreshtime": "6小時前",
+    "last_seen": 1785362677
   },
   {
     "id": "20496953",
@@ -2368,11 +2368,11 @@ window.crawledData = [
     "type": "公寓",
     "age": 51,
     "address": "景華街169巷",
-    "photo": "https://img2.591.com.tw/video/cover/2026-07-16/3168064.png!1000x.water2.png",
+    "photo": "https://img1.591.com.tw/video/cover/2026-07-16/3168064.png!1000x.water2.png",
     "url": "https://sale.591.com.tw/home/house/detail/2/20451756.html",
     "posttime": 1782464675,
-    "refreshtime": "26分鐘前",
-    "last_seen": 1785345359
+    "refreshtime": "6小時前",
+    "last_seen": 1785362659
   },
   {
     "id": "20306280",
@@ -2501,11 +2501,11 @@ window.crawledData = [
     "type": "電梯大樓",
     "age": 32,
     "address": "民權東路六段280巷",
-    "photo": "https://img1.591.com.tw/house/2026/06/26/178244953367574904.png!400x300.png",
+    "photo": "https://img2.591.com.tw/house/2026/06/26/178244953367574904.png!400x300.png",
     "url": "https://sale.591.com.tw/home/house/detail/2/20412147.html",
     "posttime": 1781778287,
-    "refreshtime": "21分鐘前",
-    "last_seen": 1785345346
+    "refreshtime": "6小時前",
+    "last_seen": 1785362685
   },
   {
     "id": "20503200",
@@ -3055,8 +3055,8 @@ window.crawledData = [
     "photo": "https://img2.591.com.tw/house/2025/07/23/175326269905597001.jpg!400x300.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20595983.html",
     "posttime": 1784698986,
-    "refreshtime": "4小時前",
-    "last_seen": 1785358614
+    "refreshtime": "20分鐘前",
+    "last_seen": 1785362659
   },
   {
     "id": "20483614",
@@ -3208,7 +3208,7 @@ window.crawledData = [
     "url": "https://sale.591.com.tw/home/house/detail/2/11269.html",
     "posttime": null,
     "refreshtime": null,
-    "last_seen": 1785358653
+    "last_seen": 1785362707
   },
   {
     "id": "20292866",
@@ -4461,8 +4461,8 @@ window.crawledData = [
     "photo": "https://img2.591.com.tw/house/2026/07/07/178340257031348208.png!400x300.png",
     "url": "https://sale.591.com.tw/home/house/detail/2/20377079.html",
     "posttime": 1781244255,
-    "refreshtime": "2小時前",
-    "last_seen": 1785352681
+    "refreshtime": "5小時前",
+    "last_seen": 1785362663
   },
   {
     "id": "20562083",
@@ -5487,8 +5487,8 @@ window.crawledData = [
     "photo": "https://img1.591.com.tw/house/2026/04/11/177590086895778907.png!400x300.png",
     "url": "https://sale.591.com.tw/home/house/detail/2/20473395.html",
     "posttime": 1782867448,
-    "refreshtime": "19分鐘前",
-    "last_seen": 1784986110
+    "refreshtime": "55分鐘前",
+    "last_seen": 1785362659
   },
   {
     "id": "20431038",
@@ -7597,7 +7597,7 @@ window.crawledData = [
     "url": "https://sale.591.com.tw/home/house/detail/2/29663.html",
     "posttime": null,
     "refreshtime": null,
-    "last_seen": 1785358653
+    "last_seen": 1785362707
   },
   {
     "id": "20436174",
@@ -8204,8 +8204,8 @@ window.crawledData = [
     "photo": "https://img1.591.com.tw/video/cover/2025-07-08/2375858.png!1000x.water2.png",
     "url": "https://sale.591.com.tw/home/house/detail/2/20618099.html",
     "posttime": 1785036460,
-    "refreshtime": "4小時前",
-    "last_seen": 1785358614
+    "refreshtime": "5小時前",
+    "last_seen": 1785362677
   },
   {
     "id": "20575785",
@@ -9572,8 +9572,8 @@ window.crawledData = [
     "photo": "https://img1.591.com.tw/house/2026/06/06/178073975821692709.jpg!fit.1000x.water2.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20342190.html",
     "posttime": 1780740395,
-    "refreshtime": "5小時前",
-    "last_seen": 1785358635
+    "refreshtime": "6小時前",
+    "last_seen": 1785362677
   },
   {
     "id": "19976539",
@@ -10709,11 +10709,11 @@ window.crawledData = [
     "type": "公寓",
     "age": 47,
     "address": "龍江路328巷",
-    "photo": "https://img1.591.com.tw/video/cover/2024-09-16/1518099.png!1000x.water2.png",
+    "photo": "https://img2.591.com.tw/video/cover/2024-09-16/1518099.png!1000x.water2.png",
     "url": "https://sale.591.com.tw/home/house/detail/2/20553743.html",
     "posttime": 1784082999,
-    "refreshtime": "46分鐘前",
-    "last_seen": 1785345353
+    "refreshtime": "6小時前",
+    "last_seen": 1785362685
   },
   {
     "id": "20313898",
@@ -10766,11 +10766,11 @@ window.crawledData = [
     "type": "電梯大樓",
     "age": 2,
     "address": "太原路",
-    "photo": "https://img2.591.com.tw/house/2026/06/13/178134919739923001.jpg!fit.1000x.water2.jpg",
+    "photo": "https://img1.591.com.tw/house/2026/06/13/178134919739923001.jpg!fit.1000x.water2.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20385052.html",
     "posttime": 1781349213,
-    "refreshtime": "26分鐘前",
-    "last_seen": 1785345365
+    "refreshtime": "6小時前",
+    "last_seen": 1785362672
   },
   {
     "id": "20419663",
@@ -10845,8 +10845,8 @@ window.crawledData = [
     "photo": "https://img.youtube.com/vi/Y5Reita2QNU/hqdefault.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20332845.html",
     "posttime": 1780631136,
-    "refreshtime": "4小時前",
-    "last_seen": 1785358619
+    "refreshtime": "6小時前",
+    "last_seen": 1785362672
   },
   {
     "id": "20530919",
@@ -10883,8 +10883,8 @@ window.crawledData = [
     "photo": "https://img.youtube.com/vi/xOi2pNmTNWQ/hqdefault.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20628144.html",
     "posttime": 1785174126,
-    "refreshtime": "2小時前",
-    "last_seen": 1785352665
+    "refreshtime": "20分鐘前",
+    "last_seen": 1785362677
   },
   {
     "id": "20190521",
@@ -10975,11 +10975,11 @@ window.crawledData = [
     "type": "電梯大樓",
     "age": 8,
     "address": "重慶北路四段",
-    "photo": "https://img2.591.com.tw/house/2026/03/13/177336739535469809.png!400x300.png",
+    "photo": "https://img1.591.com.tw/house/2026/03/13/177336739535469809.png!400x300.png",
     "url": "https://sale.591.com.tw/home/house/detail/2/20462658.html",
     "posttime": 1782704874,
-    "refreshtime": "5小時前",
-    "last_seen": 1785358635
+    "refreshtime": "6小時前",
+    "last_seen": 1785362677
   },
   {
     "id": "20392302",
@@ -11037,5 +11037,81 @@ window.crawledData = [
     "posttime": 1785353123,
     "refreshtime": "2小時前",
     "last_seen": 1785358635
+  },
+  {
+    "id": "20151907",
+    "title": "近市府捷運大壹樓門戶獨立",
+    "price": 4850.0,
+    "unit_price": "102.84萬/坪",
+    "area": 47.16,
+    "room": "4房2廳2衛",
+    "region": "台北市",
+    "section": "信義區",
+    "community": "好萊華廈",
+    "type": "電梯大樓",
+    "age": 41,
+    "address": "松隆路",
+    "photo": "https://img1.591.com.tw/house/2025/10/13/176034009473932902.jpg!400x300.jpg",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20151907.html",
+    "posttime": 1778120183,
+    "refreshtime": "4小時前",
+    "last_seen": 1785362659
+  },
+  {
+    "id": "20639302",
+    "title": "住商阿BEN★面101高樓綠意景觀三房車位賞屋合意協助您談價",
+    "price": 3560.0,
+    "unit_price": "63.33萬/坪",
+    "area": 59.21,
+    "room": "3房2廳2衛",
+    "region": "台北市",
+    "section": "信義區",
+    "community": "棉花田",
+    "type": "電梯大樓",
+    "age": 29,
+    "address": "信義路五段150巷",
+    "photo": "https://img1.591.com.tw/video/cover/2026-07-30/3185235.png!1000x.water2.png",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20639302.html",
+    "posttime": 1785356527,
+    "refreshtime": "2小時前",
+    "last_seen": 1785362663
+  },
+  {
+    "id": "20634037",
+    "title": "👑我是承辦！最大直｜大陸工程‧次高樓精美三房雙車豪邸",
+    "price": 9500.0,
+    "unit_price": "166.6萬/坪",
+    "area": 72.32,
+    "room": "3房2廳2衛",
+    "region": "台北市",
+    "section": "中山區",
+    "community": "最大直",
+    "type": "電梯大樓",
+    "age": 1,
+    "address": "明水路",
+    "photo": "https://img1.591.com.tw/house/2026/07/29/178528795937535303.jpg!fit.1000x.water2.jpg",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20634037.html",
+    "posttime": 1785287993,
+    "refreshtime": "6小時前",
+    "last_seen": 1785362663
+  },
+  {
+    "id": "20483647",
+    "title": "朗居偉弘💎【城中京湛】雙捷運、福星雙語學區、全室開窗高兩房",
+    "price": 2780.0,
+    "unit_price": "107.5萬/坪",
+    "area": 25.86,
+    "room": "2房2廳1衛",
+    "region": "台北市",
+    "section": "萬華區",
+    "community": "城中京湛",
+    "type": "電梯大樓",
+    "age": 7,
+    "address": "開封街二段",
+    "photo": "https://img2.591.com.tw/house/2026/06/04/178055882270950407.png!400x300.png",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20483647.html",
+    "posttime": 1782985426,
+    "refreshtime": "6小時前",
+    "last_seen": 1785362672
   }
 ];
