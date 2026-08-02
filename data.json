@@ -2295,8 +2295,8 @@
     "photo": "https://img.youtube.com/vi/9CLWl_LWTSA/hqdefault.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20536588.html",
     "posttime": 1783849951,
-    "refreshtime": "3小時前",
-    "last_seen": 1785701471
+    "refreshtime": "6小時前",
+    "last_seen": 1785711593
   },
   {
     "id": "20494266",
@@ -2330,11 +2330,11 @@
     "type": "電梯大樓",
     "age": 26,
     "address": "泉源路",
-    "photo": "https://img2.591.com.tw/house/2026/07/07/178340257031348208.png!400x300.png",
+    "photo": "https://img1.591.com.tw/house/2026/07/07/178340257031348208.png!400x300.png",
     "url": "https://sale.591.com.tw/home/house/detail/2/20377079.html",
     "posttime": 1781244255,
-    "refreshtime": "5小時前",
-    "last_seen": 1785621439
+    "refreshtime": "6小時前",
+    "last_seen": 1785711589
   },
   {
     "id": "19941068",
@@ -3853,8 +3853,8 @@
     "photo": "https://img2.591.com.tw/house/2026/06/09/178099000697873901.jpg!400x300.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20359061.html",
     "posttime": 1780990098,
-    "refreshtime": "9分鐘前",
-    "last_seen": 1785449292
+    "refreshtime": "60分鐘前",
+    "last_seen": 1785711593
   },
   {
     "id": "20618099",
@@ -4667,11 +4667,11 @@
     "type": "電梯大樓",
     "age": 27,
     "address": "瑞光路",
-    "photo": "https://img1.591.com.tw/house/2026/05/27/177987228288930305.jpg!400x300.jpg",
+    "photo": "https://img2.591.com.tw/house/2026/05/27/177987228288930305.jpg!400x300.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20625837.html",
     "posttime": 1785141936,
-    "refreshtime": "5小時前",
-    "last_seen": 1785707829
+    "refreshtime": "6小時前",
+    "last_seen": 1785711593
   },
   {
     "id": "20489819",
@@ -4743,11 +4743,11 @@
     "type": "公寓",
     "age": 53,
     "address": "華齡街",
-    "photo": "https://img2.591.com.tw/house/2026/06/15/178151386835052209.png!400x300.png",
+    "photo": "https://img1.591.com.tw/house/2026/06/15/178151386835052209.png!400x300.png",
     "url": "https://sale.591.com.tw/home/house/detail/2/20394459.html",
     "posttime": 1781514144,
-    "refreshtime": "6小時前",
-    "last_seen": 1785707820
+    "refreshtime": "7小時前",
+    "last_seen": 1785711589
   },
   {
     "id": "20349531",
@@ -7517,11 +7517,11 @@
     "type": "電梯大樓",
     "age": 19,
     "address": "南京西路",
-    "photo": "https://img1.591.com.tw/house/2026/05/09/177833267406911305.jpg!400x300.jpg",
+    "photo": "https://img2.591.com.tw/house/2026/05/09/177833267406911305.jpg!400x300.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20630602.html",
     "posttime": 1785218751,
-    "refreshtime": "5小時前",
-    "last_seen": 1785707825
+    "refreshtime": "6小時前",
+    "last_seen": 1785711589
   },
   {
     "id": "20386279",
@@ -10348,11 +10348,11 @@
     "type": "電梯大樓",
     "age": 25,
     "address": "南京西路",
-    "photo": "https://img1.591.com.tw/house/2026/07/31/178546743157069405.jpg!400x300.jpg",
+    "photo": "https://img2.591.com.tw/house/2026/07/31/178546743157069405.jpg!400x300.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20645744.html",
     "posttime": 1785467116,
-    "refreshtime": "4小時前",
-    "last_seen": 1785701471
+    "refreshtime": "6小時前",
+    "last_seen": 1785711589
   },
   {
     "id": "20382970",
@@ -10581,5 +10581,43 @@
     "posttime": 1780973618,
     "refreshtime": "6小時前",
     "last_seen": 1785707835
+  },
+  {
+    "id": "20344544",
+    "title": "【寬悅團隊振維成家】行善特區．挑高綠境~五米大空間二室",
+    "price": 2288.0,
+    "unit_price": "127.22萬/坪",
+    "area": 20.75,
+    "room": "2房2廳2衛",
+    "region": "台北市",
+    "section": "內湖區",
+    "community": "南京much",
+    "type": "電梯大樓",
+    "age": 22,
+    "address": "舊宗路一段",
+    "photo": "https://img1.591.com.tw/house/2026/02/05/177028496957380005.png!400x300.png",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20344544.html",
+    "posttime": 1780804914,
+    "refreshtime": "20分鐘前",
+    "last_seen": 1785711593
+  },
+  {
+    "id": "20300930",
+    "title": "新北投三總旁山景三房附車位",
+    "price": 2980.0,
+    "unit_price": "59.47萬/坪",
+    "area": 52.3,
+    "room": "3房2廳2衛",
+    "region": "台北市",
+    "section": "北投區",
+    "community": "八勝 居",
+    "type": "電梯大樓",
+    "age": 12,
+    "address": "新民路",
+    "photo": "https://img2.591.com.tw/house/2025/10/14/176044165571098302.jpg!400x300.jpg",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20300930.html",
+    "posttime": 1780142159,
+    "refreshtime": "30分鐘前",
+    "last_seen": 1785711593
   }
 ]
