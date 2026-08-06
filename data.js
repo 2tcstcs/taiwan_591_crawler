@@ -1368,25 +1368,6 @@ window.crawledData = [
     "last_seen": 1785471757
   },
   {
-    "id": "20322320",
-    "title": "💖最美透天別墅綠大地💖雙坡平車位💖捷運僅約550M",
-    "price": 5980.0,
-    "unit_price": "50.94萬/坪",
-    "area": 117.39,
-    "room": "5房3廳4衛",
-    "region": "台北市",
-    "section": "內湖區",
-    "community": "綠大地",
-    "type": "透天厝",
-    "age": 40,
-    "address": "成功路四段294巷",
-    "photo": "https://img1.591.com.tw/house/2026/06/17/178166454934565005.jpg!400x300.jpg",
-    "url": "https://sale.591.com.tw/home/house/detail/2/20322320.html",
-    "posttime": 1780471597,
-    "refreshtime": "14分鐘前",
-    "last_seen": 1785420228
-  },
-  {
     "id": "20381513",
     "title": "🔥內湖文德路黃金店面｜面寬庭院稀有釋出｜自用收租雙賺🔥",
     "price": 6850.0,
@@ -1860,25 +1841,6 @@ window.crawledData = [
     "posttime": 1776955102,
     "refreshtime": "31分鐘前",
     "last_seen": 1785926151
-  },
-  {
-    "id": "20420571",
-    "title": "🚂萬大獨棟電梯大戶🚂【萬華火車站+捷運】住商邱子洋",
-    "price": 3588.0,
-    "unit_price": "62.82萬/坪",
-    "area": 57.12,
-    "room": "4房2廳2衛",
-    "region": "台北市",
-    "section": "萬華區",
-    "community": "萬華車站華廈",
-    "type": "電梯大樓",
-    "age": 42,
-    "address": "萬大路",
-    "photo": "https://img1.591.com.tw/house/2026/07/20/178454476168330001.jpg!fit.1000x.water2.jpg",
-    "url": "https://sale.591.com.tw/home/house/detail/2/20420571.html",
-    "posttime": 1781954148,
-    "refreshtime": "14分鐘前",
-    "last_seen": 1785420228
   },
   {
     "id": "20520630",
