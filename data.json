@@ -5066,11 +5066,11 @@
     "type": "電梯大樓",
     "age": 2,
     "address": "中山北路五段",
-    "photo": "https://img2.591.com.tw/house/2026/06/26/178247267358962505.png!400x300.png",
+    "photo": "https://img1.591.com.tw/house/2026/06/26/178247267358962505.png!400x300.png",
     "url": "https://sale.591.com.tw/home/house/detail/2/20452689.html",
     "posttime": 1782472799,
-    "refreshtime": "24分鐘前",
-    "last_seen": 1785842637
+    "refreshtime": "30分鐘前",
+    "last_seen": 1786188548
   },
   {
     "id": "20387387",
@@ -6738,11 +6738,11 @@
     "type": "公寓",
     "age": 52,
     "address": "承德路七段",
-    "photo": "https://img1.591.com.tw/house/2025/09/26/175886866660601303.jpg!400x300.jpg",
+    "photo": "https://img2.591.com.tw/house/2025/09/26/175886866660601303.jpg!400x300.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20425940.html",
     "posttime": 1782098286,
-    "refreshtime": "20分鐘前",
-    "last_seen": 1785915575
+    "refreshtime": "10分鐘前",
+    "last_seen": 1786188548
   },
   {
     "id": "20493803",
@@ -9496,8 +9496,8 @@
     "photo": "https://img1.591.com.tw/house/2026/06/21/178202517157511401.jpg!400x300.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20423004.html",
     "posttime": 1782025420,
-    "refreshtime": "5小時前",
-    "last_seen": 1786138777
+    "refreshtime": "20分鐘前",
+    "last_seen": 1786188548
   },
   {
     "id": "20105275",
@@ -10980,5 +10980,43 @@
     "posttime": 1783335778,
     "refreshtime": "5分鐘前",
     "last_seen": 1786185273
+  },
+  {
+    "id": "20421972",
+    "title": "大搶手👍大降價！大安森林富比世家設籍新生金華學區獨戶豪邸",
+    "price": 6580.0,
+    "unit_price": "115.48萬/坪",
+    "area": 56.98,
+    "room": "3房2廳2衛",
+    "region": "台北市",
+    "section": "大安區",
+    "community": "富比世家",
+    "type": "電梯大樓",
+    "age": 36,
+    "address": "潮州街",
+    "photo": "https://img1.591.com.tw/house/2026/06/21/178201220103813906.jpg!400x300.jpg",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20421972.html",
+    "posttime": 1782012402,
+    "refreshtime": "20分鐘前",
+    "last_seen": 1786188548
+  },
+  {
+    "id": "20652750",
+    "title": "🏆潘安推薦🏆低總價無障礙一樓三房退休宅",
+    "price": 1750.0,
+    "unit_price": "53.44萬/坪",
+    "area": 32.75,
+    "room": "3房2廳1衛",
+    "region": "台北市",
+    "section": "北投區",
+    "community": "",
+    "type": "公寓",
+    "age": 47,
+    "address": "中和街474巷",
+    "photo": "https://img1.591.com.tw/house/2025/05/01/174606907938244507.jpg!400x300.jpg",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20652750.html",
+    "posttime": 1785554450,
+    "refreshtime": "20分鐘前",
+    "last_seen": 1786188548
   }
 ]
