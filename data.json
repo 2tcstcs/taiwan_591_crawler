@@ -1399,11 +1399,11 @@
     "type": "公寓",
     "age": 46,
     "address": "民權東路五段",
-    "photo": "https://img2.591.com.tw/house/2026/07/06/178334378361299507.jpg!400x300.jpg",
+    "photo": "https://img1.591.com.tw/house/2026/07/06/178334378361299507.jpg!400x300.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20507462.html",
     "posttime": 1783343745,
-    "refreshtime": "13分鐘前",
-    "last_seen": 1786240049
+    "refreshtime": "23分鐘前",
+    "last_seen": 1786258646
   },
   {
     "id": "20466106",
@@ -1817,11 +1817,11 @@
     "type": "公寓",
     "age": 45,
     "address": "德行東路109巷",
-    "photo": "https://img1.591.com.tw/house/2026/03/11/177319736355186606.jpg!400x300.jpg",
+    "photo": "https://img2.591.com.tw/house/2026/03/11/177319736355186606.jpg!400x300.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20547022.html",
     "posttime": 1783997248,
-    "refreshtime": "4小時前",
-    "last_seen": 1786135297
+    "refreshtime": "13分鐘前",
+    "last_seen": 1786258646
   },
   {
     "id": "20609200",
@@ -7194,11 +7194,11 @@
     "type": "電梯大樓",
     "age": 44,
     "address": "仁愛路四段",
-    "photo": "https://img1.591.com.tw/house/2026/06/26/178247515292149401.jpg!1000x.water2.jpg",
+    "photo": "https://img2.591.com.tw/house/2026/06/26/178247515292149401.jpg!1000x.water2.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20452903.html",
     "posttime": 1782475369,
-    "refreshtime": "58分鐘前",
-    "last_seen": 1786125141
+    "refreshtime": "8分鐘前",
+    "last_seen": 1786258646
   },
   {
     "id": "20677370",
@@ -11303,5 +11303,43 @@
     "posttime": 1776534237,
     "refreshtime": "1分鐘前",
     "last_seen": 1786251947
+  },
+  {
+    "id": "20682590",
+    "title": "【圓璽不動產】仁愛圓環林蔭帷幕純辦",
+    "price": 14600.0,
+    "unit_price": "131.49萬/坪",
+    "area": 122.24,
+    "room": "",
+    "region": "台北市",
+    "section": "大安區",
+    "community": "環球企業大樓",
+    "type": "華廈",
+    "age": 41,
+    "address": "仁愛路四段",
+    "photo": "https://img1.591.com.tw/house/2026/08/06/178598624595431900.jpg!400x300.jpg",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20682590.html",
+    "posttime": 1785986634,
+    "refreshtime": "23分鐘前",
+    "last_seen": 1786258646
+  },
+  {
+    "id": "20406058",
+    "title": "☘️信義香榭高樓101景觀二房車☘️拎包入住☘️象山捷運☘️",
+    "price": 3328.0,
+    "unit_price": "115.13萬/坪",
+    "area": 36.19,
+    "room": "2房1廳1衛",
+    "region": "台北市",
+    "section": "信義區",
+    "community": "信義香榭",
+    "type": "電梯大樓",
+    "age": 19,
+    "address": "信義路五段",
+    "photo": "https://img1.591.com.tw/house/2026/04/15/177623655048843303.jpg!400x300.jpg",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20406058.html",
+    "posttime": 1781686407,
+    "refreshtime": "33分鐘前",
+    "last_seen": 1786258646
   }
 ]
