@@ -2713,8 +2713,8 @@ window.crawledData = [
     "photo": "https://img1.591.com.tw/house/2026/06/18/178176484230569607.jpg!400x300.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20410176.html",
     "posttime": 1781764880,
-    "refreshtime": "15分鐘前",
-    "last_seen": 1786206856
+    "refreshtime": "6分鐘前",
+    "last_seen": 1786293355
   },
   {
     "id": "20464265",
@@ -5962,8 +5962,8 @@ window.crawledData = [
     "photo": "https://img1.591.com.tw/house/2026/07/28/178521608173782900.jpg!400x300.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20534669.html",
     "posttime": 1783916359,
-    "refreshtime": "5小時前",
-    "last_seen": 1786138768
+    "refreshtime": "11分鐘前",
+    "last_seen": 1786293355
   },
   {
     "id": "20522581",
@@ -9664,11 +9664,11 @@ window.crawledData = [
     "type": "電梯大樓",
     "age": 22,
     "address": "和平東路三段",
-    "photo": "https://img2.591.com.tw/video/cover/2026-06-26/3142243.png!1000x.water2.png",
+    "photo": "https://img1.591.com.tw/video/cover/2026-06-26/3142243.png!1000x.water2.png",
     "url": "https://sale.591.com.tw/home/house/detail/2/20644723.html",
     "posttime": 1785447565,
-    "refreshtime": "7分鐘前",
-    "last_seen": 1786196769
+    "refreshtime": "16分鐘前",
+    "last_seen": 1786293355
   },
   {
     "id": "20368065",
@@ -9838,8 +9838,8 @@ window.crawledData = [
     "photo": "https://img1.591.com.tw/house/2026/03/06/177277474483880406.jpg!400x300.jpg",
     "url": "https://sale.591.com.tw/home/house/detail/2/20589149.html",
     "posttime": 1784612081,
-    "refreshtime": "7分鐘前",
-    "last_seen": 1786196791
+    "refreshtime": "1分鐘前",
+    "last_seen": 1786293355
   },
   {
     "id": "20664385",
@@ -11664,5 +11664,24 @@ window.crawledData = [
     "posttime": 1781511653,
     "refreshtime": "15分鐘前",
     "last_seen": 1786286104
+  },
+  {
+    "id": "20095272",
+    "title": "南港・國際新東區核心｜聯勤四季紅-LaLaP爵品3房◎LEO",
+    "price": 5128.0,
+    "unit_price": "120.83萬/坪",
+    "area": 50.62,
+    "room": "3房2廳2衛",
+    "region": "台北市",
+    "section": "南港區",
+    "community": "聯勤四季紅",
+    "type": "電梯大樓",
+    "age": 15,
+    "address": "園區街",
+    "photo": "https://img.youtube.com/vi/m6SPmYEwKLc/hqdefault.jpg",
+    "url": "https://sale.591.com.tw/home/house/detail/2/20095272.html",
+    "posttime": 1777179287,
+    "refreshtime": "16分鐘前",
+    "last_seen": 1786293355
   }
 ];
