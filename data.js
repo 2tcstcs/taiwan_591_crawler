@@ -2755,25 +2755,6 @@ window.crawledData = [
     "last_seen": 1786185263
   },
   {
-    "id": "20223209",
-    "title": "專任~🌺北投質感整棟透天~前庭可停車🌺",
-    "price": 2400.0,
-    "unit_price": "101.31萬/坪",
-    "area": 23.69,
-    "room": "4房3廳3衛",
-    "region": "台北市",
-    "section": "北投區",
-    "community": "",
-    "type": "透天厝",
-    "age": 51,
-    "address": "中和街525巷",
-    "photo": "https://img2.591.com.tw/house/2026/03/18/177384046551196004.jpg!400x300.jpg",
-    "url": "https://sale.591.com.tw/home/house/detail/2/20223209.html",
-    "posttime": 1779069259,
-    "refreshtime": "3小時前",
-    "last_seen": 1785785932
-  },
-  {
     "id": "20446026",
     "title": "潘安推薦⭐北投靜巷大庭院百坪土地透天宅",
     "price": 9988.0,
@@ -2867,25 +2848,6 @@ window.crawledData = [
     "posttime": 1783690616,
     "refreshtime": "1分鐘前",
     "last_seen": 1786251947
-  },
-  {
-    "id": "20579752",
-    "title": "白天管理｜捷運南京三民｜電梯3+1房｜車位可租誠可談",
-    "price": 2900.0,
-    "unit_price": "79.96萬/坪",
-    "area": 36.27,
-    "room": "4房2廳2衛",
-    "region": "台北市",
-    "section": "松山區",
-    "community": "",
-    "type": "電梯大樓",
-    "age": 46,
-    "address": "南京東路五段",
-    "photo": "https://img1.591.com.tw/house/2026/07/19/178446432531146403.jpg!1000x.water2.jpg",
-    "url": "https://sale.591.com.tw/home/house/detail/2/20579752.html",
-    "posttime": 1784465139,
-    "refreshtime": "3小時前",
-    "last_seen": 1785785932
   },
   {
     "id": "20200683",
@@ -3000,25 +2962,6 @@ window.crawledData = [
     "posttime": 1785467116,
     "refreshtime": "35分鐘前",
     "last_seen": 1786172052
-  },
-  {
-    "id": "20458804",
-    "title": "雙湖匯高樓景觀3房2廳2衛+車位",
-    "price": 7880.0,
-    "unit_price": "119.75萬/坪",
-    "area": 72.1,
-    "room": "3房2廳2衛",
-    "region": "台北市",
-    "section": "內湖區",
-    "community": "双湖滙",
-    "type": "電梯大樓",
-    "age": 6,
-    "address": "成功路四段",
-    "photo": "https://img1.591.com.tw/house/2026/08/03/178576376206702708.jpg!400x300.jpg",
-    "url": "https://sale.591.com.tw/home/house/detail/2/20458804.html",
-    "posttime": 1782624211,
-    "refreshtime": "4小時前",
-    "last_seen": 1785785921
   },
   {
     "id": "20536774",
