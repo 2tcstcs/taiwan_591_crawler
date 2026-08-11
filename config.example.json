@@ -1,0 +1,19 @@
+{
+  "line_channel_access_token": "YOUR_CHANNEL_ACCESS_TOKEN_HERE",
+  "line_user_id": "YOUR_USER_ID_HERE",
+  "notification_rules": {
+    "purpose": "rent",
+    "price_min": 10000,
+    "price_max": 30000,
+    "region": "台北市",
+    "sections": [
+      "大安區",
+      "信義區"
+    ],
+    "types": [
+      "電梯大樓",
+      "公寓"
+    ],
+    "rooms": []
+  }
+}

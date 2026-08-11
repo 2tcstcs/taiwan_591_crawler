@@ -3,14 +3,18 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>台灣 591 房屋交易篩選儀表板</title>
+  <meta name="robots" content="noindex, nofollow">
+  <title>雙北中古屋交易數據觀測站</title>
   <!-- Google Fonts: Inter & Outfit -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <!-- FontAwesome for Icons -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-  <link rel="stylesheet" href="index.css">
+  <link rel="stylesheet" href="index.css?v=2">
+  <!-- Leaflet CSS & JS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 </head>
 <body>
   <div class="app-container">
@@ -20,14 +24,17 @@
         <div class="logo-area">
           <div class="logo-icon"><i class="fa-solid fa-house-chimney-crack"></i></div>
           <div>
-            <h1>591 售屋觀測站</h1>
-            <p class="subtitle">台灣中古屋交易數據篩選儀表板</p>
+            <h1>中古屋交易觀測站</h1>
+            <p class="subtitle">整合各大房產平台中古屋數據</p>
           </div>
         </div>
         <div class="header-actions">
           <button id="theme-toggle" class="theme-btn" aria-label="切換主題">
             <i class="fa-solid fa-moon dark-icon"></i>
             <i class="fa-solid fa-sun light-icon"></i>
+          </button>
+          <button id="config-btn" class="config-btn">
+            <i class="fa-solid fa-bell"></i> LINE 通知設定
           </button>
           <button id="refresh-btn" class="refresh-btn">
             <i class="fa-solid fa-rotate"></i> 重新載入
@@ -48,21 +55,21 @@
       <div class="stat-card" id="stat-avg-price">
         <div class="stat-icon"><i class="fa-solid fa-money-bill-wave"></i></div>
         <div class="stat-info">
-          <span class="stat-label">平均總價 (萬)</span>
+          <span class="stat-label" id="stat-label-avg-price">平均總價 (萬)</span>
           <span class="stat-value">--</span>
         </div>
       </div>
       <div class="stat-card" id="stat-avg-unit">
         <div class="stat-icon"><i class="fa-solid fa-chart-area"></i></div>
         <div class="stat-info">
-          <span class="stat-label">平均單價 (萬/坪)</span>
+          <span class="stat-label" id="stat-label-avg-unit">平均單價 (萬/坪)</span>
           <span class="stat-value">--</span>
         </div>
       </div>
       <div class="stat-card" id="stat-cheapest">
         <div class="stat-icon"><i class="fa-solid fa-tags"></i></div>
         <div class="stat-info">
-          <span class="stat-label">最低門檻總價</span>
+          <span class="stat-label" id="stat-label-cheapest">最低門檻總價</span>
           <span class="stat-value">--</span>
         </div>
       </div>
@@ -92,6 +99,24 @@
           </div>
         </div>
 
+        <div class="filter-group">
+          <label>交易類型</label>
+          <div class="purpose-group" id="filter-purpose-group">
+            <button class="purpose-btn active" data-purpose="sale"><i class="fa-solid fa-house-circle-check"></i> 中古屋</button>
+            <button class="purpose-btn" data-purpose="rent"><i class="fa-solid fa-key"></i> 租屋</button>
+          </div>
+        </div>
+
+        <div class="filter-group">
+          <label>資料來源</label>
+          <div class="source-group" id="filter-source-group">
+            <button class="source-btn active" data-source="all">全部</button>
+            <button class="source-btn" data-source="591">線上平台</button>
+            <button class="source-btn" data-source="yungching">永慶房屋</button>
+            <button class="source-btn" data-source="sinyi">信義房屋</button>
+          </div>
+        </div>
+
         <div class="filter-row-2">
           <div class="filter-group">
             <label for="filter-region">縣市地區</label>
@@ -113,13 +138,13 @@
         </div>
 
         <div class="filter-group">
-          <label>總價範圍 (萬 TWD)</label>
+          <label id="price-label">總價範圍 (萬 TWD)</label>
           <div class="range-inputs">
             <input type="number" id="filter-price-min" placeholder="最低" min="0">
             <span class="range-split">至</span>
             <input type="number" id="filter-price-max" placeholder="最高" min="0">
           </div>
-          <div class="quick-tags">
+          <div class="quick-tags" id="price-quick-tags">
             <button class="quick-tag-btn" data-type="price" data-min="0" data-max="1000">1000萬以下</button>
             <button class="quick-tag-btn" data-type="price" data-min="1000" data-max="2000">1000-2000萬</button>
             <button class="quick-tag-btn" data-type="price" data-min="2000" data-max="3000">2000-3000萬</button>
@@ -186,6 +211,10 @@
           <div class="active-filters-chips" id="active-chips">
             <!-- Chips will be added dynamically -->
           </div>
+          <div class="view-toggle">
+            <button id="view-list-btn" class="toggle-btn active"><i class="fa-solid fa-table-cells-large"></i> 列表</button>
+            <button id="view-map-btn" class="toggle-btn"><i class="fa-solid fa-map-location-dot"></i> 地圖</button>
+          </div>
         </div>
 
         <div class="listings-grid" id="listings-grid">
@@ -196,6 +225,11 @@
           <div class="skeleton-card"></div>
           <div class="skeleton-card"></div>
           <div class="skeleton-card"></div>
+        </div>
+
+        <!-- Map Container -->
+        <div id="map-container" class="hidden">
+          <div id="map"></div>
         </div>
 
         <!-- Empty State -->
@@ -210,12 +244,69 @@
 
     <!-- Footer -->
     <footer class="app-footer">
-      <p>© 2026 591 售屋觀測站. 本專案僅供學術交流與學習練習使用，所有資料財產權歸 591 房屋交易網所有。</p>
+      <p>© 2026 台灣房屋交易觀測站. 本專案僅供學術交流與學習練習使用，所有資料財產權歸各原網站所有。</p>
       <p>Data synced: <span id="sync-time">Just now</span></p>
     </footer>
   </div>
 
+  <!-- LINE Configuration Modal -->
+  <div id="config-modal" class="modal hidden">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h2><i class="fa-solid fa-bell"></i> LINE 訂閱條件設定</h2>
+        <button id="close-modal-btn" class="close-btn">&times;</button>
+      </div>
+      <div class="modal-body">
+        <form id="config-form">
+          <div class="form-group">
+            <label for="cfg-purpose">交易類型</label>
+            <select id="cfg-purpose">
+              <option value="all">不限 (全部)</option>
+              <option value="sale">中古屋 (售屋)</option>
+              <option value="rent">租屋</option>
+            </select>
+          </div>
+
+          <div class="form-group">
+            <label>金額區間 (租屋以元/月，售屋以萬 TWD 計算)</label>
+            <div class="form-row-2">
+              <input type="number" id="cfg-price-min" placeholder="下限 (留空不限)">
+              <input type="number" id="cfg-price-max" placeholder="上限 (留空不限)">
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label for="cfg-region">縣市地區</label>
+            <select id="cfg-region">
+              <option value="台北市">台北市</option>
+              <option value="新北市">新北市</option>
+            </select>
+          </div>
+
+          <div class="form-group">
+            <label>訂閱行政區 (多選，以逗號分隔，留空不限。例如：大安區,信義區)</label>
+            <input type="text" id="cfg-sections" placeholder="例如：大安區,信義區">
+          </div>
+
+          <div class="form-group">
+            <label>房屋類型 (多選，以逗號分隔，留空不限。例如：電梯大樓,公寓)</label>
+            <input type="text" id="cfg-types" placeholder="例如：電梯大樓,公寓">
+          </div>
+
+          <div class="form-group">
+            <label>格局房數 (多選，以逗號分隔，留空不限。例如：2房,3房)</label>
+            <input type="text" id="cfg-rooms" placeholder="例如：2房,3房">
+          </div>
+
+          <div class="form-actions">
+            <button type="submit" class="primary-btn save-config-btn"><i class="fa-solid fa-save"></i> 儲存設定</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+
   <script src="data.js"></script>
-  <script src="app.js"></script>
+  <script src="app.js?v=2"></script>
 </body>
 </html>

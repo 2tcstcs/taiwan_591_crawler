@@ -1,0 +1,6 @@
+config.json
+temp_*
+__pycache__/
+node_modules/
+.DS_Store
+*.log
